@@ -1,7 +1,7 @@
 
 # Data Science Portfolio
 
-A collection of projects in data analysis, data visualization and machine learning, showcasing practical data-driven problem solving — from data preparation and exploration to modelling and communicating insights.
+A collection of projects in data analysis, data visualization and machine learning, showcasing practical data-driven problem solving - from data preparation and exploration to modelling and communicating insights.
 
 ## Projects
 
