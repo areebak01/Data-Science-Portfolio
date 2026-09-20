@@ -1,0 +1,2442 @@
+Company,CompanyLocation,Year,BeanOrigin,Continent,CocoaPercent,CocoaBin,IngredientCount,IngredientInitials,Rating
+5150,U.S.A.,2019,Tanzania,Africa,76.0,70-80%,3,"B,S,C",3.25
+5150,U.S.A.,2019,Dominican Republic,North America,76.0,70-80%,3,"B,S,C",3.5
+5150,U.S.A.,2019,Madagascar,Africa,76.0,70-80%,3,"B,S,C",3.75
+5150,U.S.A.,2021,Fiji,Oceania,68.0,60-70%,3,"B,S,C",3.0
+5150,U.S.A.,2021,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.0
+5150,U.S.A.,2021,Uganda,Africa,80.0,70-80%,3,"B,S,C",3.25
+5150,U.S.A.,2021,India,Asia,68.0,60-70%,3,"B,S,C",3.5
+A. Morin,France,2012,Bolivia,South America,70.0,60-70%,4,"B,S,C,L",3.5
+A. Morin,France,2012,Peru,South America,63.0,60-70%,4,"B,S,C,L",3.75
+A. Morin,France,2013,Panama,North America,70.0,60-70%,4,"B,S,C,L",2.75
+A. Morin,France,2013,Colombia,South America,70.0,60-70%,4,"B,S,C,L",2.75
+A. Morin,France,2013,Madagascar,Africa,70.0,60-70%,4,"B,S,C,L",3.0
+A. Morin,France,2013,Burma,Asia,70.0,60-70%,4,"B,S,C,L",3.0
+A. Morin,France,2013,Brazil,South America,70.0,60-70%,4,"B,S,C,L",3.25
+A. Morin,France,2013,Papua New Guinea,Oceania,70.0,60-70%,4,"B,S,C,L",3.25
+A. Morin,France,2013,Peru,South America,70.0,60-70%,4,"B,S,C,L",3.25
+A. Morin,France,2013,Peru,South America,70.0,60-70%,4,"B,S,C,L",3.5
+A. Morin,France,2013,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.75
+A. Morin,France,2013,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",4.0
+A. Morin,France,2013,Peru,South America,63.0,60-70%,3,"B,S,C",4.0
+A. Morin,France,2014,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",2.75
+A. Morin,France,2014,Cuba,North America,70.0,60-70%,4,"B,S,C,L",3.5
+A. Morin,France,2014,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.5
+A. Morin,France,2014,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.75
+A. Morin,France,2014,Peru,South America,70.0,60-70%,4,"B,S,C,L",4.0
+A. Morin,France,2015,Togo,Africa,70.0,60-70%,4,"B,S,C,L",2.75
+A. Morin,France,2015,Togo,Africa,70.0,60-70%,4,"B,S,C,L",3.0
+A. Morin,France,2015,Togo,Africa,70.0,60-70%,4,"B,S,C,L",3.5
+A. Morin,France,2015,Peru,South America,70.0,60-70%,4,"B,S,C,L",3.5
+A. Morin,France,2016,Sao Tome,Africa,63.0,60-70%,4,"B,S,C,L",3.75
+A. Morin,France,2018,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.5
+A. Morin,France,2018,Peru,South America,63.0,60-70%,4,"B,S,C,L",3.75
+A. Morin,France,2021,Mexico,North America,70.0,60-70%,4,"B,S,C,L",4.0
+Acalli,U.S.A.,2015,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Acalli,U.S.A.,2015,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Acalli,U.S.A.,2020,Mexico,North America,74.0,70-80%,2,"B,S",3.25
+Acalli,U.S.A.,2020,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,Oceania,60.0,50-60%,3,"B,S,C",2.75
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,Oceania,80.0,70-80%,3,"B,S,C",3.25
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,Oceania,88.0,80-90%,3,"B,S,C",3.5
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,Oceania,72.0,70-80%,3,"B,S,C",3.5
+Aelan,Vanuatu,2019,Vanuatu,Oceania,70.0,60-70%,2,"B,S",2.5
+Aelan,Vanuatu,2019,Vanuatu,Oceania,70.0,60-70%,2,"B,S",2.75
+Aelan,Vanuatu,2019,Vanuatu,Oceania,70.0,60-70%,2,"B,S",2.75
+Aelan,Vanuatu,2019,Vanuatu,Oceania,70.0,60-70%,2,"B,S",3.0
+Aequare (Gianduja),Ecuador,2009,Ecuador,South America,55.0,50-60%,4,"B,S,C,V",2.75
+Aequare (Gianduja),Ecuador,2009,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Ah Cacao,Mexico,2009,Mexico,North America,70.0,60-70%,3,"B,S,C",3.0
+Akesson's (Pralus),U.K.,2010,Madagascar,Africa,75.0,70-80%,4,"B,S,C,L",2.75
+Akesson's (Pralus),U.K.,2010,Brazil,South America,75.0,70-80%,4,"B,S,C,L",2.75
+Akesson's (Pralus),U.K.,2011,Indonesia,Asia,75.0,70-80%,4,"B,S,C,L",3.75
+Alain Ducasse,France,2013,Venezuela,South America,75.0,70-80%,5,"B,S,C,V,L",2.5
+Alain Ducasse,France,2013,Peru,South America,75.0,70-80%,5,"B,S,C,V,L",2.5
+Alain Ducasse,France,2014,Trinidad,North America,65.0,60-70%,6,"B,S,C,V,L,Sa",2.75
+Alain Ducasse,France,2014,Vietnam,Asia,75.0,70-80%,5,"B,S,C,V,Sa",2.75
+Alain Ducasse,France,2014,Madagascar,Africa,75.0,70-80%,5,"B,S,C,V,Sa",3.0
+Alain Ducasse,France,2017,Mexico,North America,75.0,70-80%,6,"B,S,C,V,L,Sa",3.5
+Alexandre,Netherlands,2017,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.5
+Alexandre,Netherlands,2017,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Alexandre,Netherlands,2017,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.5
+Alexandre,Netherlands,2017,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.5
+Altus aka Cao Artisan,U.S.A.,2013,Venezuela,South America,60.0,50-60%,4,"B,S,C,L",2.5
+Altus aka Cao Artisan,U.S.A.,2013,Dominican Republic,North America,60.0,50-60%,4,"B,S,C,L",3.0
+Altus aka Cao Artisan,U.S.A.,2013,Bolivia,South America,60.0,50-60%,4,"B,S,C,L",3.0
+Altus aka Cao Artisan,U.S.A.,2013,Bolivia,South America,80.0,70-80%,4,"B,S,C,L",3.25
+Altus aka Cao Artisan,U.S.A.,2013,Peru,South America,60.0,50-60%,4,"B,S,C,L",3.25
+Altus aka Cao Artisan,U.S.A.,2016,Bolivia,South America,60.0,50-60%,3,"B,S,C",2.5
+Altus aka Cao Artisan,U.S.A.,2016,Peru,South America,60.0,50-60%,3,"B,S,C",2.5
+Altus aka Cao Artisan,U.S.A.,2016,Nicaragua,North America,60.0,50-60%,3,"B,S,C",2.75
+Altus aka Cao Artisan,U.S.A.,2016,Ecuador,South America,60.0,50-60%,3,"B,S,C",2.75
+Altus aka Cao Artisan,U.S.A.,2016,Peru,South America,60.0,50-60%,3,"B,S,C",3.0
+Altus aka Cao Artisan,U.S.A.,2018,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.0
+Amano,U.S.A.,2007,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Amano,U.S.A.,2007,Madagascar,Africa,70.0,60-70%,4,"B,S,C,V",3.5
+Amano,U.S.A.,2007,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.75
+Amano,U.S.A.,2008,Indonesia,Asia,70.0,60-70%,4,"B,S,C,V",2.75
+Amano,U.S.A.,2009,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Amano,U.S.A.,2010,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Amano,U.S.A.,2010,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,V",3.75
+Amano,U.S.A.,2010,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",4.0
+Amano,U.S.A.,2011,Papua New Guinea,Oceania,70.0,60-70%,4,"B,S,C,V",4.0
+Amatller (Simon Coll),Spain,2009,Ecuador,South America,70.0,60-70%,2,"B,S",2.75
+Amatller (Simon Coll),Spain,2009,Ecuador,South America,85.0,80-90%,2,"B,S",2.75
+Amatller (Simon Coll),Spain,2009,Ghana,Africa,70.0,60-70%,2,"B,S",3.0
+Amatller (Simon Coll),Spain,2009,Ghana,Africa,85.0,80-90%,2,"B,S",3.0
+Amazona,Peru,2013,Peru,South America,72.0,70-80%,3,"B,S,C",3.25
+Amazona,Peru,2013,Peru,South America,73.0,70-80%,3,"B,S,C",3.5
+Ambrosia,Canada,2015,Belize,North America,64.0,60-70%,4,"B,S,C,L",3.0
+Ambrosia,Canada,2015,Madagascar,Africa,66.0,60-70%,2,"B,S",3.25
+Ambrosia,Canada,2015,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.25
+Ambrosia,Canada,2015,Papua New Guinea,Oceania,63.0,60-70%,2,"B,S",3.25
+Ambrosia,Canada,2015,Venezuela,South America,70.0,60-70%,2,"B,S",3.25
+Ambrosia,Canada,2015,Peru,South America,68.0,60-70%,2,"B,S",3.5
+Amedei,Italy,2006,Blend,Other,66.0,60-70%,4,"B,S,C,V",3.75
+Amedei,Italy,2007,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Amedei,Italy,2007,Jamaica,North America,70.0,60-70%,4,"B,S,C,V",3.0
+Amedei,Italy,2007,Grenada,North America,70.0,60-70%,4,"B,S,C,V",3.5
+Amedei,Italy,2007,Trinidad,North America,70.0,60-70%,4,"B,S,C,V",3.5
+Amedei,Italy,2007,Blend,Other,63.0,60-70%,4,"B,S,C,V",3.5
+Amedei,Italy,2007,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.75
+Amedei,Italy,2012,Peru,South America,70.0,60-70%,4,"B,S,C,V",3.75
+Amedei,Italy,2018,Madagascar,Africa,70.0,60-70%,4,"B,S,C,V",3.0
+Amedei,Italy,2018,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Amedei,Italy,2018,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Amedei,Italy,2018,Blend,Other,75.0,70-80%,4,"B,S,C,V",3.5
+Amedei,Italy,2019,Blend,Other,70.0,60-70%,3,"B,S,C",2.75
+AMMA,Brazil,2010,Brazil,South America,85.0,80-90%,4,"B,S,C,L",2.75
+AMMA,Brazil,2010,Brazil,South America,50.0,50-60%,4,"B,S,C,L",3.75
+AMMA,Brazil,2010,Brazil,South America,75.0,70-80%,4,"B,S,C,L",3.75
+AMMA,Brazil,2010,Brazil,South America,60.0,50-60%,4,"B,S,C,L",4.0
+AMMA,Brazil,2013,Brazil,South America,75.0,70-80%,4,"B,S,C,L",3.25
+Anahata,U.S.A.,2014,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.0
+Animas,U.S.A.,2016,Bolivia,South America,75.0,70-80%,2,"B,S",3.5
+Animas,U.S.A.,2021,Belize,North America,75.0,70-80%,2,"B,S",3.0
+Animas,U.S.A.,2021,Guatemala,North America,75.0,70-80%,2,"B,S",3.25
+Ara,France,2014,Mexico,North America,72.0,70-80%,3,"B,S,C",2.5
+Ara,France,2014,Ecuador,South America,75.0,70-80%,3,"B,S,C",2.75
+Ara,France,2014,Madagascar,Africa,75.0,70-80%,3,"B,S,C",3.0
+Ara,France,2014,Venezuela,South America,75.0,70-80%,3,"B,S,C",3.0
+Arete,U.S.A.,2015,Brazil,South America,75.0,70-80%,2,"B,S",2.75
+Arete,U.S.A.,2015,Guatemala,North America,70.0,60-70%,2,"B,S",3.25
+Arete,U.S.A.,2015,Brazil,South America,70.0,60-70%,2,"B,S",3.5
+Arete,U.S.A.,2015,Peru,South America,68.0,60-70%,2,"B,S",3.5
+Arete,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Arete,U.S.A.,2015,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.5
+Arete,U.S.A.,2015,Ecuador,South America,70.0,60-70%,2,"B,S",3.75
+Arete,U.S.A.,2015,Belize,North America,70.0,60-70%,2,"B,S",3.75
+Arete,U.S.A.,2015,Nicaragua,North America,70.0,60-70%,2,"B,S",4.0
+Arete,U.S.A.,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.25
+Arete,U.S.A.,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.25
+Arete,U.S.A.,2016,Fiji,Oceania,70.0,60-70%,2,"B,S",3.25
+Arete,U.S.A.,2016,Vietnam,Asia,73.0,70-80%,2,"B,S",3.25
+Arete,U.S.A.,2016,Trinidad,North America,70.0,60-70%,2,"B,S",3.5
+Arete,U.S.A.,2016,Vietnam,Asia,73.0,70-80%,3,"B,S,C",3.5
+Arete,U.S.A.,2016,Guatemala,North America,70.0,60-70%,2,"B,S",3.5
+Arete,U.S.A.,2016,Honduras,North America,70.0,60-70%,2,"B,S",3.5
+Arete,U.S.A.,2016,Tanzania,Africa,70.0,60-70%,2,"B,S",3.75
+Arete,U.S.A.,2016,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Arete,U.S.A.,2016,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.75
+Arete,U.S.A.,2016,Costa Rica,North America,70.0,60-70%,2,"B,S",4.0
+Arete,U.S.A.,2016,Peru,South America,70.0,60-70%,2,"B,S",4.0
+Arete,U.S.A.,2017,India,Asia,70.0,60-70%,2,"B,S",3.5
+Arete,U.S.A.,2017,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Arete,U.S.A.,2017,Vietnam,Asia,73.0,70-80%,3,"B,S,C",3.5
+Arete,U.S.A.,2017,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Arete,U.S.A.,2017,Bolivia,South America,70.0,60-70%,2,"B,S",4.0
+Arete,U.S.A.,2017,Haiti,North America,70.0,60-70%,2,"B,S",4.0
+Arete,U.S.A.,2018,Trinidad,North America,70.0,60-70%,2,"B,S",3.0
+Arete,U.S.A.,2018,Colombia,South America,70.0,60-70%,2,"B,S",4.0
+Arete,U.S.A.,2019,India,Asia,70.0,60-70%,3,"B,S,C",3.0
+Arete,U.S.A.,2019,India,Asia,70.0,60-70%,3,"B,S,C",3.25
+Argencove,Nicaragua,2018,Nicaragua,North America,70.0,60-70%,2,"B,S",3.0
+Argencove,Nicaragua,2018,Nicaragua,North America,70.0,60-70%,2,"B,S",3.25
+Argencove,Nicaragua,2018,Nicaragua,North America,70.0,60-70%,2,"B,S",3.5
+Argencove,Nicaragua,2018,Nicaragua,North America,70.0,60-70%,2,"B,S",3.5
+Artisan du Chocolat,U.K.,2008,Congo,Africa,72.0,70-80%,3,"B,S,C",3.75
+Artisan du Chocolat,U.K.,2009,Brazil,South America,72.0,70-80%,3,"B,S,C",1.75
+Artisan du Chocolat,U.K.,2009,Venezuela,South America,75.0,70-80%,3,"B,S,C",2.5
+Artisan du Chocolat,U.K.,2009,Indonesia,Asia,72.0,70-80%,3,"B,S,C",2.75
+Artisan du Chocolat,U.K.,2009,Madagascar,Africa,80.0,70-80%,3,"B,S,C",3.0
+Artisan du Chocolat,U.K.,2009,Peru,South America,75.0,70-80%,3,"B,S,C",3.0
+Artisan du Chocolat,U.K.,2009,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.25
+Artisan du Chocolat,U.K.,2010,Costa Rica,North America,72.0,70-80%,3,"B,S,C",3.25
+Artisan du Chocolat,U.K.,2010,Vietnam,Asia,72.0,70-80%,3,"B,S,C",3.25
+Artisan du Chocolat,U.K.,2010,Indonesia,Asia,72.0,70-80%,3,"B,S,C",3.5
+Artisan du Chocolat,U.K.,2010,Jamaica,North America,72.0,70-80%,3,"B,S,C",3.75
+Artisan du Chocolat,U.K.,2011,Panama,North America,72.0,70-80%,3,"B,S,C",2.75
+Artisan du Chocolat,U.K.,2011,Haiti,North America,72.0,70-80%,3,"B,S,C",4.0
+Artisan du Chocolat,U.K.,2012,Colombia,South America,72.0,70-80%,3,"B,S,C",3.75
+Artisan du Chocolat,U.K.,2013,Trinidad,North America,72.0,70-80%,3,"B,S,C",3.25
+Artisan du Chocolat (Casa Luker),U.K.,2013,Colombia,South America,72.0,70-80%,4,"B,S,C,L",2.75
+Aruntam,Italy,2021,India,Asia,72.0,70-80%,4,"B,S,C,L",3.25
+Aruntam,Italy,2021,Madagascar,Africa,72.0,70-80%,4,"B,S,C,L",3.25
+Aruntam,Italy,2021,Tanzania,Africa,72.0,70-80%,4,"B,S,C,L",3.5
+Askinosie,U.S.A.,2007,Mexico,North America,75.0,70-80%,2,"B,S",2.5
+Askinosie,U.S.A.,2007,Ecuador,South America,70.0,60-70%,2,"B,S",3.0
+Askinosie,U.S.A.,2009,Philippines,Asia,77.0,70-80%,2,"B,S",3.75
+Askinosie,U.S.A.,2011,Tanzania,Africa,72.0,70-80%,2,"B,S",3.75
+Askinosie,U.S.A.,2011,Honduras,North America,70.0,60-70%,2,"B,S",3.75
+Askinosie,U.S.A.,2016,Tanzania,Africa,68.0,60-70%,3,"B,S,C",3.75
+Atypic,Australia,2019,Solomon Islands,Oceania,70.0,60-70%,4,"B,S,C,L",3.0
+Auro,Philippines,2018,Philippines,Asia,77.0,70-80%,4,"B,S,V,L",2.75
+Auro,Philippines,2018,Philippines,Asia,70.0,60-70%,3,"B,S,C",3.0
+Auro,Philippines,2018,Philippines,Asia,70.0,60-70%,3,"B,S,C",3.0
+Auro,Philippines,2018,Philippines,Asia,70.0,60-70%,3,"B,S,C",3.5
+Avanaa,Canada,2021,Colombia,South America,70.0,60-70%,2,"B,S",2.5
+Avanaa,Canada,2021,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.0
+Bahen & Co.,Australia,2012,Brazil,South America,70.0,60-70%,2,"B,S",2.5
+Bahen & Co.,Australia,2012,Blend,Other,70.0,60-70%,2,"B,S",2.5
+Bahen & Co.,Australia,2012,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Bahen & Co.,Australia,2015,Blend,Other,80.0,70-80%,2,"B,S",3.25
+Bahen & Co.,Australia,2015,Papua New Guinea,Oceania,70.0,60-70%,2,"B,S",3.5
+Baiani,Brazil,2018,Brazil,South America,70.0,60-70%,2,"B,S",3.0
+Bakau,Peru,2015,Peru,South America,70.0,60-70%,3,"B,S,C",2.75
+Bakau,Peru,2015,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Bankston,U.S.A.,2019,Belize,North America,72.0,70-80%,3,"B,S,C",2.5
+Bankston,U.S.A.,2019,Uganda,Africa,82.0,80-90%,3,"B,S,C",2.75
+Bankston,U.S.A.,2019,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.25
+Bar Au Chocolat,U.S.A.,2012,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Bar Au Chocolat,U.S.A.,2012,Mexico,North America,70.0,60-70%,2,"B,S",3.5
+Bar Au Chocolat,U.S.A.,2012,Madagascar,Africa,70.0,60-70%,2,"B,S",3.75
+Bar Au Chocolat,U.S.A.,2014,Peru,South America,70.0,60-70%,2,"B,S",4.0
+Bar Au Chocolat,U.S.A.,2015,Brazil,South America,70.0,60-70%,2,"B,S",3.5
+Bar Au Chocolat,U.S.A.,2017,Costa Rica,North America,72.0,70-80%,2,"B,S",3.5
+Bar Au Chocolat,U.S.A.,2017,Trinidad,North America,80.0,70-80%,2,"B,S",3.5
+Baravelli's,Wales,2012,Costa Rica,North America,80.0,70-80%,4,"B,S,C,V",2.75
+Batch,U.S.A.,2016,Ecuador,South America,65.0,60-70%,3,"B,S,C",3.25
+Batch,U.S.A.,2016,Dominican Republic,North America,65.0,60-70%,3,"B,S,C",3.5
+Batch,U.S.A.,2016,Brazil,South America,70.0,60-70%,3,"B,S,C",3.75
+Bean,U.K.,2019,Peru,South America,70.0,60-70%,4,"B,S,C,V",2.25
+Beau Cacao,U.K.,2017,Malaysia,Asia,73.0,70-80%,3,"B,S,C",3.0
+Beau Cacao,U.K.,2017,Malaysia,Asia,72.0,70-80%,3,"B,S,C",3.25
+Beehive,U.S.A.,2016,Brazil,South America,80.0,70-80%,3,"B,S,C",2.75
+Beehive,U.S.A.,2016,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",2.75
+Beehive,U.S.A.,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",2.75
+Beehive,U.S.A.,2016,Ecuador,South America,90.0,80-90%,3,"B,S,C",2.75
+Belcolade,Belgium,2010,Costa Rica,North America,64.0,60-70%,4,"B,S,C,L",2.75
+Belcolade,Belgium,2010,Papua New Guinea,Oceania,64.0,60-70%,4,"B,S,C,L",2.75
+Belcolade,Belgium,2010,Peru,South America,64.0,60-70%,4,"B,S,C,L",2.75
+Belcolade,Belgium,2010,Ecuador,South America,71.0,70-80%,4,"B,S,C,L",3.5
+Bellflower,U.S.A.,2016,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.25
+Bellflower,U.S.A.,2016,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.5
+Bellflower,U.S.A.,2016,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Belvie,Vietnam,2018,Vietnam,Asia,75.0,70-80%,3,"B,S,C",3.25
+Belvie,Vietnam,2021,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.75
+Belyzium,Germany,2016,Belize,North America,83.0,80-90%,3,"B,S,C",2.75
+Belyzium,Germany,2016,Belize,North America,78.0,70-80%,3,"B,S,C",3.0
+Belyzium,Germany,2016,Belize,North America,83.0,80-90%,3,"B,S,C",3.5
+Benns,Singapore,2018,Vietnam,Asia,72.0,70-80%,4,"B,S,C,L",3.0
+Benns,Singapore,2018,India,Asia,72.0,70-80%,4,"B,S,C,L",3.0
+Benns,Singapore,2018,Malaysia,Asia,72.0,70-80%,4,"B,S,C,L",3.0
+Benoit Nihant,Belgium,2011,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.75
+Benoit Nihant,Belgium,2011,Indonesia,Asia,72.0,70-80%,3,"B,S,C",4.0
+Benoit Nihant,Belgium,2013,Cuba,North America,74.0,70-80%,3,"B,S,C",3.5
+Benoit Nihant,Belgium,2013,Venezuela,South America,74.0,70-80%,3,"B,S,C",3.5
+Benoit Nihant,Belgium,2013,Venezuela,South America,74.0,70-80%,3,"B,S,C",3.5
+Benoit Nihant,Belgium,2013,Ecuador,South America,73.0,70-80%,3,"B,S,C",4.0
+Bernachon,France,2012,Blend,Other,55.0,50-60%,5,"B,S,C,V,L",2.75
+Beschle (Felchlin),Switzerland,2010,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.25
+Beschle (Felchlin),Switzerland,2010,Venezuela,South America,74.0,70-80%,3,"B,S,C",3.25
+Beschle (Felchlin),Switzerland,2010,Indonesia,Asia,64.0,60-70%,3,"B,S,C",3.5
+Beschle (Felchlin),Switzerland,2010,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.5
+Beschle (Felchlin),Switzerland,2011,Madagascar,Africa,64.0,60-70%,3,"B,S,C",3.0
+Beschle (Felchlin),Switzerland,2011,Venezuela,South America,88.0,80-90%,3,"B,S,C",3.0
+Beschle (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.5
+Beschle (Felchlin),Switzerland,2011,Ecuador,South America,72.0,70-80%,3,"B,S,C",4.0
+Bisou,U.S.A.,2015,Nicaragua,North America,76.0,70-80%,2,"B,S",2.5
+Bisou,U.S.A.,2015,Costa Rica,North America,76.0,70-80%,2,"B,S",2.5
+Bisou,U.S.A.,2015,Costa Rica,North America,78.0,70-80%,4,"B,S,C,V",2.5
+Bisou,U.S.A.,2015,Belize,North America,86.0,80-90%,4,"B,S,C,V",3.25
+Bitacora,Venezuela,2018,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.0
+Bitacora,Venezuela,2018,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.0
+Bitacora,Venezuela,2018,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Bittersweet Origins,U.S.A.,2008,Madagascar,Africa,71.0,70-80%,2,"B,S",3.0
+Bittersweet Origins,U.S.A.,2008,Ghana,Africa,70.0,60-70%,2,"B,S",3.0
+Bittersweet Origins,U.S.A.,2008,Panama,North America,75.0,70-80%,2,"B,S",3.5
+Bittersweet Origins,U.S.A.,2008,Dominican Republic,North America,68.0,60-70%,2,"B,S",3.75
+Bittersweet Origins,U.S.A.,2009,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.0
+Bittersweet Origins,U.S.A.,2009,Madagascar,Africa,75.0,70-80%,2,"B,S",3.25
+Bittersweet Origins,U.S.A.,2009,Dominican Republic,North America,65.0,60-70%,2,"B,S",3.5
+Bittersweet Origins,U.S.A.,2009,Madagascar,Africa,65.0,60-70%,2,"B,S",3.5
+Bittersweet Origins,U.S.A.,2010,Indonesia,Asia,65.0,60-70%,2,"B,S",2.75
+Bittersweet Origins,U.S.A.,2010,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Bittersweet Origins,U.S.A.,2010,Venezuela,South America,78.0,70-80%,2,"B,S",3.0
+Bittersweet Origins,U.S.A.,2010,Indonesia,Asia,75.0,70-80%,2,"B,S",3.25
+Bittersweet Origins,U.S.A.,2010,Blend,Other,70.0,60-70%,2,"B,S",3.75
+Bittersweet Origins,U.S.A.,2012,Ghana,Africa,72.0,70-80%,3,"B,S,C",3.5
+Bixby,U.S.A.,2018,Haiti,North America,70.0,60-70%,2,"B,S",3.0
+Bixby,U.S.A.,2018,Guatemala,North America,70.0,60-70%,2,"B,S",3.0
+Bixby,U.S.A.,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Bixby,U.S.A.,2019,Belize,North America,70.0,60-70%,2,"B,S",2.75
+Black Mountain,U.S.A.,2008,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",2.75
+Black Mountain,U.S.A.,2008,Venezuela,South America,70.0,60-70%,3,"B,S,C",2.75
+Black Mountain,U.S.A.,2008,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.0
+Black Mountain,U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,L",3.75
+Black River (A. Morin),U.K.,2014,Jamaica,North America,70.0,60-70%,4,"B,S,C,L",2.75
+Black Sheep,U.S.A.,2021,Colombia,South America,72.0,70-80%,3,"B,S,C",3.25
+Black Sheep,U.S.A.,2021,Belize,North America,72.0,70-80%,3,"B,S,C",3.25
+Blanxart,Spain,2009,Blend,Other,72.0,70-80%,4,"B,S,C,V",2.75
+Blanxart,Spain,2013,Congo,Africa,82.0,80-90%,4,"B,S,C,V",3.5
+Blue Bandana,U.S.A.,2012,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.5
+Blue Bandana,U.S.A.,2012,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.75
+Blue Bandana,U.S.A.,2016,Guatemala,North America,75.0,70-80%,2,"B,S",2.75
+Blue Bandana,U.S.A.,2016,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.0
+Blue Bandana,U.S.A.,2016,Madagascar,Africa,82.0,80-90%,2,"B,S",3.5
+Blue Bandana,U.S.A.,2016,Tanzania,Africa,75.0,70-80%,2,"B,S",3.5
+Boho,U.S.A.,2017,Belize,North America,70.0,60-70%,3,"B,S,C",2.75
+Bonaterra,Malaysia,2019,Malaysia,Asia,68.0,60-70%,2,"B,S",2.5
+Bonaterra,Malaysia,2019,Malaysia,Asia,72.0,70-80%,2,"B,S",2.75
+Bonaterra,Malaysia,2019,Malaysia,Asia,74.0,70-80%,2,"B,S",3.25
+Bonnat,France,2006,Sri Lanka,Asia,75.0,70-80%,3,"B,S,C",3.0
+Bonnat,France,2006,Blend,Other,75.0,70-80%,3,"B,S,C",3.75
+Bonnat,France,2006,Venezuela,South America,75.0,70-80%,3,"B,S,C",3.75
+Bonnat,France,2006,Madagascar,Africa,75.0,70-80%,3,"B,S,C",3.75
+Bonnat,France,2006,Venezuela,South America,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2006,Venezuela,South America,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2007,Ecuador,South America,75.0,70-80%,3,"B,S,C",2.5
+Bonnat,France,2008,Venezuela,South America,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2009,Peru,South America,75.0,70-80%,3,"B,S,C",2.75
+Bonnat,France,2009,Ivory Coast,Africa,75.0,70-80%,3,"B,S,C",3.0
+Bonnat,France,2009,Mexico,North America,75.0,70-80%,3,"B,S,C",3.0
+Bonnat,France,2009,Mexico,North America,75.0,70-80%,3,"B,S,C",3.0
+Bonnat,France,2011,Jamaica,North America,75.0,70-80%,3,"B,S,C",3.25
+Bonnat,France,2011,Cuba,North America,75.0,70-80%,3,"B,S,C",3.5
+Bonnat,France,2011,Peru,South America,75.0,70-80%,3,"B,S,C",3.5
+Bonnat,France,2011,Peru,South America,75.0,70-80%,3,"B,S,C",3.5
+Bonnat,France,2011,Brazil,South America,75.0,70-80%,3,"B,S,C",3.5
+Bonnat,France,2011,Brazil,South America,75.0,70-80%,3,"B,S,C",3.75
+Bonnat,France,2011,Haiti,North America,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2011,Madagascar,Africa,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2013,Gabon,Africa,75.0,70-80%,3,"B,S,C",3.25
+Bonnat,France,2013,Brazil,South America,75.0,70-80%,3,"B,S,C",3.5
+Bonnat,France,2014,Dominican Republic,North America,75.0,70-80%,3,"B,S,C",3.25
+Bonnat,France,2014,Blend,Other,65.0,60-70%,3,"B,S,C",3.75
+Bonnat,France,2014,Brazil,South America,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2016,Mexico,North America,75.0,70-80%,3,"B,S,C",3.5
+Bonnat,France,2018,Peru,South America,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2018,Blend,Other,75.0,70-80%,3,"B,S,C",4.0
+Bonnat,France,2021,Nicaragua,North America,75.0,70-80%,3,"B,S,C",3.75
+Bouga Cacao (Tulicorp),Ecuador,2009,Ecuador,South America,77.0,70-80%,2,"B,S",3.25
+Brasstown,U.S.A.,2018,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.5
+Brasstown,U.S.A.,2018,Peru,South America,70.0,60-70%,3,"B,S,C",3.75
+Brasstown,U.S.A.,2018,Bolivia,South America,70.0,60-70%,3,"B,S,C",4.0
+Brasstown,U.S.A.,2021,Tanzania,Africa,62.0,60-70%,3,"B,S,C",3.0
+Brasstown aka It's Chocolate,U.S.A.,2013,Dominican Republic,North America,72.0,70-80%,5,"B,S,C,V,L",3.0
+Brasstown aka It's Chocolate,U.S.A.,2013,Ecuador,South America,70.0,60-70%,5,"B,S,C,V,L",3.25
+Brasstown aka It's Chocolate,U.S.A.,2013,Ghana,Africa,75.0,70-80%,5,"B,S,C,V,L",3.5
+Brasstown aka It's Chocolate,U.S.A.,2013,Venezuela,South America,85.0,80-90%,5,"B,S,C,V,L",3.5
+Brasstown aka It's Chocolate,U.S.A.,2014,Belize,North America,70.0,60-70%,3,"B,S,C",3.75
+Brasstown aka It's Chocolate,U.S.A.,2014,Venezuela,South America,70.0,60-70%,3,"B,S,C",4.0
+Brasstown aka It's Chocolate,U.S.A.,2015,Dominican Republic,North America,68.0,60-70%,3,"B,S,C",3.75
+Brasstown aka It's Chocolate,U.S.A.,2016,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Brasstown aka It's Chocolate,U.S.A.,2016,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Brasstown aka It's Chocolate,U.S.A.,2017,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.25
+Brasstown aka It's Chocolate,U.S.A.,2017,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.75
+Brazen,U.S.A.,2015,Madagascar,Africa,80.0,70-80%,3,"B,S,C",2.75
+Brazen,U.S.A.,2015,Dominican Republic,North America,60.0,50-60%,3,"B,S,C",3.0
+Brazen,U.S.A.,2015,Dominican Republic,North America,80.0,70-80%,3,"B,S,C",3.25
+Brazen,U.S.A.,2015,Belize,North America,80.0,70-80%,3,"B,S,C",3.25
+Brazen,U.S.A.,2015,Madagascar,Africa,60.0,50-60%,3,"B,S,C",3.25
+Brazen,U.S.A.,2015,Guatemala,North America,70.0,60-70%,2,"B,S",3.5
+Breeze Mill,U.S.A.,2013,Jamaica,North America,70.0,60-70%,4,"B,S,C,V",3.0
+Bright,Australia,2014,Trinidad,North America,68.0,60-70%,3,"B,S,C",2.75
+Bright,Australia,2014,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.0
+Bright,Australia,2014,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Bright,Australia,2014,Ecuador,South America,72.0,70-80%,3,"B,S,C",3.5
+Britarev,Russia,2015,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Bronx Grrl Chocolate,U.S.A.,2013,Dominican Republic,North America,68.0,60-70%,3,"B,S,C",2.75
+Bullion,U.K.,2018,Bolivia,South America,70.0,60-70%,3,"B,S,C",2.5
+Bullion,U.K.,2018,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.0
+Burnt Fork Bend,U.S.A.,2014,Ecuador,South America,60.0,50-60%,3,"B,S,C",2.5
+Burnt Fork Bend,U.S.A.,2014,Trinidad,North America,72.0,70-80%,3,"B,S,C",3.25
+Burnt Fork Bend,U.S.A.,2014,Belize,North America,72.0,70-80%,3,"B,S,C",3.25
+Burnt Fork Bend,U.S.A.,2014,Blend,Other,72.0,70-80%,3,"B,S,C",3.25
+Burnt Fork Bend,U.S.A.,2014,Ecuador,South America,72.0,70-80%,3,"B,S,C",3.5
+By Cacao,South Korea,2019,Ecuador,South America,70.0,60-70%,2,"B,S",3.0
+Cacai Cacao,Taiwan,2019,Taiwan,Asia,70.0,60-70%,2,"B,S*",3.25
+Cacai Cacao,Taiwan,2019,Philippines,Asia,70.0,60-70%,2,"B,S*",3.5
+Cacao 70,Canada,2019,Guatemala,North America,70.0,60-70%,4,"B,S,C,L",3.0
+Cacao 70,Canada,2019,Guatemala,North America,70.0,60-70%,4,"B,S,C,L",3.5
+Cacao 70,Canada,2019,Bolivia,South America,70.0,60-70%,4,"B,S,C,L",3.75
+Cacao Arabuco,Puerto Rico,2015,Puerto Rico,North America,70.0,60-70%,2,"B,S",2.5
+Cacao Atlanta,U.S.A.,2010,Venezuela,South America,75.0,70-80%,2,"B,S",2.25
+Cacao Atlanta,U.S.A.,2010,Dominican Republic,North America,75.0,70-80%,2,"B,S",2.5
+Cacao Atlanta,U.S.A.,2010,Dominican Republic,North America,75.0,70-80%,2,"B,S",2.75
+Cacao Atlanta,U.S.A.,2014,Peru,South America,75.0,70-80%,2,"B,S",2.5
+Cacao Barry,France,2007,Venezuela,South America,72.0,70-80%,5,"B,S,C,V,L",2.0
+Cacao Barry,France,2007,Mexico,North America,66.0,60-70%,5,"B,S,C,V,L",3.0
+Cacao Barry,France,2008,Tanzania,Africa,75.0,70-80%,5,"B,S,C,V,L",2.0
+Cacao Barry,France,2010,Dominican Republic,North America,70.0,60-70%,5,"B,S,C,V,L",3.0
+Cacao Barry,France,2016,Haiti,North America,65.0,60-70%,5,"B,S,C,V,L",3.5
+Cacao Betulia,Switzerland,2018,Colombia,South America,72.0,70-80%,2,"B,S",2.5
+Cacao Betulia,Switzerland,2018,Colombia,South America,72.0,70-80%,2,"B,S",3.0
+Cacao Betulia,Switzerland,2018,Colombia,South America,72.0,70-80%,2,"B,S",3.75
+Cacao de Origen,Venezuela,2014,Venezuela,South America,75.0,70-80%,2,"B,S",2.5
+Cacao de Origen,Venezuela,2014,Venezuela,South America,74.0,70-80%,2,"B,S",3.25
+Cacao de Origen,Venezuela,2014,Venezuela,South America,75.0,70-80%,2,"B,S",3.5
+Cacao de Origen,Venezuela,2014,Venezuela,South America,70.0,60-70%,2,"B,S",3.75
+Cacao de Origen,Venezuela,2015,Venezuela,South America,74.0,70-80%,2,"B,S",3.25
+Cacao de Origen,Venezuela,2015,Venezuela,South America,75.0,70-80%,2,"B,S",3.25
+Cacao de Origen,Venezuela,2015,Venezuela,South America,77.0,70-80%,2,"B,S",3.5
+Cacao de Origen,Venezuela,2018,Venezuela,South America,75.0,70-80%,2,"B,S",2.75
+Cacao de Origen,Venezuela,2019,Venezuela,South America,75.0,70-80%,2,"B,S",2.5
+Cacao de Origen,Venezuela,2019,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Cacao Gonzales,U.S.A.,2018,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Cacao Hunters,Colombia,2014,Colombia,South America,69.0,60-70%,4,"B,S,C,L",2.75
+Cacao Hunters,Colombia,2014,Colombia,South America,70.0,60-70%,4,"B,S,C,L",3.25
+Cacao Hunters,Colombia,2014,Colombia,South America,64.0,60-70%,4,"B,S,C,L",3.5
+Cacao Hunters,Colombia,2014,Colombia,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Cacao Hunters,Colombia,2015,Colombia,South America,72.0,70-80%,3,"B,S,C",3.75
+Cacao Hunters,Colombia,2016,Colombia,South America,71.0,70-80%,3,"B,S,C",3.75
+Cacao Hunters,Colombia,2016,Colombia,South America,74.0,70-80%,3,"B,S,C",3.75
+Cacao Market,U.S.A.,2016,Honduras,North America,70.0,60-70%,4,"B,S,C,L",3.5
+Cacao Prieto,U.S.A.,2011,Dominican Republic,North America,72.0,70-80%,2,"B,S",3.0
+Cacao Prieto,U.S.A.,2011,Dominican Republic,North America,65.0,60-70%,2,"B,S",3.25
+Cacao Prieto,U.S.A.,2011,Dominican Republic,North America,66.0,60-70%,2,"B,S",3.75
+Cacao Prieto,U.S.A.,2012,Dominican Republic,North America,72.0,70-80%,2,"B,S",3.75
+Cacao Sampaka,Spain,2009,Mexico,North America,70.0,60-70%,4,"B,S,C,L",4.0
+Cacao Sampaka,Spain,2009,Mexico,North America,70.0,60-70%,4,"B,S,C,L",4.0
+Cacao Sampaka,Spain,2010,Grenada,North America,71.0,70-80%,4,"B,S,C,L",3.25
+Cacao Sampaka,Spain,2010,Madagascar,Africa,71.0,70-80%,4,"B,S,C,L",3.5
+Cacao Sampaka,Spain,2010,Venezuela,South America,71.0,70-80%,4,"B,S,C,L",3.5
+Cacao Sampaka,Spain,2010,Venezuela,South America,77.0,70-80%,4,"B,S,C,L",3.5
+Cacao Sampaka,Spain,2010,Ecuador,South America,71.0,70-80%,4,"B,S,C,L",3.75
+Cacao Sampaka,Spain,2010,Papua New Guinea,Oceania,71.0,70-80%,4,"B,S,C,L",4.0
+Cacao Sampaka,Spain,2016,Congo,Africa,70.0,60-70%,4,"B,S,C,L",3.5
+Cacao Santa Fe (Art of Chocolate),U.S.A.,2020,Dominican Republic,North America,72.0,70-80%,4,"B,S,C,V",2.75
+Cacao Santa Fe (Art of Chocolate),U.S.A.,2020,Peru,South America,72.0,70-80%,4,"B,S,C,V",2.75
+Cacao Santa Fe (Art of Chocolate),U.S.A.,2020,Ecuador,South America,72.0,70-80%,4,"B,S,C,V",3.0
+Cacao Store,Japan,2015,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Cacao Store,Japan,2015,Peru,South America,70.0,60-70%,2,"B,S",3.25
+Cacao Store,Japan,2015,Vietnam,Asia,70.0,60-70%,2,"B,S",3.5
+Cacaosuyo,Peru,2021,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Cacaosuyo,Peru,2021,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Cacaosuyo,Peru,2021,Peru,South America,80.0,70-80%,2,"B,S",3.5
+Cacaosuyo,Peru,2021,Peru,South America,70.0,60-70%,2,"B,S",4.0
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,South America,91.0,90-100%,4,"B,S,C,L",1.5
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,South America,82.0,80-90%,4,"B,S,C,L",2.5
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,South America,63.0,60-70%,4,"B,S,C,L",3.5
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,South America,71.0,70-80%,4,"B,S,C,L",3.5
+C-Amaro,Italy,2011,Sao Tome,Africa,78.0,70-80%,2,"B,S",2.25
+C-Amaro,Italy,2011,Trinidad,North America,70.0,60-70%,2,"B,S",2.5
+C-Amaro,Italy,2012,Venezuela,South America,80.0,70-80%,2,"B,S",3.0
+C-Amaro,Italy,2013,Ecuador,South America,100.0,90-100%,1,B,3.5
+C-Amaro,Italy,2014,Cuba,North America,75.0,70-80%,2,"B,S",2.5
+C-Amaro,Italy,2014,Dominican Republic,North America,72.0,70-80%,2,"B,S",3.0
+C-Amaro,Italy,2014,Blend,Other,70.0,60-70%,2,"B,S",3.5
+Cao,U.S.A.,2016,Venezuela,South America,75.0,70-80%,3,"B,S,C",2.5
+Cao,U.S.A.,2016,Tanzania,Africa,73.0,70-80%,3,"B,S,C",2.75
+Cao,U.S.A.,2016,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.0
+Cao,U.S.A.,2016,Bolivia,South America,75.0,70-80%,3,"B,S,C",3.0
+Cao,U.S.A.,2016,Brazil,South America,70.0,60-70%,3,"B,S,C",3.25
+Caofiori,Colombia,2021,Colombia,South America,70.0,60-70%,4,"B,S,C,L",3.25
+Caofiori,Colombia,2021,Colombia,South America,70.0,60-70%,4,"B,S,C,L",3.25
+Caofiori,Colombia,2021,Colombia,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Caofiori,Colombia,2021,Colombia,South America,70.0,60-70%,4,"B,S,C,L",3.75
+Caoni (Tulicorp),Ecuador,2008,Ecuador,South America,77.0,70-80%,4,"B,S,C,L",2.0
+Caoni (Tulicorp),Ecuador,2008,Ecuador,South America,77.0,70-80%,4,"B,S,C,L",2.5
+Caoni (Tulicorp),Ecuador,2008,Ecuador,South America,77.0,70-80%,4,"B,S,C,L",2.75
+Caoni (Tulicorp),Ecuador,2008,Ecuador,South America,55.0,50-60%,4,"B,S,C,L",3.0
+Caoni (Tulicorp),Ecuador,2008,Ecuador,South America,55.0,50-60%,4,"B,S,C,L",3.25
+Caoni (Tulicorp),Ecuador,2008,Ecuador,South America,55.0,50-60%,4,"B,S,C,L",3.5
+Captain Pembleton,New Zealand,2014,Papua New Guinea,Oceania,70.0,60-70%,3,"B,S,C",3.5
+Captain Pembleton,New Zealand,2014,Papua New Guinea,Oceania,70.0,60-70%,3,"B,S,C",3.75
+CAR Artisan,U.S.A.,2021,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.0
+CAR Artisan,U.S.A.,2021,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.25
+CAR Artisan,U.S.A.,2021,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+CAR Artisan,U.S.A.,2021,Mexico,North America,70.0,60-70%,3,"B,S,C",3.25
+Caribeans,Costa Rica,2012,Costa Rica,North America,80.0,70-80%,2,"B,S",2.75
+Caribeans,Costa Rica,2012,Costa Rica,North America,72.0,70-80%,2,"B,S",3.0
+Caribeans,Costa Rica,2015,Costa Rica,North America,72.0,70-80%,2,"B,S",3.25
+Caribeans,Costa Rica,2015,Guatemala,North America,72.0,70-80%,3,"B,S,C",3.5
+Caribeans,Costa Rica,2015,Costa Rica,North America,72.0,70-80%,2,"B,S",3.5
+Carlotta Chocolat,Colombia,2016,Colombia,South America,65.0,60-70%,3,"B,S,C",3.0
+Carlotta Chocolat,Colombia,2016,Colombia,South America,65.0,60-70%,3,"B,S,C",3.25
+Carlotta Chocolat,Colombia,2016,Colombia,South America,65.0,60-70%,3,"B,S,C",3.25
+Carlotta Chocolat,Colombia,2016,Colombia,South America,65.0,60-70%,3,"B,S,C",3.5
+Carlotta Chocolat,Colombia,2016,Colombia,South America,65.0,60-70%,3,"B,S,C",3.5
+Casa,U.S.A.,2018,Blend,Other,75.0,70-80%,2,"B,S",2.0
+Casa Lasevicius,Brazil,2019,Brazil,South America,71.0,70-80%,2,"B,S",3.0
+Casa Lasevicius,Brazil,2019,Brazil,South America,65.0,60-70%,2,"B,S",3.25
+Castronovo,U.S.A.,2013,Peru,South America,70.0,60-70%,3,"B,S,C",2.5
+Castronovo,U.S.A.,2013,Peru,South America,70.0,60-70%,3,"B,S,C",2.75
+Castronovo,U.S.A.,2013,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.0
+Castronovo,U.S.A.,2013,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.0
+Castronovo,U.S.A.,2013,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.25
+Castronovo,U.S.A.,2013,Nicaragua,North America,72.0,70-80%,3,"B,S,C",3.25
+Castronovo,U.S.A.,2013,Dominican Republic,North America,73.0,70-80%,2,"B,S",3.5
+Castronovo,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",2.75
+Castronovo,U.S.A.,2014,Colombia,South America,72.0,70-80%,3,"B,S,C",3.5
+Castronovo,U.S.A.,2014,Colombia,South America,76.0,70-80%,3,"B,S,C",3.5
+Castronovo,U.S.A.,2015,Honduras,North America,72.0,70-80%,3,"B,S,C",3.5
+Castronovo,U.S.A.,2015,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.5
+Castronovo,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Castronovo,U.S.A.,2016,Belize,North America,72.0,70-80%,3,"B,S,C",4.0
+Castronovo,U.S.A.,2017,Venezuela,South America,70.0,60-70%,2,"B,S",3.25
+Castronovo,U.S.A.,2019,Puerto Rico,North America,70.0,60-70%,3,"B,S,C",3.5
+Castronovo,U.S.A.,2019,Mexico,North America,70.0,60-70%,3,"B,S,C",3.75
+Castronovo,U.S.A.,2021,Peru,South America,70.0,60-70%,3,"B,S,C",4.0
+Castronovo,U.S.A.,2021,Venezuela,South America,72.0,70-80%,3,"B,S,C",4.0
+Cello,U.S.A.,2014,Ecuador,South America,70.0,60-70%,3,"B,S,C",2.5
+Cello,U.S.A.,2014,Peru,South America,70.0,60-70%,3,"B,S,C",2.75
+Cello,U.S.A.,2014,Venezuela,South America,70.0,60-70%,3,"B,S,C",2.75
+Cello,U.S.A.,2014,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.0
+Chaleur B,Canada,2014,Uganda,Africa,70.0,60-70%,3,"B,S,C",2.75
+Chaleur B,Canada,2021,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.0
+Chaleur B,Canada,2021,Belize,North America,70.0,60-70%,3,"B,S,C",3.0
+Chaleur B,Canada,2021,Peru,South America,72.0,70-80%,3,"B,S,C",3.25
+Chapon,France,2017,Bolivia,South America,74.0,70-80%,2,"B,S",3.0
+Chapon,France,2018,Venezuela,South America,68.0,60-70%,3,"B,S,C",3.5
+Charm School,U.S.A.,2016,Belize,North America,70.0,60-70%,3,"B,S,C",3.25
+Chchukululu (Tulicorp),Ecuador,2008,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.0
+Chchukululu (Tulicorp),Ecuador,2010,Ecuador,South America,55.0,50-60%,3,"B,S,C",2.75
+Chequessett,U.S.A.,2014,Costa Rica,North America,70.0,60-70%,3,"B,S,C",3.5
+Chequessett,U.S.A.,2018,Peru,South America,72.0,70-80%,3,"B,S,C",3.0
+Chequessett,U.S.A.,2019,Ecuador,South America,72.0,70-80%,3,"B,S,C",3.5
+Chequessett,U.S.A.,2021,Colombia,South America,83.0,80-90%,3,"B,S,C",3.25
+Chequessett,U.S.A.,2021,Dominican Republic,North America,69.0,60-70%,3,"B,S,C",3.25
+Chocablog,U.K.,2015,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.25
+Choco Del Sol,Germany,2014,Belize,North America,75.0,70-80%,2,"B,S",3.0
+Choco Del Sol,Germany,2014,Belize,North America,82.0,80-90%,2,"B,S",3.25
+Choco Dong,South Korea,2015,Vietnam,Asia,70.0,60-70%,2,"B,S",2.75
+Choco Dong,South Korea,2015,Malaysia,Asia,70.0,60-70%,2,"B,S",3.5
+Chococard (Lapos),Hungary,2019,Nicaragua,North America,72.0,70-80%,3,"B,S,C",2.5
+Chococard (Lapos),Hungary,2019,Dominican Republic,North America,71.0,70-80%,3,"B,S,C",3.25
+Chocolarder,U.K.,2015,Peru,South America,65.0,60-70%,2,"B,S",2.5
+Chocolarder,U.K.,2015,Dominican Republic,North America,80.0,70-80%,2,"B,S",2.5
+Chocolarder,U.K.,2015,Peru,South America,65.0,60-70%,2,"B,S",2.75
+Chocolarder,U.K.,2019,Madagascar,Africa,74.0,70-80%,2,"B,S",3.0
+Chocola'te,U.S.A.,2011,Madagascar,Africa,70.0,60-70%,2,"B,S",3.75
+Chocola'te,U.S.A.,2011,Venezuela,South America,68.0,60-70%,2,"B,S",3.75
+Chocolate Alchemist-Philly,U.S.A.,2016,Peru,South America,90.0,80-90%,2,"B,S*",2.5
+Chocolate Alchemist-Philly,U.S.A.,2016,Blend,Other,80.0,70-80%,2,"B,S*",2.5
+Chocolate Con Amor,U.S.A.,2016,Bolivia,South America,70.0,60-70%,2,"B,S",2.5
+Chocolate Con Amor,U.S.A.,2016,Uganda,Africa,70.0,60-70%,2,"B,S",2.75
+Chocolate Con Amor,U.S.A.,2016,Nicaragua,North America,80.0,70-80%,2,"B,S",2.75
+Chocolate Con Amor,U.S.A.,2016,Dominican Republic,North America,60.0,50-60%,2,"B,S",3.0
+Chocolate Con Amor,U.S.A.,2016,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.0
+Chocolate Con Amor,U.S.A.,2016,Venezuela,South America,80.0,70-80%,2,"B,S",3.0
+Chocolate Con Amor,U.S.A.,2016,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Chocolate Conspiracy,U.S.A.,2014,Peru,South America,74.0,70-80%,3,"B,S*,C",2.75
+Chocolate Makers,Amsterdam,2015,Dominican Republic,North America,75.0,70-80%,3,"B,S,C",3.25
+Chocolate Makers,Amsterdam,2015,Congo,Africa,68.0,60-70%,3,"B,S,C",3.5
+Chocolate Makers,Amsterdam,2015,Peru,South America,80.0,70-80%,3,"B,S,C",3.75
+Chocolate Tree,Scotland,2012,Ecuador,South America,82.0,80-90%,3,"B,S,C",2.5
+Chocolate Tree,Scotland,2012,Peru,South America,68.0,60-70%,3,"B,S,C",2.75
+Chocolate Tree,Scotland,2012,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.25
+Chocolate Tree,Scotland,2013,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Chocolate Tree,Scotland,2015,Peru,South America,69.0,60-70%,3,"B,S,C",3.75
+Chocolate Tree,Scotland,2015,Venezuela,South America,80.0,70-80%,2,"B,S",3.75
+Chocolate Tree,Scotland,2021,Venezuela,South America,70.0,60-70%,3,"B,S,C",2.75
+Chocolates by Josh (Box Chocolate),U.S.A.,2018,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.25
+Chocolatoa,Belgium,2019,India,Asia,70.0,60-70%,3,"B,S,C",3.0
+Chocolats Privilege,Canada,2014,Mexico,North America,70.0,60-70%,4,"B,S,C,V",2.5
+Chocolibrium,U.S.A.,2018,India,Asia,63.0,60-70%,3,"B,S,C",2.5
+Chocolibrium,U.S.A.,2018,Guatemala,North America,76.0,70-80%,2,"B,S",2.75
+Chocolibrium,U.S.A.,2018,Peru,South America,70.0,60-70%,2,"B,S",2.75
+Chocosol,Canada,2016,Mexico,North America,75.0,70-80%,3,"B,S,C",3.25
+Chocotenango,U.S.A.,2021,Guatemala,North America,70.0,60-70%,2,"B,S",3.25
+Chocotenango,U.S.A.,2021,Dominican Republic,North America,73.0,70-80%,2,"B,S",3.25
+Chocotenango,U.S.A.,2021,Belize,North America,70.0,60-70%,2,"B,S",3.5
+Chocovic,Spain,2007,Ecuador,South America,71.0,70-80%,4,"B,S,C,L",2.5
+Chocovic,Spain,2007,Grenada,North America,71.0,70-80%,4,"B,S,C,L",2.5
+Chocovic,Spain,2007,Blend,Other,70.0,60-70%,4,"B,S,C,L",3.0
+Chocovic,Spain,2008,Venezuela,South America,71.0,70-80%,4,"B,S,C,L",3.5
+Chocovic,Spain,2009,Blend,Other,60.0,50-60%,4,"B,S,C,L",3.25
+Chocovic,Spain,2009,Blend,Other,75.0,70-80%,4,"B,S,C,L",3.25
+Chocovic,Spain,2010,Mexico,North America,71.0,70-80%,4,"B,S,C,L",3.25
+Chocovic,Spain,2010,Madagascar,Africa,71.0,70-80%,4,"B,S,C,L",3.5
+Chocovivo,U.S.A.,2015,Mexico,North America,65.0,60-70%,2,"B,S",2.5
+Chocovivo,U.S.A.,2015,Mexico,North America,75.0,70-80%,2,"B,S",2.5
+Choklat,Canada,2009,Venezuela,South America,80.0,70-80%,4,"B,S,C,V",2.5
+Choklat,Canada,2009,Mexico,North America,70.0,60-70%,4,"B,S,C,V",2.75
+Choklat,Canada,2009,Brazil,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Choklat,Canada,2009,Brazil,South America,80.0,70-80%,4,"B,S,C,V",3.0
+Choklat,Canada,2009,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Chokola,U.S.A.,2020,Guatemala,North America,70.0,60-70%,2,"B,S",3.5
+Chokola,U.S.A.,2020,Venezuela,South America,75.0,70-80%,2,"B,S",3.75
+Chokola,U.S.A.,2020,Belize,North America,70.0,60-70%,2,"B,S",3.75
+Chokola,U.S.A.,2020,Madagascar,Africa,67.0,60-70%,2,"B,S",4.0
+Chokola,U.S.A.,2021,Tanzania,Africa,75.0,70-80%,2,"B,S",3.5
+Chokola,U.S.A.,2021,Bolivia,South America,75.0,70-80%,2,"B,S",3.75
+Christophe Toury,U.S.A.,2018,Peru,South America,70.0,60-70%,2,"B,S",2.75
+Christopher Elbow,U.S.A.,2018,Peru,South America,75.0,70-80%,3,"B,S,C",3.75
+Christopher Elbow,U.S.A.,2019,Vietnam,Asia,72.0,70-80%,3,"B,S,C",3.0
+Christopher Elbow,U.S.A.,2019,Costa Rica,North America,70.0,60-70%,3,"B,S,C",3.25
+Christopher Elbow,U.S.A.,2019,Ecuador,South America,73.0,70-80%,3,"B,S,C",3.5
+Christopher Elbow,U.S.A.,2019,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.5
+Christopher Elbow,U.S.A.,2019,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.75
+Christopher Elbow,U.S.A.,2019,Brazil,South America,70.0,60-70%,3,"B,S,C",4.0
+Chuao Chocolatier,U.S.A.,2009,Venezuela,South America,61.0,60-70%,5,"B,S,C,V,L",3.0
+Chuao Chocolatier (Pralus),U.S.A.,2010,Venezuela,South America,77.0,70-80%,3,"B,S,C",2.75
+Claudio Corallo,Sao Tome,2008,Blend,Other,80.0,70-80%,3,"B,S,C",3.0
+Claudio Corallo,Sao Tome,2008,Blend,Other,75.0,70-80%,3,"B,S,C",3.75
+Claudio Corallo,Sao Tome,2010,Blend,Other,73.5,70-80%,2,"B,S",3.75
+Cleveland Chocolate Company,U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Cleveland Chocolate Company,U.S.A.,2021,Haiti,North America,79.0,70-80%,3,"B,S,C",3.5
+Cloudforest,U.S.A.,2015,Ecuador,South America,73.0,70-80%,2,"B,S",3.5
+Coco,Canada,2020,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Cocoa Carib,St. Lucia,2019,St. Lucia,North America,70.0,60-70%,4,"B,S,C,V",2.25
+Cocoa Forge,U.S.A.,2021,Peru,South America,68.0,60-70%,3,"B,S,C",3.0
+Cocoa Forge,U.S.A.,2021,Madagascar,Africa,77.0,70-80%,2,"B,S",3.25
+Cocoa Forge,U.S.A.,2021,Colombia,South America,70.0,60-70%,3,"B,S,C",3.25
+Condor,U.S.A.,2015,Ecuador,South America,76.0,70-80%,2,"B,S",3.5
+Confluence,U.S.A.,2016,Vietnam,Asia,78.0,70-80%,2,"B,S",2.75
+Conjure,U.S.A.,2021,Philippines,Asia,70.0,60-70%,3,"B,S,C",2.5
+Conjure,U.S.A.,2021,Ivory Coast,Africa,70.0,60-70%,3,"B,S,C",2.5
+Conjure,U.S.A.,2021,Peru,South America,68.0,60-70%,3,"B,S,C",3.25
+Conjure,U.S.A.,2021,Tanzania,Africa,75.0,70-80%,3,"B,S,C",3.5
+Coppeneur,Germany,2007,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.0
+Coppeneur,Germany,2008,Mexico,North America,72.0,70-80%,3,"B,S,C",3.0
+Coppeneur,Germany,2008,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.0
+Coppeneur,Germany,2009,Peru,South America,72.0,70-80%,3,"B,S,C",3.0
+Coppeneur,Germany,2009,Peru,South America,62.0,60-70%,3,"B,S,C",3.25
+Coppeneur,Germany,2009,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Coppeneur,Germany,2009,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+Coppeneur,Germany,2010,Ecuador,South America,72.0,70-80%,3,"B,S,C",2.5
+Coppeneur,Germany,2010,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.0
+Coppeneur,Germany,2010,Trinidad,North America,72.0,70-80%,3,"B,S,C",3.0
+Coppeneur,Germany,2010,Grenada,North America,72.0,70-80%,3,"B,S,C",3.25
+Coppeneur,Germany,2010,Jamaica,North America,72.0,70-80%,3,"B,S,C",3.25
+Coppeneur,Germany,2010,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.25
+Coppeneur,Germany,2012,Ghana,Africa,85.0,80-90%,3,"B,S,C",3.5
+Coppeneur,Germany,2012,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Coppeneur,Germany,2012,Blend,Other,72.0,70-80%,3,"B,S,C",3.75
+Coppeneur,Germany,2013,Ecuador,South America,65.0,60-70%,4,"B,S,C,L",3.25
+Coppeneur,Germany,2017,Ghana,Africa,75.0,70-80%,3,"B,S,C",3.75
+Cravve,Australia,2012,Tanzania,Africa,75.0,70-80%,3,"B,S,C",3.25
+Cravve,Australia,2012,Brazil,South America,65.0,60-70%,3,"B,S,C",3.25
+Cravve,Australia,2012,Fiji,Oceania,67.0,60-70%,3,"B,S,C",3.25
+Cravve,Australia,2012,Vanuatu,Oceania,64.0,60-70%,3,"B,S,C",3.25
+Cravve,Australia,2012,Papua New Guinea,Oceania,75.0,70-80%,3,"B,S,C",3.5
+Cravve,Australia,2014,Papua New Guinea,Oceania,70.0,60-70%,3,"B,S,C",2.5
+Cravve,Australia,2014,Vanuatu,Oceania,83.0,80-90%,3,"B,S,C",2.75
+Creo,U.S.A.,2016,Ecuador,South America,85.0,80-90%,3,"B,S,C",3.25
+Creo,U.S.A.,2016,Ecuador,South America,73.0,70-80%,3,"B,S,C",3.75
+Crow and Moss,U.S.A.,2020,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Crow and Moss,U.S.A.,2020,Colombia,South America,70.0,60-70%,2,"B,S",3.25
+Crow and Moss,U.S.A.,2020,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Crow and Moss,U.S.A.,2020,Honduras,North America,70.0,60-70%,2,"B,S",3.5
+Crow and Moss,U.S.A.,2021,India,Asia,70.0,60-70%,2,"B,S",3.75
+Cultura,U.S.A.,2020,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.25
+Cultura,U.S.A.,2020,Haiti,North America,70.0,60-70%,3,"B,S,C",3.5
+Cultura,U.S.A.,2020,Belize,North America,75.0,70-80%,3,"B,S,C",3.5
+Cultura,U.S.A.,2020,Mexico,North America,70.0,60-70%,3,"B,S,C",3.5
+Cuna de Piedra,Mexico,2021,Mexico,North America,73.0,70-80%,2,"B,S",3.75
+Daintree,Australia,2011,Australia,Oceania,70.0,60-70%,5,"B,S,C,V,L",3.25
+Daintree,Australia,2015,Australia,Oceania,70.0,60-70%,3,"B,S,C",2.75
+Dalloway,U.S.A.,2017,Dominican Republic,North America,72.0,70-80%,2,"B,S",2.75
+Damson,U.K.,2015,Grenada,North America,70.0,60-70%,3,"B,S,C",2.25
+Damson,U.K.,2015,Nicaragua,North America,70.0,60-70%,3,"B,S,C",2.75
+Damson,U.K.,2015,Trinidad,North America,70.0,60-70%,3,"B,S,C",3.0
+Damson,U.K.,2015,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.5
+Damson,U.K.,2018,Blend,Other,65.0,60-70%,4,"B,S,C,L",2.5
+Dancing Lion,U.S.A.,2021,Puerto Rico,North America,68.0,60-70%,4,"B,S,C,L",2.5
+Dancing Lion,U.S.A.,2021,India,Asia,72.0,70-80%,4,"B,S,C,L",3.0
+Dancing Lion,U.S.A.,2021,Peru,South America,72.0,70-80%,4,"B,S,C,L",3.5
+Dandelion,U.S.A.,2012,Costa Rica,North America,70.0,60-70%,2,"B,S",3.0
+Dandelion,U.S.A.,2012,Colombia,South America,70.0,60-70%,2,"B,S",3.25
+Dandelion,U.S.A.,2012,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.75
+Dandelion,U.S.A.,2013,Venezuela,South America,70.0,60-70%,2,"B,S",2.75
+Dandelion,U.S.A.,2013,Venezuela,South America,70.0,60-70%,2,"B,S",3.25
+Dandelion,U.S.A.,2013,Venezuela,South America,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2013,Papua New Guinea,Oceania,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2014,Liberia,Africa,70.0,60-70%,2,"B,S",2.75
+Dandelion,U.S.A.,2014,Belize,North America,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2014,Ecuador,South America,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.75
+Dandelion,U.S.A.,2015,Belize,North America,70.0,60-70%,2,"B,S",3.0
+Dandelion,U.S.A.,2016,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.75
+Dandelion,U.S.A.,2017,Costa Rica,North America,70.0,60-70%,2,"B,S",3.0
+Dandelion,U.S.A.,2018,Sierra Leone,Africa,70.0,60-70%,2,"B,S",3.0
+Dandelion,U.S.A.,2018,Honduras,North America,70.0,60-70%,2,"B,S",3.25
+Dandelion,U.S.A.,2018,India,Asia,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2019,Vietnam,Asia,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2021,Guatemala,North America,70.0,60-70%,2,"B,S",2.75
+Dandelion,U.S.A.,2021,India,Asia,70.0,60-70%,2,"B,S",2.75
+Dandelion,U.S.A.,2021,Peru,South America,70.0,60-70%,2,"B,S",3.25
+Dandelion,U.S.A.,2021,India,Asia,70.0,60-70%,2,"B,S",3.25
+Dandelion,U.S.A.,2021,Tanzania,Africa,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Dandelion,U.S.A.,2021,Brazil,South America,70.0,60-70%,2,"B,S",4.0
+Dandelion (aka Brower Ave),U.S.A.,2011,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Dandelion (aka Brower Ave),U.S.A.,2011,Madagascar,Africa,70.0,60-70%,2,"B,S",3.25
+Dandelion (aka Brower Ave),U.S.A.,2011,Tanzania,Africa,70.0,60-70%,2,"B,S",3.25
+Dandelion (Japan),U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.0
+Danta,Guatemala,2009,Guatemala,North America,75.0,70-80%,4,"B,S,C,V",3.0
+Danta,Guatemala,2009,Guatemala,North America,60.0,50-60%,4,"B,S,C,V",3.25
+Danta,Guatemala,2011,Guatemala,North America,60.0,50-60%,4,"B,S,C,V",3.5
+Danta,Guatemala,2012,Venezuela,South America,75.0,70-80%,4,"B,S,C,V",3.0
+Danta,Guatemala,2012,Guatemala,North America,70.0,60-70%,2,"B,S",3.25
+Danta,Guatemala,2012,Guatemala,North America,70.0,60-70%,2,"B,S",3.75
+Danta,Guatemala,2012,Madagascar,Africa,70.0,60-70%,2,"B,S",3.75
+Danta,Guatemala,2012,Guatemala,North America,70.0,60-70%,2,"B,S",4.0
+Danta,Guatemala,2014,Guatemala,North America,82.0,80-90%,4,"B,S,C,V",3.25
+DAR,U.S.A.,2016,Venezuela,South America,72.0,70-80%,2,"B,S",2.75
+DAR,U.S.A.,2016,Vietnam,Asia,72.0,70-80%,2,"B,S",3.0
+DAR,U.S.A.,2016,Blend,Other,70.0,60-70%,2,"B,S",3.25
+Darcis,Belgium,2019,Peru,South America,72.0,70-80%,4,"B,S,C,L",3.0
+Darcis,Belgium,2019,Vietnam,Asia,70.0,60-70%,4,"B,S,C,L",3.25
+Dark Forest,U.S.A.,2015,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.0
+Dark Forest,U.S.A.,2015,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.0
+Dark Forest,U.S.A.,2015,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.25
+Dark Forest,U.S.A.,2015,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.25
+Dark Forest,U.S.A.,2016,Bolivia,South America,75.0,70-80%,3,"B,S,C",3.25
+Davis,U.S.A.,2012,Blend,Other,58.0,50-60%,4,"B,S,C,L",3.25
+Davis,U.S.A.,2013,Ghana,Africa,70.0,60-70%,4,"B,S,C,L",2.5
+Davis,U.S.A.,2013,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,L",2.75
+Davis,U.S.A.,2013,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",2.75
+De Mendes,Brazil,2015,Brazil,South America,72.0,70-80%,3,"B,S,C",3.5
+De Mendes,Brazil,2015,Brazil,South America,65.0,60-70%,3,"B,S,C",3.5
+De Villiers,South Africa,2016,Uganda,Africa,70.0,60-70%,3,"B,S,C",2.5
+De Villiers,South Africa,2016,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.0
+Dean and Deluca (Belcolade),U.S.A.,2007,Madagascar,Africa,66.0,60-70%,4,"B,S,C,V",2.5
+Dean and Deluca (Belcolade),U.S.A.,2007,Costa Rica,North America,64.0,60-70%,4,"B,S,C,V",3.0
+Dean and Deluca (Belcolade),U.S.A.,2007,Ecuador,South America,71.0,70-80%,4,"B,S,C,V",3.0
+Dean and Deluca (Belcolade),U.S.A.,2007,Ghana,Africa,60.0,50-60%,4,"B,S,C,V",3.0
+Dean and Deluca (Belcolade),U.S.A.,2007,Papua New Guinea,Oceania,64.0,60-70%,4,"B,S,C,V",3.0
+Dean and Deluca (Belcolade),U.S.A.,2007,Peru,South America,64.0,60-70%,4,"B,S,C,V",3.0
+Debauve & Gallais (Michel Cluizel),France,2008,Venezuela,South America,66.0,60-70%,4,"B,S,C,V",3.75
+Debauve & Gallais (Michel Cluizel),France,2009,Papua New Guinea,Oceania,64.0,60-70%,4,"B,S,C,V",3.0
+Definite,Dominican Republic,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",2.5
+Definite,Dominican Republic,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",2.5
+Definite,Dominican Republic,2018,Dominican Republic,North America,80.0,70-80%,2,"B,S",3.0
+Desbarres,Canada,2016,Tanzania,Africa,72.0,70-80%,2,"B,S",2.5
+Desbarres,Canada,2019,Guatemala,North America,72.0,70-80%,2,"B,S",3.0
+DeVries,U.S.A.,2007,Costa Rica,North America,77.0,70-80%,2,"B,S",3.5
+DeVries,U.S.A.,2007,Dominican Republic,North America,77.0,70-80%,2,"B,S",3.5
+DeVries,U.S.A.,2008,Bolivia,South America,80.0,70-80%,2,"B,S",2.75
+Dick Taylor,U.S.A.,2011,Madagascar,Africa,80.0,70-80%,2,"B,S",2.75
+Dick Taylor,U.S.A.,2011,Venezuela,South America,75.0,70-80%,2,"B,S",2.75
+Dick Taylor,U.S.A.,2011,Dominican Republic,North America,74.0,70-80%,2,"B,S",3.0
+Dick Taylor,U.S.A.,2011,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Dick Taylor,U.S.A.,2012,Bolivia,South America,75.0,70-80%,2,"B,S",2.75
+Dick Taylor,U.S.A.,2013,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Dick Taylor,U.S.A.,2013,Ecuador,South America,76.0,70-80%,2,"B,S",3.5
+Dick Taylor,U.S.A.,2014,Dominican Republic,North America,74.0,70-80%,2,"B,S",3.5
+Dick Taylor,U.S.A.,2015,Bolivia,South America,70.0,60-70%,2,"B,S",3.75
+Dick Taylor,U.S.A.,2016,Vietnam,Asia,78.0,70-80%,2,"B,S",3.5
+Dick Taylor,U.S.A.,2017,Guatemala,North America,70.0,60-70%,2,"B,S",3.75
+Dick Taylor,U.S.A.,2017,Brazil,South America,75.0,70-80%,2,"B,S",3.75
+Dick Taylor,U.S.A.,2017,Solomon Islands,Oceania,72.0,70-80%,2,"B,S",4.0
+Dick Taylor,U.S.A.,2018,Fiji,Oceania,80.0,70-80%,2,"B,S",3.75
+Dick Taylor,U.S.A.,2019,Madagascar,Africa,72.0,70-80%,2,"B,S",3.75
+Dick Taylor,U.S.A.,2019,Belize,North America,72.0,70-80%,2,"B,S",4.0
+Dick Taylor,U.S.A.,2020,Blend,Other,73.0,70-80%,2,"B,S",3.5
+Dick Taylor,U.S.A.,2021,Jamaica,North America,75.0,70-80%,2,"B,S",3.75
+Dick Taylor,U.S.A.,2021,Mexico,North America,72.0,70-80%,2,"B,S",4.0
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,Africa,75.0,70-80%,4,"B,S,C,L",2.5
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,Africa,70.0,60-70%,4,"B,S,C,L",2.75
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,Africa,65.0,60-70%,4,"B,S,C,L",3.0
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,Africa,75.0,70-80%,4,"B,S,C,L",3.0
+Doble & Bignall,U.K.,2014,Panama,North America,72.0,70-80%,3,"B,S,C",3.25
+Doble & Bignall,U.K.,2014,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.25
+Doble & Bignall,U.K.,2014,Nicaragua,North America,72.0,70-80%,3,"B,S,C",3.5
+Doble & Bignall,U.K.,2015,Venezuela,South America,85.0,80-90%,3,"B,S,C",3.0
+Dolfin (Belcolade),Belgium,2006,Blend,Other,70.0,60-70%,3,"B,S,L",1.5
+Dolfin (Belcolade),Belgium,2008,Blend,Other,88.0,80-90%,3,"B,S,L",3.0
+Domori,Italy,2006,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Domori,Italy,2006,Peru,South America,70.0,60-70%,2,"B,S",3.25
+Domori,Italy,2006,Venezuela,South America,70.0,60-70%,2,"B,S",3.5
+Domori,Italy,2007,Venezuela,South America,75.0,70-80%,2,"B,S",3.25
+Domori,Italy,2007,Venezuela,South America,60.0,50-60%,2,"B,S",3.25
+Domori,Italy,2007,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Domori,Italy,2007,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Domori,Italy,2007,Indonesia,Asia,70.0,60-70%,2,"B,S",3.75
+Domori,Italy,2007,Venezuela,South America,70.0,60-70%,2,"B,S",4.0
+Domori,Italy,2007,Ecuador,South America,70.0,60-70%,2,"B,S",4.0
+Domori,Italy,2007,Venezuela,South America,70.0,60-70%,2,"B,S",4.0
+Domori,Italy,2008,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Domori,Italy,2008,Colombia,South America,70.0,60-70%,2,"B,S",3.0
+Domori,Italy,2008,Blend,Other,78.0,70-80%,2,"B,S",3.5
+Domori,Italy,2008,Blend,Other,70.0,60-70%,2,"B,S",3.75
+Domori,Italy,2010,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Domori,Italy,2011,Venezuela,South America,70.0,60-70%,2,"B,S",3.5
+Domori,Italy,2012,Tanzania,Africa,70.0,60-70%,2,"B,S",3.5
+Domori,Italy,2012,Venezuela,South America,70.0,60-70%,2,"B,S",3.75
+Domori,Italy,2015,Ecuador,South America,70.0,60-70%,2,"B,S",3.75
+Domori,Italy,2015,Venezuela,South America,70.0,60-70%,2,"B,S",3.75
+Domori,Italy,2018,Tanzania,Africa,70.0,60-70%,2,"B,S",4.0
+Dormouse,U.K.,2015,Venezuela,South America,70.0,60-70%,3,"B,S,C",2.5
+Dormouse,U.K.,2015,Colombia,South America,80.0,70-80%,3,"B,S,C",2.75
+Dormouse,U.K.,2015,Madagascar,Africa,77.0,70-80%,3,"B,S,C",2.75
+Dormouse,U.K.,2016,Grenada,North America,75.0,70-80%,3,"B,S*,C",2.75
+Dormouse,U.K.,2018,Philippines,Asia,71.5,70-80%,3,"B,S*,C",2.75
+Dormouse,U.K.,2018,Guatemala,North America,72.0,70-80%,3,"B,S*,C",3.5
+Dormouse,U.K.,2018,Peru,South America,80.0,70-80%,2,"B,S*",3.5
+Dormouse,U.K.,2021,Belize,North America,78.0,70-80%,3,"B,S,C",3.25
+Double Spiral,U.S.A.,2019,Dominican Republic,North America,75.0,70-80%,2,"B,S",2.5
+Double Spiral,U.S.A.,2019,Tanzania,Africa,70.0,60-70%,2,"B,S",2.75
+Double Spiral,U.S.A.,2019,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.0
+Duffy's,U.K.,2010,Ecuador,South America,70.0,60-70%,3,"B,S,C",2.5
+Duffy's,U.K.,2010,Panama,North America,70.0,60-70%,3,"B,S,C",3.5
+Duffy's,U.K.,2010,Ecuador,South America,72.0,70-80%,3,"B,S,C",3.75
+Duffy's,U.K.,2010,Peru,South America,70.0,60-70%,3,"B,S,C",3.75
+Duffy's,U.K.,2011,Panama,North America,72.0,70-80%,3,"B,S,C",3.0
+Duffy's,U.K.,2011,Nicaragua,North America,71.0,70-80%,3,"B,S,C",3.25
+Duffy's,U.K.,2011,Dominican Republic,North America,65.0,60-70%,3,"B,S,C",3.5
+Duffy's,U.K.,2011,Venezuela,South America,71.0,70-80%,3,"B,S,C",3.5
+Duffy's,U.K.,2011,Honduras,North America,72.0,70-80%,3,"B,S,C",3.75
+Duffy's,U.K.,2012,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.75
+Duffy's,U.K.,2014,Nicaragua,North America,70.0,60-70%,4,"B,S,C,L",3.5
+Duffy's,U.K.,2014,Nicaragua,North America,76.0,70-80%,4,"B,S,C,L",3.75
+Duffy's,U.K.,2015,Guatemala,North America,70.0,60-70%,4,"B,S,C,L",4.0
+Duffy's,U.K.,2017,Nigeria,Africa,70.0,60-70%,4,"B,S,C,L",2.75
+Duffy's,U.K.,2018,Guatemala,North America,80.0,70-80%,4,"B,S,C,L",3.25
+Duffy's,U.K.,2019,Philippines,Asia,70.0,60-70%,4,"B,S,C,L",3.5
+Duffy's,U.K.,2021,Nicaragua,North America,70.0,60-70%,4,"B,S,C,L",3.5
+Dulcinea,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Durci,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.25
+Durci,U.S.A.,2015,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.25
+Durci,U.S.A.,2015,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Durci,U.S.A.,2015,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Durci,U.S.A.,2015,Ecuador,South America,70.0,60-70%,3,"B,S,C",4.0
+Durci,U.S.A.,2018,Peru,South America,70.0,60-70%,3,"B,S,C",4.0
+East Van Roasters,Canada,2014,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+East Van Roasters,Canada,2014,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+East Van Roasters,Canada,2014,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Eau de Rose,Canada,2016,Colombia,South America,70.0,60-70%,3,"B,S,C",3.25
+Eau de Rose,Canada,2016,Colombia,South America,70.0,60-70%,3,"B,S,C",3.25
+Eclat (Felchlin),U.S.A.,2012,Peru,South America,72.0,70-80%,3,"B,S,C",2.75
+Eclat (Fruition),U.S.A.,2019,Peru,South America,80.0,70-80%,2,"B,S",3.5
+Edelmond,Germany,2016,Venezuela,South America,68.0,60-70%,2,"B,S",3.0
+El Buen,U.S.A.,2020,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+El Buen,U.S.A.,2020,Colombia,South America,70.0,60-70%,2,"B,S",3.0
+El Ceibo,Bolivia,2008,Bolivia,South America,71.0,70-80%,4,"B,S,C,L",2.75
+El Ceibo,Bolivia,2011,Bolivia,South America,75.0,70-80%,4,"B,S,C,L",3.75
+El Rey,Venezuela,2006,Venezuela,South America,70.0,60-70%,5,"B,S,C,V,L",2.75
+El Rey,Venezuela,2008,Venezuela,South America,74.0,70-80%,5,"B,S,C,V,L",2.5
+El Rey,Venezuela,2008,Venezuela,South America,58.0,50-60%,5,"B,S,C,V,L",2.5
+El Rey,Venezuela,2008,Venezuela,South America,61.0,60-70%,5,"B,S,C,V,L",3.0
+El Rey,Venezuela,2009,Venezuela,South America,60.5,60-70%,5,"B,S,C,V,L",2.75
+El Rey,Venezuela,2009,Venezuela,South America,70.0,60-70%,5,"B,S,C,V,L",3.0
+El Rey,Venezuela,2015,Venezuela,South America,70.0,60-70%,5,"B,S,C,V,L",3.75
+Eldora,U.S.A.,2019,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.5
+Emerald Estate,St. Lucia,2013,St. Lucia,North America,60.0,50-60%,2,"B,S",2.75
+Emerald Estate,St. Lucia,2013,St. Lucia,North America,70.0,60-70%,2,"B,S",3.25
+Emily's,Japan,2015,Venezuela,South America,79.0,70-80%,3,"B,S,C",3.0
+Emily's,Japan,2015,Peru,South America,78.0,70-80%,3,"B,S,C",3.5
+Encuentro,France,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Encuentro,France,2018,Haiti,North America,70.0,60-70%,2,"B,S",3.5
+Encuentro,France,2018,Guatemala,North America,70.0,60-70%,2,"B,S",3.5
+Encuentro,France,2018,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+ENNA,U.S.A.,2016,Honduras,North America,75.0,70-80%,2,"B,S",3.25
+ENNA,U.S.A.,2018,Vietnam,Asia,72.0,70-80%,2,"B,S",3.0
+ENNA,U.S.A.,2019,Sierra Leone,Africa,70.0,60-70%,3,"B,S,C",2.5
+ENNA,U.S.A.,2019,Tanzania,Africa,80.0,70-80%,3,"B,S,C",3.0
+ENNA,U.S.A.,2019,Trinidad,North America,72.0,70-80%,3,"B,S,C",3.5
+Erithaj (A. Morin),France,2014,Vietnam,Asia,80.0,70-80%,3,"B,S,C",3.0
+Erithaj (A. Morin),France,2014,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.25
+Erithaj (A. Morin),France,2014,Vietnam,Asia,74.0,70-80%,3,"B,S,C",3.25
+Escazu,U.S.A.,2008,Venezuela,South America,72.0,70-80%,4,"B,S,C,V",3.0
+Escazu,U.S.A.,2009,Costa Rica,North America,65.0,60-70%,4,"B,S,C,V",2.0
+Escazu,U.S.A.,2009,Blend,Other,74.0,70-80%,4,"B,S,C,V",2.75
+Escazu,U.S.A.,2009,Venezuela,South America,81.0,80-90%,4,"B,S,C,V",3.5
+Escazu,U.S.A.,2012,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",2.75
+Escazu,U.S.A.,2021,Blend,Other,65.0,60-70%,3,"B,S,C",3.0
+Escazu,U.S.A.,2021,Colombia,South America,70.0,60-70%,2,"B,S",3.5
+Ethel's Artisan (Mars),U.S.A.,2011,Blend,Other,55.0,50-60%,4,"B,S,C,V",2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Trinidad,North America,55.0,50-60%,4,"B,S,C,V",2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Venezuela,South America,70.0,60-70%,4,"B,S,C,V",2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Blend,Other,62.0,60-70%,4,"B,S,C,V",2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Blend,Other,62.0,60-70%,4,"B,S,C,V",2.75
+Ethereal,U.S.A.,2014,Belize,North America,80.0,70-80%,3,"B,S,C",3.0
+Ethereal,U.S.A.,2014,Ecuador,South America,80.0,70-80%,3,"B,S,C",3.5
+Ethereal,U.S.A.,2014,Dominican Republic,North America,80.0,70-80%,3,"B,S,C",3.75
+Ethereal,U.S.A.,2018,Guatemala,North America,80.0,70-80%,3,"B,S,C",3.5
+Ethereal,U.S.A.,2021,Uganda,Africa,70.0,60-70%,3,"B,S,C",3.0
+Exquisito,U.S.A.,2019,Peru,South America,73.0,70-80%,3,"B,S,C",3.0
+Fearless (AMMA),U.S.A.,2010,Brazil,South America,75.0,70-80%,2,"B,S",2.75
+Feitoria Cacao,Portugal,2016,Venezuela,South America,76.0,70-80%,2,"B,S",2.5
+Feitoria Cacao,Portugal,2016,Belize,North America,76.0,70-80%,2,"B,S",2.75
+Feitoria Cacao,Portugal,2016,Jamaica,North America,76.0,70-80%,2,"B,S",3.0
+Felchlin,Switzerland,2006,Blend,Other,62.0,60-70%,5,"B,S,C,V,L",2.0
+Felchlin,Switzerland,2006,Madagascar,Africa,64.0,60-70%,5,"B,S,C,V,L",3.0
+Felchlin,Switzerland,2006,Venezuela,South America,65.0,60-70%,5,"B,S,C,V,L",3.0
+Felchlin,Switzerland,2006,Dominican Republic,North America,74.0,70-80%,5,"B,S,C,V,L",3.0
+Felchlin,Switzerland,2006,Ecuador,South America,72.0,70-80%,5,"B,S,C,V,L",3.5
+Felchlin,Switzerland,2006,Bolivia,South America,68.0,60-70%,5,"B,S,C,V,L",4.0
+Felchlin,Switzerland,2010,Grenada,North America,58.0,50-60%,5,"B,S,C,V,L",3.5
+Finca,U.S.A.,2014,Puerto Rico,North America,65.0,60-70%,3,"B,S,C",2.25
+Finca,U.S.A.,2014,Dominican Republic,North America,85.0,80-90%,3,"B,S,C",2.5
+Finca,U.S.A.,2014,Dominican Republic,North America,80.0,70-80%,3,"B,S,C",3.0
+Finca,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.25
+Finnia,Canada,2020,Honduras,North America,70.0,60-70%,3,"B,S,C",2.75
+Finnia,Canada,2020,Colombia,South America,70.0,60-70%,3,"B,S,C",2.75
+Finnia,Canada,2020,Mexico,North America,70.0,60-70%,3,"B,S,C",3.0
+Finnia,Canada,2020,Blend,Other,70.0,60-70%,3,"B,S,C",3.25
+Firetree,U.K.,2019,Philippines,Asia,73.0,70-80%,4,"B,S,C,L",3.25
+Firetree,U.K.,2019,Papua New Guinea,Oceania,72.0,70-80%,4,"B,S,C,L",3.5
+Firetree,U.K.,2019,Solomon Islands,Oceania,69.0,60-70%,4,"B,S,C,L",3.5
+Firetree,U.K.,2019,Vanuatu,Oceania,72.0,70-80%,4,"B,S,C,L",3.75
+Five (5)Mile,U.S.A.,2018,Belize,North America,75.0,70-80%,2,"B,S",2.75
+Five (5)Mile,U.S.A.,2018,Guatemala,North America,75.0,70-80%,2,"B,S",2.75
+Five (5)Mile,U.S.A.,2018,Colombia,South America,75.0,70-80%,2,"B,S",3.0
+Five (5)Mile,U.S.A.,2018,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.5
+FJAK,Norway,2018,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.0
+FJAK,Norway,2018,India,Asia,68.0,60-70%,3,"B,S,C",3.5
+FJAK,Norway,2018,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.5
+Forever Cacao,U.K.,2014,Peru,South America,72.0,70-80%,3,"B,S*,C",2.75
+Forteza (Cortes),Puerto Rico,2016,Dominican Republic,North America,70.0,60-70%,6,"B,S,C,V,L,Sa",2.75
+Forteza (Cortes),Puerto Rico,2016,Dominican Republic,North America,80.0,70-80%,6,"B,S,C,V,L,Sa",2.75
+Fossa,Singapore,2016,Madagascar,Africa,70.0,60-70%,2,"B,S",2.75
+Fossa,Singapore,2016,Ecuador,South America,75.0,70-80%,2,"B,S",3.5
+Fossa,Singapore,2016,Tanzania,Africa,67.0,60-70%,2,"B,S",3.75
+Fossa,Singapore,2018,Dominican Republic,North America,72.0,70-80%,2,"B,S",2.75
+Fossa,Singapore,2018,Bolivia,South America,70.0,60-70%,2,"B,S",3.0
+Fossa,Singapore,2018,Indonesia,Asia,70.0,60-70%,2,"B,S",3.0
+Fossa,Singapore,2018,Philippines,Asia,70.0,60-70%,2,"B,S",3.25
+Fossa,Singapore,2018,Haiti,North America,68.0,60-70%,2,"B,S",3.5
+Fossa,Singapore,2019,Mexico,North America,70.0,60-70%,2,"B,S",3.0
+Fossa,Singapore,2019,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Fossa,Singapore,2021,Indonesia,Asia,72.0,70-80%,2,"B,S",3.5
+Fossa,Singapore,2021,Malaysia,Asia,72.0,70-80%,2,"B,S",3.5
+Foundry,New Zealand,2019,Papua New Guinea,Oceania,70.0,60-70%,2,"B,S",3.0
+Foundry,New Zealand,2019,Bolivia,South America,70.0,60-70%,2,"B,S",3.0
+Foundry,New Zealand,2019,Vanuatu,Oceania,70.0,60-70%,2,"B,S",3.0
+Foundry,New Zealand,2019,Colombia,South America,70.0,60-70%,2,"B,S",3.0
+Foundry,New Zealand,2019,Tanzania,Africa,70.0,60-70%,2,"B,S",3.25
+Foundry,New Zealand,2019,Ecuador,South America,70.0,60-70%,2,"B,S",3.75
+Foundry,New Zealand,2019,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Franceschi,Venezuela,2012,Venezuela,South America,60.0,50-60%,3,"B,S,C",3.5
+Franceschi,Venezuela,2012,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+Franceschi,Venezuela,2014,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Franceschi,Venezuela,2014,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+Franceschi,Venezuela,2018,Venezuela,South America,60.0,50-60%,4,"B,S,C,L",2.5
+Franceschi,Venezuela,2018,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.0
+Franceschi,Venezuela,2018,Venezuela,South America,85.0,80-90%,2,"B,S",3.0
+Franceschi,Venezuela,2018,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.25
+Franceschi,Venezuela,2018,Venezuela,South America,72.0,70-80%,2,"B,S",3.5
+Frederic Blondeel,Belgium,2014,Ghana,Africa,60.0,50-60%,4,"B,S,C,L",3.5
+Frederic Blondeel,Belgium,2014,Madagascar,Africa,65.0,60-70%,4,"B,S,C,L",3.5
+Frederic Blondeel,Belgium,2015,Vietnam,Asia,80.0,70-80%,4,"B,S,C,L",3.0
+Frederic Blondeel,Belgium,2015,Costa Rica,North America,70.0,60-70%,4,"B,S,C,L",3.5
+Frederic Blondeel,Belgium,2015,Peru,South America,75.0,70-80%,4,"B,S,C,L",3.5
+French Broad,U.S.A.,2011,Peru,South America,70.0,60-70%,2,"B,S",3.5
+French Broad,U.S.A.,2011,Dominican Republic,North America,65.0,60-70%,2,"B,S",3.5
+French Broad,U.S.A.,2012,Peru,South America,81.0,80-90%,2,"B,S*",2.0
+French Broad,U.S.A.,2012,Peru,South America,70.0,60-70%,2,"B,S",2.5
+French Broad,U.S.A.,2012,Peru,South America,66.0,60-70%,2,"B,S*",3.5
+French Broad,U.S.A.,2013,Peru,South America,66.0,60-70%,2,"B,S",3.5
+French Broad,U.S.A.,2014,Costa Rica,North America,80.0,70-80%,2,"B,S",3.0
+French Broad,U.S.A.,2014,Nicaragua,North America,68.0,60-70%,2,"B,S",3.25
+French Broad,U.S.A.,2015,Guatemala,North America,73.0,70-80%,2,"B,S",3.5
+French Broad,U.S.A.,2017,Peru,South America,70.0,60-70%,2,"B,S",3.5
+French Broad,U.S.A.,2019,India,Asia,71.0,70-80%,3,"B,S,C",3.25
+Fresco,U.S.A.,2009,Jamaica,North America,80.0,70-80%,3,"B,S,C",2.75
+Fresco,U.S.A.,2009,Jamaica,North America,70.0,60-70%,3,"B,S,C",3.0
+Fresco,U.S.A.,2009,Jamaica,North America,70.0,60-70%,3,"B,S,C",3.25
+Fresco,U.S.A.,2009,Venezuela,South America,65.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2011,Ghana,Africa,74.0,70-80%,3,"B,S,C",2.75
+Fresco,U.S.A.,2011,Madagascar,Africa,74.0,70-80%,3,"B,S,C",2.75
+Fresco,U.S.A.,2011,Madagascar,Africa,74.0,70-80%,3,"B,S,C",3.0
+Fresco,U.S.A.,2011,Jamaica,North America,70.0,60-70%,3,"B,S,C",3.25
+Fresco,U.S.A.,2011,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.25
+Fresco,U.S.A.,2011,Venezuela,South America,76.0,70-80%,3,"B,S,C",3.25
+Fresco,U.S.A.,2011,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.5
+Fresco,U.S.A.,2011,Jamaica,North America,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2011,Venezuela,South America,70.0,60-70%,3,"B,S,C",4.0
+Fresco,U.S.A.,2012,Papua New Guinea,Oceania,69.0,60-70%,2,"B,S",3.0
+Fresco,U.S.A.,2012,Papua New Guinea,Oceania,69.0,60-70%,2,"B,S",3.5
+Fresco,U.S.A.,2012,Papua New Guinea,Oceania,69.0,60-70%,2,"B,S",3.5
+Fresco,U.S.A.,2012,Madagascar,Africa,74.0,70-80%,3,"B,S,C",4.0
+Fresco,U.S.A.,2012,Papua New Guinea,Oceania,69.0,60-70%,2,"B,S",4.0
+Fresco,U.S.A.,2013,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.25
+Fresco,U.S.A.,2013,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.75
+Fresco,U.S.A.,2013,Peru,South America,70.0,60-70%,3,"B,S,C",3.75
+Fresco,U.S.A.,2013,Peru,South America,70.0,60-70%,3,"B,S,C",4.0
+Fresco,U.S.A.,2014,Peru,South America,70.0,60-70%,3,"B,S,C",3.0
+Fresco,U.S.A.,2014,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2014,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2014,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2017,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2017,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2017,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.75
+Fresco,U.S.A.,2018,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.25
+Fresco,U.S.A.,2018,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.5
+Fresco,U.S.A.,2021,Peru,South America,74.0,70-80%,3,"B,S,C",3.0
+Fresco,U.S.A.,2021,Ghana,Africa,68.0,60-70%,3,"B,S,C",3.25
+Fresco,U.S.A.,2021,Peru,South America,74.0,70-80%,3,"B,S,C",3.25
+Fresco,U.S.A.,2021,Ghana,Africa,68.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2021,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2021,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Fresco,U.S.A.,2021,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Fresco,U.S.A.,2021,Venezuela,South America,68.0,60-70%,3,"B,S,C",4.0
+Fresh Coast,U.S.A.,2017,Brazil,South America,70.0,60-70%,2,"B,S",3.5
+Fresh Coast,U.S.A.,2017,Tanzania,Africa,70.0,60-70%,2,"B,S",3.75
+Fresh Coast aka Just Good Choc.,U.S.A.,2014,Belize,North America,70.0,60-70%,2,"B,S",3.5
+Fresh Coast aka Just Good Choc.,U.S.A.,2014,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Fresh Coast aka Just Good Choc.,U.S.A.,2014,Peru,South America,70.0,60-70%,2,"B,S",4.0
+Friis Holm,Denmark,2016,Nicaragua,North America,70.0,60-70%,2,"B,S",3.5
+Friis Holm,Denmark,2017,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Friis Holm,Denmark,2018,Nicaragua,North America,60.0,50-60%,3,"B,S,C",3.0
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.0
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Friis Holm,Denmark,2018,Nicaragua,North America,68.0,60-70%,3,"B,S,C",3.5
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Friis Holm,Denmark,2018,Guatemala,North America,70.0,60-70%,3,"B,S,C",4.0
+Friis Holm,Denmark,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",4.0
+Friis Holm (Bonnat),Denmark,2011,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Friis Holm (Bonnat),Denmark,2011,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Friis Holm (Bonnat),Denmark,2011,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Friis Holm (Bonnat),Denmark,2012,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Friis Holm (Bonnat),Denmark,2012,Honduras,North America,70.0,60-70%,3,"B,S,C",3.25
+Friis Holm (Bonnat),Denmark,2012,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Friis Holm (Bonnat),Denmark,2012,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Friis Holm (Bonnat),Denmark,2013,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Friis Holm (Bonnat),Denmark,2013,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Friis Holm (Bonnat),Denmark,2014,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Friis Holm (Bonnat),Denmark,2015,Nicaragua,North America,60.0,50-60%,3,"B,S,C",3.0
+Friis Holm (Bonnat),Denmark,2015,Nicaragua,North America,85.0,80-90%,3,"B,S,C",3.25
+Fruition,U.S.A.,2011,Costa Rica,North America,70.0,60-70%,3,"B,S,C",3.0
+Fruition,U.S.A.,2011,Costa Rica,North America,66.0,60-70%,3,"B,S,C",3.25
+Fruition,U.S.A.,2012,Peru,South America,70.0,60-70%,3,"B,S,C",2.5
+Fruition,U.S.A.,2013,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.0
+Fruition,U.S.A.,2013,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Fruition,U.S.A.,2014,Peru,South America,76.0,70-80%,3,"B,S,C",3.0
+Fruition,U.S.A.,2014,Trinidad,North America,70.0,60-70%,3,"B,S,C",3.75
+Fruition,U.S.A.,2016,Bolivia,South America,74.0,70-80%,2,"B,S",3.75
+Fruition,U.S.A.,2016,Costa Rica,North America,74.0,70-80%,2,"B,S",4.0
+Fruition,U.S.A.,2019,Colombia,South America,85.0,80-90%,2,"B,S",3.5
+Fruition,U.S.A.,2019,Madagascar,Africa,74.0,70-80%,2,"B,S",3.75
+Fruition,U.S.A.,2021,Dominican Republic,North America,77.0,70-80%,2,"B,S",3.25
+Fruition,U.S.A.,2021,Dominican Republic,North America,68.0,60-70%,4,"B,S,C,V",3.75
+Fruition,U.S.A.,2021,Peru,South America,72.0,70-80%,3,"B,S,C",3.75
+Fu Wan,Taiwan,2018,Taiwan,Asia,70.0,60-70%,3,"B,S,C",2.5
+Fu Wan,Taiwan,2018,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Fu Wan,Taiwan,2018,Tanzania,Africa,70.0,60-70%,2,"B,S",3.0
+Fu Wan,Taiwan,2018,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Garden Island,U.S.A.,2014,U.S.A.,North America,85.0,80-90%,3,"B,S,V",2.5
+Georgia Ramon,Germany,2015,Madagascar,Africa,65.0,60-70%,4,"B,S,C,L",3.25
+Georgia Ramon,Germany,2015,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,L",3.5
+Georgia Ramon,Germany,2015,Dominican Republic,North America,80.0,70-80%,4,"B,S,C,L",3.5
+Georgia Ramon,Germany,2015,Madagascar,Africa,75.0,70-80%,4,"B,S,C,L",3.5
+Georgia Ramon,Germany,2015,Ghana,Africa,70.0,60-70%,4,"B,S,C,L",4.0
+Georgia Ramon,Germany,2017,St. Lucia,North America,77.0,70-80%,3,"B,S,C",3.5
+Georgia Ramon,Germany,2017,Venezuela,South America,75.0,70-80%,3,"B,S,C",3.5
+Georgia Ramon,Germany,2018,Guatemala,North America,72.0,70-80%,3,"B,S,C",2.75
+Georgia Ramon,Germany,2019,Venezuela,South America,75.0,70-80%,3,"B,S,C",2.75
+Glennmade,U.S.A.,2015,Brazil,South America,66.0,60-70%,2,"B,S",3.0
+Glennmade,U.S.A.,2016,Belize,North America,70.0,60-70%,2,"B,S",3.5
+Goodnow Farms,U.S.A.,2016,Mexico,North America,77.0,70-80%,3,"B,S,C",2.75
+Goodnow Farms,U.S.A.,2016,Guatemala,North America,77.0,70-80%,3,"B,S,C",3.25
+Goodnow Farms,U.S.A.,2016,Nicaragua,North America,77.0,70-80%,3,"B,S,C",3.25
+Goodnow Farms,U.S.A.,2017,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+Goodnow Farms,U.S.A.,2019,Colombia,South America,73.0,70-80%,3,"B,S,C",2.5
+Goodnow Farms,U.S.A.,2019,Costa Rica,North America,73.0,70-80%,3,"B,S,C",3.0
+Goodnow Farms,U.S.A.,2021,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.75
+Gotham,U.S.A.,2018,Belize,North America,70.0,60-70%,2,"B,S",2.75
+Gotham,U.S.A.,2021,India,Asia,70.0,60-70%,2,"B,S",3.0
+Gotham,U.S.A.,2021,Bolivia,South America,70.0,60-70%,2,"B,S",3.25
+Gotham,U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Grand Place,Vietnam,2011,Vietnam,Asia,72.0,70-80%,5,"B,S,C,V,L",3.0
+Great Lakes,U.S.A.,2021,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.5
+Great Lakes,U.S.A.,2021,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.5
+Great Lakes,U.S.A.,2021,Dominican Republic,North America,75.0,70-80%,3,"B,S,C",3.5
+Great Lakes,U.S.A.,2021,Vietnam,Asia,73.0,70-80%,3,"B,S,C",3.5
+Green & Black's (ICAM),U.K.,2006,Blend,Other,70.0,60-70%,5,"B,S,C,V,L",2.5
+Green Bean to Bar,Japan,2016,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Green Bean to Bar,Japan,2019,Peru,South America,73.0,70-80%,2,"B,S",2.5
+Green Door,U.K.,2021,India,Asia,70.0,60-70%,3,"B,S,C",3.0
+Grenada Chocolate Co.,Grenada,2008,Grenada,North America,71.0,70-80%,5,"B,S,C,V,L",2.5
+Grenada Chocolate Co.,Grenada,2009,Grenada,North America,60.0,50-60%,5,"B,S,C,V,L",2.75
+Grenada Chocolate Co.,Grenada,2010,Grenada,North America,82.0,80-90%,5,"B,S,C,V,L",3.25
+Guido Castagna,Italy,2009,Ecuador,South America,64.0,60-70%,4,"B,S,C,L",3.0
+Guido Castagna,Italy,2009,Ghana,Africa,64.0,60-70%,4,"B,S,C,L",3.0
+Guido Castagna,Italy,2009,Blend,Other,64.0,60-70%,4,"B,S,C,L",3.0
+Guido Castagna,Italy,2009,Venezuela,South America,76.0,70-80%,4,"B,S,C,L",3.0
+Guido Castagna,Italy,2009,Blend,Other,64.0,60-70%,4,"B,S,C,L",3.25
+Guido Castagna,Italy,2018,Madagascar,Africa,70.0,60-70%,4,"B,S,C,L",2.75
+Guittard,U.S.A.,2006,Venezuela,South America,65.0,60-70%,5,"B,S,C,V,L",2.5
+Guittard,U.S.A.,2006,Colombia,South America,65.0,60-70%,5,"B,S,C,V,L",3.0
+Guittard,U.S.A.,2006,Blend,Other,61.0,60-70%,5,"B,S,C,V,L",3.0
+Guittard,U.S.A.,2006,Madagascar,Africa,65.0,60-70%,5,"B,S,C,V,L",3.5
+Guittard,U.S.A.,2006,Ecuador,South America,65.0,60-70%,5,"B,S,C,V,L",3.5
+Guittard,U.S.A.,2006,Blend,Other,61.0,60-70%,5,"B,S,C,V,L",3.5
+Guittard,U.S.A.,2007,Blend,Other,72.0,70-80%,5,"B,S,C,V,L",3.5
+Guittard,U.S.A.,2008,Peru,South America,65.0,60-70%,5,"B,S,C,V,L",3.0
+Guittard,U.S.A.,2008,Blend,Other,64.0,60-70%,5,"B,S,C,V,L",3.0
+Guittard,U.S.A.,2008,Venezuela,South America,65.0,60-70%,5,"B,S,C,V,L",3.5
+Guittard,U.S.A.,2009,U.S.A.,North America,55.0,50-60%,5,"B,S,C,V,L",3.0
+Guittard,U.S.A.,2009,Blend,Other,91.0,90-100%,5,"B,S,C,V,L",3.0
+Guittard,U.S.A.,2009,Blend,Other,70.0,60-70%,5,"B,S,C,V,L",3.5
+Guittard,U.S.A.,2010,Trinidad,North America,65.0,60-70%,5,"B,S,C,V,L",3.0
+Guittard,U.S.A.,2011,Blend,Other,72.0,70-80%,5,"B,S,C,V,L",2.75
+Guittard,U.S.A.,2011,Blend,Other,61.0,60-70%,5,"B,S,C,V,L",3.25
+Guittard,U.S.A.,2011,Blend,Other,72.0,70-80%,5,"B,S,C,V,L",3.25
+Guittard,U.S.A.,2013,Haiti,North America,65.0,60-70%,5,"B,S,C,V,L",2.75
+Guittard,U.S.A.,2013,Nicaragua,North America,65.0,60-70%,5,"B,S,C,V,L",2.75
+Guittard,U.S.A.,2013,Jamaica,North America,65.0,60-70%,5,"B,S,C,V,L",3.25
+Guittard,U.S.A.,2013,Ecuador,South America,65.0,60-70%,5,"B,S,C,V,L",3.5
+Guittard,U.S.A.,2015,Blend,Other,70.0,60-70%,5,"B,S,C,V,L",3.75
+Habitual,Canada,2014,Papua New Guinea,Oceania,80.0,70-80%,3,"B,S,C",2.75
+Habitual,Canada,2014,Blend,Other,74.0,70-80%,3,"B,S,C",2.75
+Habitual,Canada,2014,Blend,Other,65.0,60-70%,3,"B,S,C",2.75
+Habitual,Canada,2014,Blend,Other,70.0,60-70%,3,"B,S,C",3.0
+Habitual,Canada,2014,Blend,Other,80.0,70-80%,3,"B,S,C",3.0
+Habitual,Canada,2014,Dominican Republic,North America,75.0,70-80%,3,"B,S,C",3.25
+Habitual,Canada,2014,U.S.A.,North America,66.0,60-70%,3,"B,S,C",3.25
+Habitual,Canada,2014,Blend,Other,70.0,60-70%,3,"B,S,C",3.5
+Hachez,Germany,2007,Ecuador,South America,77.0,70-80%,4,"B,S,C,V",2.5
+Hacienda El Castillo,Ecuador,2014,Ecuador,South America,55.0,50-60%,4,"B,S,C,L",2.75
+Hacienda El Castillo,Ecuador,2014,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.0
+Harper Macaw,U.S.A.,2015,Brazil,South America,67.0,60-70%,3,"B,S,C",3.0
+Harper Macaw,U.S.A.,2015,Brazil,South America,77.0,70-80%,3,"B,S,C",3.5
+Harper Macaw,U.S.A.,2015,Brazil,South America,74.0,70-80%,3,"B,S,C",3.5
+Harper Macaw,U.S.A.,2016,Brazil,South America,85.0,80-90%,3,"B,S,C",3.25
+Harper Macaw,U.S.A.,2018,Brazil,South America,75.0,70-80%,3,"B,S,C",3.0
+Harris & James,U.K.,2019,India,Asia,70.0,60-70%,3,"B,S,C",3.0
+Harris & James,U.K.,2019,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.25
+Hazel Hill,U.S.A.,2019,Peru,South America,65.0,60-70%,3,"B,S,C",2.75
+Hazel Hill,U.S.A.,2019,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.25
+Hazel Hill,U.S.A.,2019,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Hecho,Mexico,2021,Mexico,North America,70.0,60-70%,2,"B,S",3.5
+Heilemann,Germany,2016,Peru,South America,64.0,60-70%,3,"B,S,L",2.75
+Heinde & Verre,Netherlands,2019,Indonesia,Asia,71.0,70-80%,4,"B,S,C,L",2.5
+Heinde & Verre,Netherlands,2019,Blend,Other,71.0,70-80%,4,"B,S,C,L",2.5
+Heinde & Verre,Netherlands,2019,Venezuela,South America,71.0,70-80%,4,"B,S,C,L",3.0
+Heirloom Cacao Preservation (Brasstown),U.S.A.,2016,Belize,North America,70.0,60-70%,3,"B,S,C",3.25
+Heirloom Cacao Preservation (Fruition),U.S.A.,2016,Costa Rica,North America,74.0,70-80%,3,"B,S,C",3.5
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,Bolivia,South America,67.0,60-70%,3,"B,S,C",3.0
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,Bolivia,South America,67.0,60-70%,3,"B,S,C",3.5
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,Ecuador,South America,67.0,60-70%,3,"B,S,C",3.75
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,U.S.A.,North America,67.0,60-70%,3,"B,S,C",3.75
+Heirloom Cacao Preservation (Manoa),U.S.A.,2016,U.S.A.,North America,72.0,70-80%,3,"B,S,C",3.5
+Heirloom Cacao Preservation (Millcreek),U.S.A.,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.5
+Heirloom Cacao Preservation (Mindo),U.S.A.,2016,Ecuador,South America,77.0,70-80%,3,"B,S,C",3.5
+Heirloom Cacao Preservation (Zokoko),U.S.A.,2016,Bolivia,South America,68.0,60-70%,3,"B,S,C",3.75
+Heirloom Cacao Preservation (Zokoko),U.S.A.,2016,Bolivia,South America,72.0,70-80%,3,"B,S,C",4.0
+hello cocoa (now Markham & Fitz),U.S.A.,2015,Uganda,Africa,57.0,50-60%,3,"B,S,C",2.75
+hello cocoa (now Markham & Fitz),U.S.A.,2015,Venezuela,South America,74.0,70-80%,3,"B,S,C",3.5
+Hemisphere,U.S.A.,2021,Ecuador,South America,70.0,60-70%,2,"B,S",2.75
+Hemisphere,U.S.A.,2021,Nicaragua,North America,70.0,60-70%,2,"B,S",3.25
+hexx,U.S.A.,2015,Tanzania,Africa,70.0,60-70%,2,"B,S*",2.75
+hexx,U.S.A.,2015,Madagascar,Africa,74.0,70-80%,2,"B,S*",3.0
+hexx,U.S.A.,2015,Venezuela,South America,70.0,60-70%,2,"B,S*",3.0
+hexx,U.S.A.,2015,Ecuador,South America,73.0,70-80%,2,"B,S*",3.25
+hexx,U.S.A.,2015,Peru,South America,70.0,60-70%,2,"B,S*",3.25
+hexx,U.S.A.,2018,Peru,South America,70.0,60-70%,2,"B,S*",2.25
+hexx,U.S.A.,2018,Ecuador,South America,73.0,70-80%,2,"B,S*",2.5
+hexx,U.S.A.,2018,Madagascar,Africa,74.0,70-80%,2,"B,S*",2.75
+hexx,U.S.A.,2018,Tanzania,Africa,70.0,60-70%,2,"B,S*",3.0
+hexx,U.S.A.,2018,Dominican Republic,North America,71.0,70-80%,2,"B,S*",3.5
+Hogarth,New Zealand,2016,Madagascar,Africa,70.0,60-70%,3,"B,S,C",2.75
+Hogarth,New Zealand,2016,Venezuela,South America,72.0,70-80%,3,"B,S,C",2.75
+Hogarth,New Zealand,2016,Dominican Republic,North America,75.0,70-80%,3,"B,S,C",3.25
+Hogarth,New Zealand,2016,Peru,South America,66.0,60-70%,3,"B,S,C",3.5
+Hogarth,New Zealand,2019,Venezuela,South America,68.0,60-70%,3,"B,S,C",3.25
+Hogarth,New Zealand,2019,Ecuador,South America,85.0,80-90%,3,"B,S,C",3.5
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,South America,80.0,70-80%,4,"B,S,C,L",2.0
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,South America,80.0,70-80%,2,"B,S",2.5
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,South America,72.0,70-80%,2,"B,S",3.0
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,South America,58.0,50-60%,4,"B,S,C,L",3.25
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,South America,58.0,50-60%,4,"B,S,C,L",3.5
+Holy Cacao,Israel,2009,Ivory Coast,Africa,70.0,60-70%,2,"B,S",2.5
+Holy Cacao,Israel,2009,Dominican Republic,North America,70.0,60-70%,2,"B,S",2.75
+Holy Cacao,Israel,2009,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Holy Cacao,Israel,2009,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.75
+Holy Cacao,Israel,2015,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Holy Cacao,Israel,2015,Madagascar,Africa,70.0,60-70%,4,"B,S,C,L",3.5
+Holy Cacao,Israel,2015,Trinidad,North America,70.0,60-70%,4,"B,S,C,L",3.5
+Holy Cacao,Israel,2015,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Holy Cacao,Israel,2016,Peru,South America,70.0,60-70%,4,"B,S,C,L",2.75
+Honest,South Africa,2014,Ecuador,South America,72.0,70-80%,2,"B,S*",2.5
+Hotel Chocolat,U.K.,2013,St. Lucia,North America,70.0,60-70%,2,"B,S",4.0
+Hotel Chocolat,U.K.,2015,St. Lucia,North America,70.0,60-70%,2,"B,S",2.75
+Hotel Chocolat,U.K.,2018,Colombia,South America,75.0,70-80%,4,"B,S,C,L",2.75
+Hotel Chocolat,U.K.,2019,Honduras,North America,72.0,70-80%,4,"B,S,C,L",3.0
+Hotel Chocolat,U.K.,2019,Tanzania,Africa,80.0,70-80%,4,"B,S,C,L",3.0
+Hotel Chocolat (Coppeneur),U.K.,2008,Tanzania,Africa,75.0,70-80%,4,"B,S,C,L",2.75
+Hotel Chocolat (Coppeneur),U.K.,2008,St. Lucia,North America,72.0,70-80%,3,"B,S,C",3.0
+Hotel Chocolat (Coppeneur),U.K.,2008,Sao Tome,Africa,72.0,70-80%,4,"B,S,C,L",3.0
+Hotel Chocolat (Coppeneur),U.K.,2010,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",2.75
+Hotel Chocolat (Coppeneur),U.K.,2011,Ecuador,South America,80.0,70-80%,4,"B,S,C,L",3.0
+Hotel Chocolat (Coppeneur),U.K.,2011,St. Lucia,North America,65.0,60-70%,4,"B,S,C,L",3.0
+Hotel Chocolat (Coppeneur),U.K.,2011,St. Lucia,North America,65.0,60-70%,4,"B,S,C,L",3.25
+Hotel Chocolat (Coppeneur),U.K.,2012,Madagascar,Africa,66.0,60-70%,4,"B,S,V,L",3.5
+Hotel Chocolat (Coppeneur),U.K.,2013,Ecuador,South America,100.0,90-100%,1,B,2.5
+Hotel Chocolat (Coppeneur),U.K.,2013,Trinidad,North America,75.0,70-80%,4,"B,S,C,L",3.0
+Hotel Chocolat (Coppeneur),U.K.,2013,Ecuador,South America,90.0,80-90%,2,"B,S",3.0
+Hotel Chocolat (Coppeneur),U.K.,2013,Madagascar,Africa,72.0,70-80%,4,"B,S,C,L",3.0
+Hotel Chocolat (Coppeneur),U.K.,2013,Vietnam,Asia,80.0,70-80%,4,"B,S,C,L",3.5
+Hotel Chocolat (Coppeneur),U.K.,2013,Ecuador,South America,82.0,80-90%,2,"B,S",3.5
+Hummingbird,Canada,2013,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.25
+Hummingbird,Canada,2013,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+Hummingbird,Canada,2014,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.0
+Hummingbird,Canada,2014,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.0
+Hummingbird,Canada,2014,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.0
+Hummingbird,Canada,2014,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Hummingbird,Canada,2014,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Hummingbird,Canada,2015,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.5
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.25
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.5
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.75
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.75
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.75
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,74.0,70-80%,3,"B,S,C",4.0
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,70.0,60-70%,3,"B,S,C",4.0
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",4.0
+Idilio (Felchlin),Switzerland,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",4.0
+Idilio (Felchlin),Switzerland,2013,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.75
+Indah,India,2016,India,Asia,61.0,60-70%,4,"B,S,C,L",2.5
+Indi,U.S.A.,2014,Honduras,North America,77.0,70-80%,3,"B,S,C",3.0
+Indi,U.S.A.,2017,Vietnam,Asia,72.0,70-80%,3,"B,S,C",3.25
+iQ Chocolate,Scotland,2012,Peru,South America,72.0,70-80%,4,"B,S*,C,L",2.75
+iQ Chocolate,Scotland,2012,Peru,South America,72.0,70-80%,4,"B,S*,C,L",3.0
+Isidro,U.S.A.,2014,Peru,South America,72.0,70-80%,2,"B,S",2.25
+Isidro,U.S.A.,2014,Belize,North America,72.0,70-80%,2,"B,S",3.25
+Isidro,U.S.A.,2014,Dominican Republic,North America,72.0,70-80%,2,"B,S",3.25
+Isidro,U.S.A.,2014,Madagascar,Africa,72.0,70-80%,2,"B,S",3.5
+Islands Chocolate,St.Vincent-Grenadines,2018,St.Vincent-Grenadines,North America,72.0,70-80%,4,"B,S,C,L",2.75
+Izard,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,2,"B,S",2.75
+Izard,U.S.A.,2015,Belize,North America,70.0,60-70%,2,"B,S",3.5
+Jacque Torres,U.S.A.,2006,Ghana,Africa,71.0,70-80%,5,"B,S,C,V,L",2.0
+Jean Marie Auboine,U.S.A.,2018,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.25
+Johnny Iuzzini,U.S.A.,2017,Jamaica,North America,67.0,60-70%,4,"B,S,C,L",3.0
+Johnny Iuzzini,U.S.A.,2017,Peru,South America,75.0,70-80%,4,"B,S,C,L",3.0
+Johnny Iuzzini,U.S.A.,2017,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.5
+Johnny Iuzzini,U.S.A.,2017,Vietnam,Asia,65.0,60-70%,4,"B,S,C,L",3.5
+Johnny Iuzzini,U.S.A.,2017,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Johnny Iuzzini,U.S.A.,2017,Madagascar,Africa,68.0,60-70%,5,"B,S,C,V,L",3.5
+Johnny Iuzzini,U.S.A.,2017,Ecuador,South America,78.0,70-80%,4,"B,S,C,L",3.75
+Johnny Iuzzini,U.S.A.,2018,India,Asia,66.0,60-70%,4,"B,S,C,L",3.0
+Johnny Iuzzini,U.S.A.,2018,Colombia,South America,73.0,70-80%,4,"B,S,C,L",3.25
+Johnny Iuzzini,U.S.A.,2018,Trinidad,North America,80.0,70-80%,4,"B,S,C,L",3.25
+Jordis,Czech Republic,2015,Madagascar,Africa,63.0,60-70%,2,"B,S",2.75
+Jordis,Czech Republic,2020,Venezuela,South America,75.0,70-80%,3,"B,S,C",2.75
+Kad Kokoa,Thailand,2018,Thailand,Asia,70.0,60-70%,3,"B,S,C",3.0
+Kad Kokoa,Thailand,2018,Thailand,Asia,70.0,60-70%,3,"B,S,C",3.5
+Kad Kokoa,Thailand,2018,Thailand,Asia,70.0,60-70%,3,"B,S,C",3.5
+Kad Kokoa,Thailand,2018,Thailand,Asia,70.0,60-70%,3,"B,S,C",3.75
+Kah Kow,Dominican Republic,2013,Dominican Republic,North America,82.0,80-90%,5,"B,S,C,V,L",3.0
+Kah Kow,Dominican Republic,2013,Dominican Republic,North America,55.0,50-60%,5,"B,S,C,V,L",3.25
+Kah Kow,Dominican Republic,2013,Dominican Republic,North America,62.0,60-70%,5,"B,S,C,V,L",3.25
+Kah Kow,Dominican Republic,2013,Dominican Republic,North America,70.0,60-70%,5,"B,S,C,V,L",3.5
+Kah Kow,U.S.A.,2020,Dominican Republic,North America,68.0,60-70%,4,"B,S,C,L",3.75
+Kah Kow,U.S.A.,2020,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Kah Kow,U.S.A.,2020,Dominican Republic,North America,67.0,60-70%,4,"B,S,C,L",3.75
+Kah Kow - USA,Dominican Republic,2019,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.0
+Kah Kow - USA,U.S.A.,2019,Dominican Republic,North America,72.0,70-80%,4,"B,S,C,L",3.0
+Kah Kow - USA,Dominican Republic,2019,Dominican Republic,North America,71.5,70-80%,3,"B,S,C",3.5
+Kah Kow - USA,Dominican Republic,2019,Dominican Republic,North America,68.0,60-70%,4,"B,S,C,L",3.75
+Kah Kow - USA,U.S.A.,2019,Dominican Republic,North America,65.0,60-70%,4,"B,S,C,L",3.75
+Kaitxo,Spain,2019,Nicaragua,North America,75.0,70-80%,3,"B,S,C",3.0
+Kaitxo,Spain,2019,Peru,South America,75.0,70-80%,3,"B,S,C",3.0
+Kaitxo,Spain,2019,Tanzania,Africa,75.0,70-80%,3,"B,S,C",3.25
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,85.0,80-90%,4,"B,S,C,V",2.5
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,75.0,70-80%,4,"B,S,C,V",2.5
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,75.0,70-80%,4,"B,S,C,V",2.75
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,85.0,80-90%,4,"B,S,C,V",2.75
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,85.0,80-90%,4,"B,S,C,V",3.0
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,85.0,80-90%,4,"B,S,C,V",3.0
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",3.5
+Kasama,Canada,2021,Philippines,Asia,70.0,60-70%,3,"B,S,C",3.25
+Kasama,Canada,2021,Papua New Guinea,Oceania,70.0,60-70%,3,"B,S,C",3.5
+Kerchner,U.S.A.,2013,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Ki' Xocolatl,Mexico,2009,Mexico,North America,72.0,70-80%,5,"B,S,C,V,L",2.0
+Kin + Pod,Canada,2020,Colombia,South America,70.0,60-70%,3,"B,S,C",3.25
+Kiskadee,U.S.A.,2014,Dominican Republic,North America,60.0,50-60%,2,"B,S",3.0
+Krak,Amsterdam,2017,Belize,North America,70.0,60-70%,2,"B,S",3.0
+Krak,Amsterdam,2017,Vietnam,Asia,70.0,60-70%,2,"B,S",3.0
+Krak,Amsterdam,2017,Mexico,North America,70.0,60-70%,2,"B,S",3.25
+Krak,Amsterdam,2018,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Krak,Amsterdam,2018,Philippines,Asia,70.0,60-70%,2,"B,S",3.25
+Krak,Amsterdam,2018,Mexico,North America,70.0,60-70%,2,"B,S",3.75
+Krak,Netherlands,2019,Colombia,South America,70.0,60-70%,2,"B,S",3.0
+Krak,Amsterdam,2019,Papua New Guinea,Oceania,70.0,60-70%,2,"B,S",3.25
+Kto,U.S.A.,2014,Peru,South America,72.0,70-80%,2,"B,S",2.5
+Kto,U.S.A.,2014,Venezuela,South America,72.0,70-80%,3,"B,S,C",2.75
+Kto,U.S.A.,2014,Belize,North America,72.0,70-80%,3,"B,S,C",3.0
+Kto,U.S.A.,2014,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.25
+Kto,U.S.A.,2014,Belize,North America,90.0,80-90%,2,"B,S",3.25
+Kto,U.S.A.,2014,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.25
+Kto,U.S.A.,2014,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.25
+K'ul,U.S.A.,2016,Peru,South America,70.0,60-70%,4,"B,S,C,L",2.75
+K'ul,U.S.A.,2016,Haiti,North America,70.0,60-70%,4,"B,S,C,L",3.25
+K'ul,U.S.A.,2016,Brazil,South America,70.0,60-70%,4,"B,S,C,L",3.75
+K'ul,U.S.A.,2016,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.75
+Kyya,U.S.A.,2014,Uganda,Africa,72.5,70-80%,5,"B,S,C,V,Sa",2.5
+Kyya,U.S.A.,2014,Ecuador,South America,72.5,70-80%,5,"B,S,C,V,Sa",2.5
+Kyya,U.S.A.,2014,Dominican Republic,North America,72.5,70-80%,5,"B,S,C,V,Sa",3.0
+Kyya,U.S.A.,2014,Madagascar,Africa,72.5,70-80%,5,"B,S,C,V,Sa",3.0
+L.A. Burdick (Felchlin),U.S.A.,2009,Bolivia,South America,68.0,60-70%,5,"B,S,C,V,L",3.0
+L.A. Burdick (Felchlin),U.S.A.,2009,Madagascar,Africa,64.0,60-70%,5,"B,S,C,V,L",3.5
+L.A. Burdick (Felchlin),U.S.A.,2010,Venezuela,South America,71.0,70-80%,5,"B,S,C,V,L",3.0
+L.A. Burdick (Felchlin),U.S.A.,2010,Grenada,North America,75.0,70-80%,5,"B,S,C,V,L",3.25
+L.A. Burdick (Felchlin),U.S.A.,2010,Dominican Republic,North America,74.0,70-80%,5,"B,S,C,V,L",3.75
+L.A. Burdick (Felchlin),U.S.A.,2011,Ecuador,South America,74.0,70-80%,5,"B,S,C,V,L",3.75
+L.A. Burdick (Felchlin),U.S.A.,2012,Peru,South America,74.0,70-80%,5,"B,S,C,V,L",3.25
+L.A. Burdick (Felchlin),U.S.A.,2012,Venezuela,South America,68.0,60-70%,5,"B,S,C,V,L",3.75
+L.A. Burdick (Felchlin),U.S.A.,2012,Brazil,South America,70.0,60-70%,5,"B,S,C,V,L",4.0
+La Cascade du Chocolat,U.S.A.,2019,Fiji,Oceania,68.0,60-70%,3,"B,S,C",3.0
+La Chorena,U.S.A.,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.0
+La Chorena,U.S.A.,2018,Peru,South America,75.0,70-80%,2,"B,S",3.0
+La Chorena,U.S.A.,2018,Belize,North America,70.0,60-70%,4,"B,S,C,L",3.25
+La Chorena,U.S.A.,2018,Guatemala,North America,70.0,60-70%,2,"B,S",3.25
+La Feverie (Hasnaa),France,2018,Belize,North America,70.0,60-70%,2,"B,S",3.5
+La Feverie (Hasnaa),France,2018,Guatemala,North America,70.0,60-70%,2,"B,S",3.5
+La Feverie (Hasnaa),France,2019,Peru,South America,72.0,70-80%,2,"B,S",3.5
+La Maison du Chocolat (Valrhona),France,2008,Blend,Other,74.0,70-80%,4,"B,S,C,L",3.5
+La Maison du Chocolat (Valrhona),France,2009,Blend,Other,60.0,50-60%,4,"B,S,C,L",3.0
+La Maison du Chocolat (Valrhona),France,2009,Ghana,Africa,68.0,60-70%,4,"B,S,C,L",3.25
+La Maison du Chocolat (Valrhona),France,2009,Venezuela,South America,69.0,60-70%,4,"B,S,C,L",3.5
+La Maison du Chocolat (Valrhona),France,2009,Blend,Other,60.0,50-60%,4,"B,S,C,L",3.75
+La Maison du Chocolat (Valrhona),France,2011,Grenada,North America,68.0,60-70%,4,"B,S,C,L",3.5
+La Maison du Chocolat (Valrhona),France,2012,Dominican Republic,North America,66.0,60-70%,4,"B,S,C,L",3.5
+La Maison du Chocolat (Valrhona),France,2013,Blend,Other,74.0,70-80%,4,"B,S,C,L",2.75
+La Maison du Chocolat (Valrhona),France,2013,Tobago,Other,60.0,50-60%,4,"B,S,C,L",3.25
+La Maison du Chocolat (Valrhona),France,2013,Ecuador,South America,56.0,50-60%,4,"B,S,C,L",3.25
+La Rifa,Mexico,2018,Mexico,North America,70.0,60-70%,2,"B,S",3.0
+La Rifa,Mexico,2018,Mexico,North America,70.0,60-70%,2,"B,S",3.5
+La Rifa,Mexico,2018,Mexico,North America,70.0,60-70%,2,"B,S",3.5
+Laia aka Chat-Noir,France,2014,Cuba,North America,70.0,60-70%,4,"B,S,C,L",2.75
+Laia aka Chat-Noir,France,2014,Blend,Other,68.0,60-70%,4,"B,S,C,L",2.75
+Laia aka Chat-Noir,France,2015,Madagascar,Africa,75.0,70-80%,4,"B,S,C,L",2.75
+Laia aka Chat-Noir,France,2015,Vietnam,Asia,75.0,70-80%,4,"B,S,C,L",2.75
+Laia aka Chat-Noir,France,2015,Cuba,North America,75.0,70-80%,4,"B,S,C,L",3.0
+Laia aka Chat-Noir,France,2015,Ivory Coast,Africa,75.0,70-80%,4,"B,S,C,L",3.0
+Laia aka Chat-Noir,France,2015,Peru,South America,75.0,70-80%,4,"B,S,C,L",3.25
+Laia aka Chat-Noir,France,2015,Brazil,South America,75.0,70-80%,4,"B,S,C,L",3.25
+Laia aka Chat-Noir,France,2015,Sao Tome,Africa,75.0,70-80%,4,"B,S,C,L",3.5
+Laia aka Chat-Noir,France,2015,Vietnam,Asia,75.0,70-80%,4,"B,S,C,L",3.75
+L'Amourette,U.S.A.,2012,Venezuela,South America,75.0,70-80%,5,"B,S,C,V,L",3.0
+L'Amourette,U.S.A.,2012,Venezuela,South America,75.0,70-80%,5,"B,S,C,V,L",3.0
+L'Amourette,U.S.A.,2012,Blend,Other,72.0,70-80%,5,"B,S,C,V,L",3.0
+L'Amourette,U.S.A.,2016,Nicaragua,North America,80.0,70-80%,2,"B,S",3.5
+Land,U.K.,2018,Nicaragua,North America,71.0,70-80%,3,"B,S,C",3.0
+Land,U.K.,2018,Honduras,North America,70.0,60-70%,3,"B,S,C",3.25
+Land,U.K.,2018,Nicaragua,North America,73.0,70-80%,3,"B,S,C",3.5
+Landmark (Amano),U.S.A.,2017,Bolivia,South America,74.0,70-80%,3,"B,S,C",3.75
+Legast,Belgium,2019,Colombia,South America,70.0,60-70%,3,"B,S,C",2.75
+Legast,Belgium,2019,Costa Rica,North America,70.0,60-70%,3,"B,S,C",3.25
+Legast,Belgium,2019,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Letterpress,U.S.A.,2014,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Letterpress,U.S.A.,2015,Costa Rica,North America,70.0,60-70%,2,"B,S",3.0
+Letterpress,U.S.A.,2015,Bolivia,South America,70.0,60-70%,2,"B,S",3.25
+Letterpress,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Letterpress,U.S.A.,2015,Trinidad,North America,70.0,60-70%,2,"B,S",3.5
+Letterpress,U.S.A.,2015,Tanzania,Africa,70.0,60-70%,2,"B,S",3.5
+Letterpress,U.S.A.,2016,Liberia,Africa,70.0,60-70%,2,"B,S",3.25
+Letterpress,U.S.A.,2017,Belize,North America,70.0,60-70%,2,"B,S",3.25
+Letterpress,U.S.A.,2017,Honduras,North America,70.0,60-70%,2,"B,S",3.5
+Letterpress,U.S.A.,2017,Peru,South America,70.0,60-70%,3,"B,S,C",4.0
+Letterpress,U.S.A.,2018,Ghana,Africa,70.0,60-70%,3,"B,S,C",3.75
+Letterpress,U.S.A.,2019,Jamaica,North America,70.0,60-70%,3,"B,S,C",3.25
+Letterpress,U.S.A.,2019,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.25
+Letterpress,U.S.A.,2021,Sao Tome & Principe,Africa,70.0,60-70%,3,"B,S,C",3.5
+Letterpress,U.S.A.,2021,U.S.A.,North America,70.0,60-70%,3,"B,S,C",3.75
+Levy,Finland,2014,Madagascar,Africa,71.0,70-80%,3,"B,S,C",3.5
+Lilla,Finland,2016,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Lillie Belle,U.S.A.,2012,Blend,Other,75.0,70-80%,2,"B,S",2.75
+Lillie Belle,U.S.A.,2012,Dominican Republic,North America,74.0,70-80%,2,"B,S",3.0
+Lillie Belle,U.S.A.,2012,Peru,South America,65.0,60-70%,2,"B,S",3.5
+Lillie Belle,U.S.A.,2012,Bolivia,South America,68.0,60-70%,2,"B,S",3.5
+Lillie Belle,U.S.A.,2012,Bolivia,South America,68.0,60-70%,2,"B,S",3.5
+Lillie Belle,U.S.A.,2012,Peru,South America,68.0,60-70%,2,"B,S",3.75
+Lindt & Sprungli,Switzerland,2007,Blend,Other,85.0,80-90%,4,"B,S,C,V",3.0
+Lirio,U.S.A.,2020,Sierra Leone,Africa,72.0,70-80%,2,"B,S",2.5
+Lirio,U.S.A.,2020,India,Asia,72.0,70-80%,2,"B,S",3.0
+Lirio,U.S.A.,2020,Vietnam,Asia,72.0,70-80%,2,"B,S",3.0
+Loiza,Puerto Rico,2013,Puerto Rico,North America,65.0,60-70%,5,"B,S,C,V,L",2.5
+Lonohana,U.S.A.,2013,U.S.A.,North America,71.0,70-80%,4,"B,S,C,V",3.0
+Lonohana,U.S.A.,2013,U.S.A.,North America,72.0,70-80%,4,"B,S,C,V",3.0
+Lonohana,U.S.A.,2013,U.S.A.,North America,70.0,60-70%,4,"B,S,C,V",3.5
+Lonohana,U.S.A.,2014,U.S.A.,North America,65.0,60-70%,4,"B,S,C,V",3.25
+Lonohana,U.S.A.,2014,U.S.A.,North America,70.0,60-70%,2,"B,S",3.75
+Lonohana,U.S.A.,2014,U.S.A.,North America,75.0,70-80%,4,"B,S,C,V",3.75
+Loon,U.S.A.,2021,Bolivia,South America,70.0,60-70%,3,"B,S,C",2.75
+Loon,U.S.A.,2021,Belize,North America,75.0,70-80%,3,"B,S,C",3.0
+Love Bar,U.S.A.,2015,Nicaragua,North America,75.0,70-80%,2,"B,S",2.0
+Love Brown,Taiwan,2018,Nicaragua,North America,75.0,70-80%,2,"B,S",2.5
+Love Brown,Taiwan,2018,Sumatra,Other,70.0,60-70%,2,"B,S",3.0
+Love Brown,Taiwan,2018,Nicaragua,North America,80.0,70-80%,2,"B,S",3.25
+Love Brown,Taiwan,2018,Nicaragua,North America,78.0,70-80%,2,"B,S",3.5
+Luisa Abram,Brazil,2017,Brazil,South America,81.0,80-90%,2,"B,S",3.25
+Luisa Abram,Brazil,2018,Brazil,South America,70.0,60-70%,2,"B,S",3.0
+Luisa Abram,Brazil,2021,Brazil,South America,70.0,60-70%,3,"B,S,C",3.25
+Luisa's Vegan,U.K.,2020,Papua New Guinea,Oceania,72.0,70-80%,3,"B,S,C",3.25
+Luker,Colombia,2010,Blend,Other,60.0,50-60%,5,"B,S,C,V,L",3.0
+Luker,Colombia,2010,Blend,Other,58.0,50-60%,5,"B,S,C,V,L",3.0
+Luker,Colombia,2010,Colombia,South America,65.0,60-70%,5,"B,S,C,V,L",3.5
+Lumineux,U.S.A.,2020,India,Asia,72.0,70-80%,3,"B,S,C",3.0
+Lumineux,U.S.A.,2020,Madagascar,Africa,73.0,70-80%,3,"B,S,C",3.25
+Lumineux,U.S.A.,2020,Tanzania,Africa,75.0,70-80%,3,"B,S,C",3.25
+Lumineux,U.S.A.,2020,Uganda,Africa,68.0,60-70%,3,"B,S,C",3.25
+Lumineux,U.S.A.,2020,Ivory Coast,Africa,67.0,60-70%,3,"B,S,C",3.5
+MaDe Atlantic City Chocolate Bar,U.S.A.,2019,Uganda,Africa,75.0,70-80%,3,"B,S,C",2.5
+MaDe Atlantic City Chocolate Bar,U.S.A.,2019,Ghana,Africa,75.0,70-80%,3,"B,S,C",2.75
+Madecasse (Cinagra),Madagascar,2008,Madagascar,Africa,67.0,60-70%,5,"B,S,C,V,L",3.5
+Madecasse (Cinagra),Madagascar,2008,Madagascar,Africa,75.0,70-80%,5,"B,S,C,V,L",3.5
+Madecasse (Cinagra),Madagascar,2008,Madagascar,Africa,70.0,60-70%,5,"B,S,C,V,L",3.75
+Madecasse (Cinagra),Madagascar,2008,Madagascar,Africa,63.0,60-70%,5,"B,S,C,V,L",4.0
+Madhu,U.S.A.,2021,Colombia,South America,70.0,60-70%,2,"B,S",2.5
+Madre,U.S.A.,2010,Mexico,North America,72.0,70-80%,4,"B,S,C,V",2.75
+Madre,U.S.A.,2011,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,V",2.5
+Madre,U.S.A.,2011,Costa Rica,North America,70.0,60-70%,4,"B,S,C,V",2.75
+Madre,U.S.A.,2012,U.S.A.,North America,70.0,60-70%,4,"B,S,C,V",3.25
+Madre,U.S.A.,2012,U.S.A.,North America,70.0,60-70%,4,"B,S,C,V",3.25
+Madre,U.S.A.,2012,U.S.A.,North America,70.0,60-70%,4,"B,S,C,V",3.5
+Madre,U.S.A.,2013,Puerto Rico,North America,70.0,60-70%,4,"B,S,C,V",2.75
+Madre,U.S.A.,2013,U.S.A.,North America,70.0,60-70%,4,"B,S,C,V",2.75
+Madre,U.S.A.,2013,Mexico,North America,70.0,60-70%,4,"B,S,C,V",2.75
+Madre,U.S.A.,2013,Brazil,South America,70.0,60-70%,4,"B,S,C,V",3.5
+Madre,U.S.A.,2017,Solomon Islands,Oceania,73.0,70-80%,2,"B,S",3.5
+Maglio,Italy,2008,Tanzania,Africa,75.0,70-80%,4,"B,S,C,V",2.0
+Maglio,Italy,2008,Ecuador,South America,70.0,60-70%,4,"B,S,V,L",3.0
+Maglio,Italy,2008,Cuba,North America,70.0,60-70%,5,"B,S,C,V,L",3.25
+Maglio,Italy,2008,Dominican Republic,North America,70.0,60-70%,5,"B,S,C,V,L",3.75
+Majani,Italy,2010,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",2.0
+Malagasy (Chocolaterie Robert),Madagascar,2007,Madagascar,Africa,75.0,70-80%,4,"B,S,C,L",2.75
+Malagasy (Chocolaterie Robert),Madagascar,2007,Madagascar,Africa,73.0,70-80%,4,"B,S,C,L",3.5
+Malagos,Philippines,2013,Philippines,Asia,65.0,60-70%,5,"B,S,C,V,L",3.5
+Malai,Thailand,2018,Thailand,Asia,70.0,60-70%,3,"B,S*,C",2.75
+Malie Kai (Guittard),U.S.A.,2009,U.S.A.,North America,55.0,50-60%,5,"B,S,C,V,L",2.75
+Malie Kai (Guittard),U.S.A.,2010,U.S.A.,North America,55.0,50-60%,5,"B,S,C,V,L",3.5
+Malmo,Sweden,2016,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.0
+Mana,U.S.A.,2012,Dominican Republic,North America,74.0,70-80%,3,"B,S,C",3.75
+Mana,U.S.A.,2014,Peru,South America,74.0,70-80%,3,"B,S,C",2.5
+Mana,U.S.A.,2014,Venezuela,South America,74.0,70-80%,3,"B,S,C",2.75
+Mana,U.S.A.,2015,Ecuador,South America,74.0,70-80%,2,"B,S",2.5
+Manifesto Cacao,Colombia,2014,Colombia,South America,70.0,60-70%,4,"B,S,C,L",2.75
+Manoa,U.S.A.,2012,U.S.A.,North America,72.0,70-80%,3,"B,S,C",2.75
+Manoa,U.S.A.,2012,Peru,South America,72.0,70-80%,3,"B,S,C",3.0
+Manoa,U.S.A.,2012,Liberia,Africa,72.0,70-80%,3,"B,S,C",3.25
+Manoa,U.S.A.,2012,U.S.A.,North America,72.0,70-80%,3,"B,S,C",3.25
+Manoa,U.S.A.,2013,U.S.A.,North America,72.0,70-80%,3,"B,S,C",3.75
+Manoa,U.S.A.,2015,Papua New Guinea,Oceania,72.0,70-80%,3,"B,S,C",3.5
+Manoa,U.S.A.,2015,Costa Rica,North America,72.0,70-80%,3,"B,S,C",3.75
+Manoa,U.S.A.,2017,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+Manoa,U.S.A.,2019,U.S.A.,North America,70.0,60-70%,3,"B,S,C",3.5
+Manufaktura Czekolady,Poland,2012,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Manufaktura Czekolady,Poland,2012,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Manufaktura Czekolady,Poland,2012,Ghana,Africa,70.0,60-70%,2,"B,S",3.5
+Manufaktura Czekolady,Poland,2014,Colombia,South America,85.0,80-90%,2,"B,S",3.5
+Manufaktura Czekolady,Poland,2014,Venezuela,South America,70.0,60-70%,2,"B,S",3.75
+Manufaktura Czekolady,Poland,2016,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Manufaktura Czekolady,Poland,2016,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Map Chocolate,U.S.A.,2015,Trinidad,North America,70.0,60-70%,3,"B,S,C",2.75
+Map Chocolate,U.S.A.,2015,Colombia,South America,75.0,70-80%,3,"B,S,C",2.75
+Map Chocolate,U.S.A.,2015,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.0
+Map Chocolate,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Map Chocolate,U.S.A.,2015,Peru,South America,62.0,60-70%,3,"B,S,C",3.5
+Map Chocolate,U.S.A.,2015,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.5
+Map Chocolate,U.S.A.,2015,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Map Chocolate,U.S.A.,2015,Peru,South America,68.0,60-70%,3,"B,S,C",3.5
+Map Chocolate,U.S.A.,2015,Honduras,North America,78.0,70-80%,3,"B,S,C",3.5
+Map Chocolate,U.S.A.,2016,Vietnam,Asia,75.0,70-80%,3,"B,S,C",3.25
+Map Chocolate,U.S.A.,2017,Vietnam,Asia,73.0,70-80%,2,"B,S",3.0
+Map Chocolate,U.S.A.,2018,Blend,Other,72.0,70-80%,3,"B,S,C",3.0
+Map Chocolate,U.S.A.,2018,Mexico,North America,72.0,70-80%,3,"B,S,C",3.25
+Map Chocolate,U.S.A.,2018,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.5
+Marana,Peru,2016,Peru,South America,70.0,60-70%,3,"B,S,C",2.75
+Marana,Peru,2021,Peru,South America,80.0,70-80%,3,"B,S,C",3.25
+Marana,Peru,2021,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Maribea,U.S.A.,2021,Mexico,North America,72.0,70-80%,3,"B,S,C",2.75
+Maribea,U.S.A.,2021,Bolivia,South America,72.0,70-80%,3,"B,S,C",2.75
+Maribea,U.S.A.,2021,Brazil,South America,72.0,70-80%,3,"B,S,C",3.25
+Marigold's Finest,Canada,2016,Blend,Other,75.0,70-80%,2,"B,S",3.25
+Markham & Fitz,U.S.A.,2018,Haiti,North America,75.0,70-80%,2,"B,S",2.75
+Marou,Vietnam,2012,Vietnam,Asia,80.0,70-80%,3,"B,S,C",3.0
+Marou,Vietnam,2012,Vietnam,Asia,76.0,70-80%,3,"B,S,C",3.5
+Marou,Vietnam,2012,Vietnam,Asia,72.0,70-80%,3,"B,S,C",3.5
+Marou,Vietnam,2012,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.5
+Marou,Vietnam,2012,Vietnam,Asia,78.0,70-80%,3,"B,S,C",3.5
+Marou,Vietnam,2012,Vietnam,Asia,74.0,70-80%,3,"B,S,C",3.5
+Marou,Vietnam,2013,Vietnam,Asia,75.0,70-80%,3,"B,S,C",3.5
+Marou,Vietnam,2015,Vietnam,Asia,85.0,80-90%,2,"B,S",3.25
+Marou,Vietnam,2015,Vietnam,Asia,68.0,60-70%,2,"B,S",3.5
+Marou,Vietnam,2015,Vietnam,Asia,70.0,60-70%,2,"B,S",3.75
+Marou,Vietnam,2018,Vietnam,Asia,75.0,70-80%,3,"B,S,C",3.5
+Marsatta,U.S.A.,2013,Dominican Republic,North America,74.0,70-80%,4,"B,S,C,V",2.25
+Marsatta,U.S.A.,2013,Dominican Republic,North America,89.0,80-90%,4,"B,S,C,V",2.5
+Martin Mayer,Austria,2016,Bolivia,South America,76.0,70-80%,3,"B,S,C",2.75
+Martin Mayer,Austria,2016,Haiti,North America,82.0,80-90%,3,"B,S,C",3.0
+Martin Mayer,Austria,2016,Colombia,South America,74.0,70-80%,3,"B,S,C",3.25
+Mast Brothers,U.S.A.,2010,Venezuela,South America,81.0,80-90%,2,"B,S",2.75
+Mast Brothers,U.S.A.,2010,Venezuela,South America,75.0,70-80%,2,"B,S",3.0
+Mast Brothers,U.S.A.,2010,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Mast Brothers,U.S.A.,2011,Venezuela,South America,81.0,80-90%,2,"B,S",2.75
+Mast Brothers,U.S.A.,2011,Papua New Guinea,Oceania,71.0,70-80%,2,"B,S",2.75
+Mast Brothers,U.S.A.,2011,Venezuela,South America,76.0,70-80%,2,"B,S",3.0
+Mast Brothers,U.S.A.,2011,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Mast Brothers,U.S.A.,2011,Peru,South America,75.0,70-80%,2,"B,S",3.0
+Mast Brothers,U.S.A.,2011,Dominican Republic,North America,73.0,70-80%,2,"B,S",3.25
+Mast Brothers,U.S.A.,2011,Blend,Other,72.0,70-80%,2,"B,S",3.5
+Mast Brothers,U.S.A.,2011,Belize,North America,70.0,60-70%,2,"B,S",3.5
+Mast Brothers,U.S.A.,2011,Dominican Republic,North America,74.0,70-80%,2,"B,S",3.75
+Mast Brothers,U.S.A.,2012,Blend,Other,72.0,70-80%,2,"B,S",2.5
+Mast Brothers,U.S.A.,2012,Venezuela,South America,73.0,70-80%,2,"B,S",2.75
+Mast Brothers,U.S.A.,2012,Blend,Other,73.0,70-80%,2,"B,S",3.5
+Mast Brothers,U.S.A.,2014,Blend,Other,75.0,70-80%,2,"B,S",3.75
+Mast Brothers,U.S.A.,2015,Guatemala,North America,76.0,70-80%,2,"B,S",3.0
+Mast Brothers,U.S.A.,2015,Tanzania,Africa,74.0,70-80%,2,"B,S",3.25
+Matale,Australia,2013,Vanuatu,Oceania,72.0,70-80%,3,"B,S,C",3.5
+Matale,Australia,2013,Blend,Other,70.0,60-70%,3,"B,S,C",3.75
+Matale,Australia,2013,Madagascar,Africa,68.0,60-70%,3,"B,S,C",4.0
+Matale,Australia,2013,Papua New Guinea,Oceania,74.0,70-80%,3,"B,S,C",4.0
+Maui Kuia,U.S.A.,2021,U.S.A.,North America,70.0,60-70%,3,"B,S,C",3.5
+Maverick,U.S.A.,2014,Belize,North America,70.0,60-70%,2,"B,S",3.25
+Maverick,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Maverick,U.S.A.,2014,Peru,South America,82.0,80-90%,2,"B,S",3.25
+Maverick,U.S.A.,2014,Peru,South America,63.0,60-70%,3,"B,S,C",3.5
+Maverick,U.S.A.,2020,U.S.A.,North America,70.0,60-70%,3,"B,S,C",3.0
+Maverick,U.S.A.,2020,Vietnam,Asia,75.0,70-80%,3,"B,S,C",3.0
+Maverick,U.S.A.,2020,Madagascar,Africa,65.0,60-70%,3,"B,S,C",3.25
+Mayacama,U.S.A.,2016,Dominican Republic,North America,72.0,70-80%,2,"B,S",3.0
+McGuire,Canada,2020,Guatemala,North America,70.0,60-70%,3,"B,S,C",2.5
+McGuire,Canada,2020,Belize,North America,70.0,60-70%,3,"B,S,C",3.25
+Meadowlands,U.S.A.,2014,Bolivia,South America,70.0,60-70%,2,"B,S",2.5
+Meadowlands,U.S.A.,2014,Venezuela,South America,70.0,60-70%,2,"B,S",2.75
+Meadowlands,U.S.A.,2014,Belize,North America,70.0,60-70%,2,"B,S",3.0
+Meadowlands,U.S.A.,2014,Nicaragua,North America,70.0,60-70%,2,"B,S",3.0
+Meadowlands,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Mellow,Denmark,2019,Ecuador,South America,85.0,80-90%,2,"B,S*",2.5
+Mellow,Denmark,2019,Dominican Republic,North America,70.0,60-70%,2,"B,S*",2.75
+Mellow,Denmark,2019,Philippines,Asia,70.0,60-70%,2,"B,S*",3.25
+Mellow,Denmark,2019,Tanzania,Africa,70.0,60-70%,2,"B,S*",3.25
+Menakao (aka Cinagra),Madagascar,2012,Madagascar,Africa,80.0,70-80%,4,"B,S,C,L",2.5
+Menakao (aka Cinagra),Madagascar,2012,Madagascar,Africa,72.0,70-80%,4,"B,S,C,L",2.5
+Mesocacao,Honduras,2014,Honduras,North America,80.0,70-80%,3,"B,S,C",3.25
+Mesocacao,Honduras,2014,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Mesocacao,Honduras,2014,Honduras,North America,70.0,60-70%,3,"B,S,C",3.5
+Mesocacao,Honduras,2014,Nicaragua,North America,80.0,70-80%,3,"B,S,C",3.5
+Mesocacao,Honduras,2015,El Salvador,North America,80.0,70-80%,3,"B,S,C",2.75
+Mesocacao,Honduras,2015,El Salvador,North America,70.0,60-70%,3,"B,S,C",3.0
+Mestico,Brazil,2018,Brazil,South America,75.0,70-80%,3,"B,S,C",2.5
+Metiisto,Sweden,2014,Brazil,South America,70.0,60-70%,3,"B,S,C",3.0
+Metiisto,Sweden,2014,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.5
+Metiisto,Australia,2018,Solomon Islands,Oceania,72.0,70-80%,3,"B,S,C",3.25
+Metiisto,Australia,2018,Solomon Islands,Oceania,67.0,60-70%,3,"B,S,C",3.75
+Metropolitan,Amsterdam,2015,Blend,Other,70.0,60-70%,3,"B,S,V",3.5
+Meybol,Germany,2018,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Michel Cluizel,France,2006,Blend,Other,60.0,50-60%,4,"B,S,C,V",2.0
+Michel Cluizel,France,2006,Blend,Other,85.0,80-90%,4,"B,S,C,V",2.0
+Michel Cluizel,France,2006,Blend,Other,99.0,90-100%,4,"B,S,C,V",2.0
+Michel Cluizel,France,2006,Sao Tome,Africa,70.0,60-70%,4,"B,S,C,V",3.0
+Michel Cluizel,France,2006,Dominican Republic,North America,67.0,60-70%,4,"B,S,C,V",3.75
+Michel Cluizel,France,2006,Madagascar,Africa,65.0,60-70%,4,"B,S,C,V",3.75
+Michel Cluizel,France,2006,Papua New Guinea,Oceania,64.0,60-70%,4,"B,S,C,V",3.75
+Michel Cluizel,France,2007,Venezuela,South America,66.0,60-70%,4,"B,S,C,V",3.5
+Michel Cluizel,France,2007,Sao Tome,Africa,67.0,60-70%,4,"B,S,C,V",3.5
+Michel Cluizel,France,2012,Mexico,North America,66.0,60-70%,4,"B,S,C,V",3.75
+Michel Cluizel,France,2017,Colombia,South America,69.0,60-70%,4,"B,S,C,V",3.25
+Michel Cluizel,France,2019,Brazil,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Michel Cluizel,France,2019,Guatemala,North America,70.0,60-70%,4,"B,S,C,V",3.5
+Middlebury,U.S.A.,2012,Blend,Other,65.0,60-70%,4,"B,S*,C,Sa",1.5
+Middlebury,U.S.A.,2012,Bolivia,South America,75.0,70-80%,4,"B,S*,C,Sa",2.0
+Middlebury,U.S.A.,2012,Indonesia,Asia,70.0,60-70%,4,"B,S*,C,Sa",2.5
+Middlebury,U.S.A.,2013,Dominican Republic,North America,75.0,70-80%,3,"B,S*,Sa",2.5
+Middlebury,U.S.A.,2013,Belize,North America,80.0,70-80%,4,"B,S,C,Sa",3.25
+Middlebury,U.S.A.,2015,Tanzania,Africa,75.0,70-80%,3,"B,S,C",3.25
+Middlebury,U.S.A.,2015,Belize,North America,80.0,70-80%,3,"B,S,C",3.5
+Middlebury,U.S.A.,2015,Trinidad,North America,70.0,60-70%,3,"B,S,C",3.5
+Middlebury,U.S.A.,2015,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Middlebury,U.S.A.,2015,Dominican Republic,North America,75.0,70-80%,3,"B,S,C",3.75
+Middlebury,U.S.A.,2015,Venezuela,South America,75.0,70-80%,3,"B,S,C",3.75
+Mike & Becky,Belgium,2018,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.0
+Mike & Becky,Belgium,2018,India,Asia,70.0,60-70%,3,"B,S,C",3.25
+Mike & Becky,Belgium,2018,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+Mike & Becky,Belgium,2018,Belize,North America,70.0,60-70%,3,"B,S,C",3.5
+Millcreek Cacao Roasters,U.S.A.,2012,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",3.5
+Millcreek Cacao Roasters,U.S.A.,2013,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",2.5
+Millesime,Belgium,2019,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.0
+Millesime,Belgium,2019,India,Asia,74.0,70-80%,3,"B,S,C",3.0
+Millesime,Belgium,2019,Brazil,South America,76.0,70-80%,3,"B,S,C",3.0
+Millesime,Belgium,2021,Panama,North America,75.0,70-80%,3,"B,S,C",2.75
+Millesime,Belgium,2021,India,Asia,74.0,70-80%,3,"B,S,C",3.0
+Millesime,Belgium,2021,Tanzania,Africa,90.0,80-90%,3,"B,S,C",3.0
+Milton,Japan,2018,Brazil,South America,70.0,60-70%,2,"B,S",3.0
+Milton,Japan,2018,Vietnam,Asia,70.0,60-70%,2,"B,S",3.25
+Milton,Japan,2018,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Milton,Japan,2018,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Mindo,U.S.A.,2010,Ecuador,South America,77.0,70-80%,3,"B,S,C",2.75
+Mindo,U.S.A.,2019,Ecuador,South America,67.0,60-70%,3,"B,S,C",2.75
+Minimal,Japan,2016,Haiti,North America,70.0,60-70%,2,"B,S",3.5
+Mirzam,U.A.E.,2017,Papua New Guinea,Oceania,72.0,70-80%,2,"B,S",3.0
+Mirzam,U.A.E.,2017,Madagascar,Africa,72.0,70-80%,2,"B,S",3.25
+Mirzam,U.A.E.,2017,India,Asia,65.0,60-70%,3,"B,S,C",3.5
+Mirzam,U.A.E.,2017,Vietnam,Asia,65.0,60-70%,2,"B,S",3.5
+Mirzam,U.A.E.,2019,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.75
+Misina,Czech Republic,2020,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.5
+Mission,Brazil,2015,Brazil,South America,70.0,60-70%,2,"B,S",3.5
+Mission,Brazil,2016,Brazil,South America,75.0,70-80%,2,"B,S",3.75
+Mission,Brazil,2019,Puerto Rico,North America,70.0,60-70%,3,"B,S,C",3.0
+Moho,U.S.A.,2010,Belize,North America,67.0,60-70%,3,"B,S,C",2.75
+Moho,U.S.A.,2013,Belize,North America,72.0,70-80%,3,"B,S,C",3.0
+Moho,U.S.A.,2013,Belize,North America,73.0,70-80%,3,"B,S,C",3.25
+Moka Origins,U.S.A.,2018,Brazil,South America,72.0,70-80%,3,"B,S,C",2.5
+Moka Origins,U.S.A.,2018,Cameroon,Africa,68.0,60-70%,2,"B,S",3.0
+Moka Origins,U.S.A.,2019,Sierra Leone,Africa,72.0,70-80%,3,"B,S,C",3.0
+Moka Origins,U.S.A.,2019,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Moka Origins,U.S.A.,2019,Tanzania,Africa,72.0,70-80%,2,"B,S",3.75
+Moku,U.S.A.,2021,Madagascar,Africa,70.0,60-70%,3,"B,S,C",2.75
+Moku,U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.25
+Molucca,U.S.A.,2015,Indonesia,Asia,70.0,60-70%,2,"B,S",2.75
+Molucca,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.0
+Molucca,U.S.A.,2015,Peru,South America,70.0,60-70%,2,"B,S",3.25
+Momotombo,Nicaragua,2011,Nicaragua,North America,70.0,60-70%,2,"B,S",2.75
+Momotombo,Nicaragua,2011,Nicaragua,North America,70.0,60-70%,2,"B,S",2.75
+Momotombo,Nicaragua,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Monarque,Canada,2016,Dominican Republic,North America,72.0,70-80%,2,"B,S",3.5
+Monarque,Canada,2021,Philippines,Asia,76.0,70-80%,3,"B,S,C",3.5
+Monsoon,U.S.A.,2018,Mexico,North America,70.0,60-70%,3,"B,S,C",3.25
+Monsoon,U.S.A.,2021,Peru,South America,72.0,70-80%,3,"B,S,C",3.5
+Monsoon,U.S.A.,2021,Ecuador,South America,75.0,70-80%,2,"B,S",3.75
+MUCHO,Mexico,2020,Mexico,North America,70.0,60-70%,3,"B,S,C",3.0
+Muchomas (Mesocacao),U.S.A.,2015,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Muchomas (Mesocacao),U.S.A.,2015,Nicaragua,North America,80.0,70-80%,3,"B,S,C",3.5
+Musee du Chocolat Theobroma,Japan,2018,Venezuela,South America,70.0,60-70%,2,"B,S",3.5
+Mutari,U.S.A.,2016,Dominican Republic,North America,71.0,70-80%,2,"B,S",2.75
+Mutari,U.S.A.,2016,Tanzania,Africa,68.0,60-70%,2,"B,S",2.75
+Mutari,U.S.A.,2016,Madagascar,Africa,68.0,60-70%,2,"B,S",2.75
+Mutari,U.S.A.,2016,Vietnam,Asia,80.0,70-80%,2,"B,S",3.0
+Nahua,Costa Rica,2013,Costa Rica,North America,58.0,50-60%,3,"B,S,C",2.5
+Nahua,Costa Rica,2013,Costa Rica,North America,70.0,60-70%,3,"B,S,C",3.0
+Naive,Lithuania,2012,Grenada,North America,71.0,70-80%,4,"B,S,C,V",2.5
+Naive,Lithuania,2013,Blend,Other,70.0,60-70%,4,"B,S,C,L",3.75
+Naive,Lithuania,2013,Peru,South America,78.0,70-80%,4,"B,S,C,L",3.75
+Naive,Lithuania,2014,Venezuela,South America,75.0,70-80%,4,"B,S,C,L",2.75
+Naive,Lithuania,2014,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.0
+Naive,Lithuania,2014,Nicaragua,North America,70.0,60-70%,4,"B,S,C,L",3.25
+Naive,Lithuania,2019,Nicaragua,North America,67.0,60-70%,3,"B,S,C",2.75
+Naive,Lithuania,2019,El Salvador,North America,70.0,60-70%,3,"B,S,C",3.25
+Nathan Miller,U.S.A.,2014,Peru,South America,72.0,70-80%,2,"B,S",2.25
+Nathan Miller,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,2,"B,S*",2.5
+Nathan Miller,U.S.A.,2014,Madagascar,Africa,73.5,70-80%,2,"B,S",2.5
+Nathan Miller,U.S.A.,2014,Ghana,Africa,70.0,60-70%,3,"B,S,C",3.5
+Nearynogs,Ireland,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Neuhaus (Callebaut),Belgium,2006,Blend,Other,73.0,70-80%,5,"B,S,C,V,L",2.0
+Neuhaus (Callebaut),Belgium,2006,Sao Tome,Africa,75.0,70-80%,5,"B,S,C,V,L",2.75
+Neuhaus (Callebaut),Belgium,2006,Venezuela,South America,71.0,70-80%,5,"B,S,C,V,L",3.0
+Neuhaus (Callebaut),Belgium,2007,Blend,Other,73.0,70-80%,5,"B,S,C,V,L",1.0
+Neuhaus (Callebaut),Belgium,2008,Trinidad,North America,67.0,60-70%,5,"B,S,C,V,L",3.75
+Neuhaus (Callebaut),Belgium,2010,Papua New Guinea,Oceania,70.0,60-70%,5,"B,S,C,V,L",2.5
+Nibble,U.S.A.,2015,Venezuela,South America,72.0,70-80%,2,"B,S",2.25
+Nibble,U.S.A.,2015,Dominican Republic,North America,72.0,70-80%,2,"B,S",2.75
+Nibble,U.S.A.,2015,Madagascar,Africa,72.0,70-80%,2,"B,S",3.0
+Nibble,U.S.A.,2015,Peru,South America,72.0,70-80%,2,"B,S",3.0
+Nibble,U.S.A.,2018,Brazil,South America,72.0,70-80%,2,"B,S",3.0
+Night Owl,U.S.A.,2013,Peru,South America,75.0,70-80%,3,"B,S,C",2.75
+Night Owl,U.S.A.,2013,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.5
+Nikoa,Ecuador,2019,Ecuador,South America,72.0,70-80%,3,"B,S,C",3.75
+Nina,Peru,2018,Peru,South America,70.0,60-70%,3,"B,S,C",3.0
+Ninth (9th) & Larkin,U.S.A.,2018,Vietnam,Asia,72.0,70-80%,3,"B,S,C",2.75
+Ninth (9th) & Larkin,U.S.A.,2018,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.0
+Ninth (9th) & Larkin,U.S.A.,2018,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.0
+Ninth (9th) & Larkin,U.S.A.,2019,Fiji,Oceania,74.0,70-80%,3,"B,S,C",2.75
+Ninth (9th) & Larkin,U.S.A.,2019,Colombia,South America,72.0,70-80%,3,"B,S,C",3.25
+Noble Bean aka Jerjobo,U.S.A.,2014,Ghana,Africa,75.0,70-80%,4,"B,S*,V,L",3.0
+Noble Bean aka Jerjobo,U.S.A.,2014,Belize,North America,75.0,70-80%,4,"B,S*,V,L",3.0
+Noble Bean aka Jerjobo,U.S.A.,2014,Peru,South America,75.0,70-80%,4,"B,S*,V,L",3.25
+Nova Monda,Nicaragua,2012,Nicaragua,North America,75.0,70-80%,2,"B,S",2.75
+Nova Monda,Nicaragua,2012,Nicaragua,North America,70.0,60-70%,2,"B,S",3.0
+Nova Monda,Nicaragua,2012,Ecuador,South America,80.0,70-80%,2,"B,S",3.25
+Nuance,U.S.A.,2015,Ecuador,South America,70.0,60-70%,2,"B,S",2.75
+Nuance,U.S.A.,2015,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Nuance,U.S.A.,2015,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Nuance,U.S.A.,2015,Ghana,Africa,70.0,60-70%,2,"B,S",3.75
+Nuance,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.75
+Nuance,U.S.A.,2020,Nigeria,Africa,70.0,60-70%,3,"B,S,C",3.0
+Nuance,U.S.A.,2020,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.25
+Nugali,Brazil,2016,Brazil,South America,70.0,60-70%,3,"B,S,C",3.5
+Oakland Chocolate Co.,U.S.A.,2010,Jamaica,North America,70.0,60-70%,5,"B,S,C,V,L",2.5
+Obolo,Chile,2015,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Obolo,Chile,2019,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Ocelot,Scotland,2015,Congo,Africa,70.0,60-70%,3,"B,S,C",3.75
+Ocelot,Scotland,2015,Peru,South America,75.0,70-80%,3,"B,S,C",4.0
+Ocho,New Zealand,2014,Papua New Guinea,Oceania,66.0,60-70%,2,"B,S",2.75
+Ocho,New Zealand,2014,Papua New Guinea,Oceania,70.0,60-70%,2,"B,S",3.0
+Ocho,New Zealand,2014,Papua New Guinea,Oceania,88.0,80-90%,2,"B,S",3.25
+Ocho,New Zealand,2014,Papua New Guinea,Oceania,74.0,70-80%,2,"B,S",3.5
+Ocho,New Zealand,2016,Samoa,Oceania,100.0,90-100%,1,B,2.75
+Ocho,New Zealand,2016,Samoa,Oceania,70.0,60-70%,2,"B,S",3.5
+Odyssey,U.S.A.,2020,Guatemala,North America,70.0,60-70%,2,"B,S",3.0
+Odyssey,U.S.A.,2020,Tanzania,Africa,70.0,60-70%,2,"B,S",3.0
+Odyssey,U.S.A.,2020,Uganda,Africa,70.0,60-70%,2,"B,S",3.25
+Odyssey,U.S.A.,2020,India,Asia,70.0,60-70%,2,"B,S",3.25
+Odyssey,U.S.A.,2020,Colombia,South America,70.0,60-70%,2,"B,S",3.25
+Odyssey,U.S.A.,2020,Bolivia,South America,70.0,60-70%,2,"B,S",3.75
+Odyssey,U.S.A.,2020,Vietnam,Asia,70.0,60-70%,2,"B,S",3.75
+Odyssey,U.S.A.,2021,Blend,Other,100.0,90-100%,1,B,3.0
+Odyssey,U.S.A.,2021,Venezuela,South America,80.0,70-80%,2,"B,S",3.0
+Odyssey,U.S.A.,2021,U.S.A.,North America,70.0,60-70%,2,"B,S",3.25
+Odyssey,U.S.A.,2021,Peru,South America,70.0,60-70%,2,"B,S",3.25
+Odyssey,U.S.A.,2021,Venezuela,South America,70.0,60-70%,2,"B,S",3.5
+Odyssey,U.S.A.,2021,Haiti,North America,70.0,60-70%,2,"B,S",3.75
+Ohiyo,U.S.A.,2015,Trinidad,North America,70.0,60-70%,3,"B,S,C",2.75
+Ohiyo,U.S.A.,2015,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.0
+Oialla by Bojessen (Malmo),Germany,2011,Bolivia,South America,70.0,60-70%,2,"B,S",3.5
+Oialla by Bojessen (Malmo),Germany,2018,Brazil,South America,78.0,70-80%,3,"B,S,C",3.75
+Olive and Sinclair,U.S.A.,2009,Blend,Other,67.0,60-70%,3,"B,S,C",2.75
+Olive and Sinclair,U.S.A.,2009,Blend,Other,75.0,70-80%,3,"B,S,C",3.0
+Olive and Sinclair,U.S.A.,2010,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.0
+Olive and Sinclair,U.S.A.,2010,Ghana,Africa,72.0,70-80%,3,"B,S,C",3.0
+Olivia,Canada,2011,Blend,Other,76.0,70-80%,5,"B,S,C,V,L",2.0
+Olivia,Canada,2011,Blend,Other,76.0,70-80%,5,"B,S,C,V,L",2.75
+Olivia,Canada,2011,Blend,Other,85.0,80-90%,5,"B,S,C,V,L",2.75
+Olivia,Canada,2011,Blend,Other,85.0,80-90%,5,"B,S,C,V,L",3.0
+Omanhene,Ghana,2011,Ghana,Africa,80.0,70-80%,4,"B,S,C,L",2.75
+Omnom,Iceland,2014,Papua New Guinea,Oceania,70.0,60-70%,3,"B,S,C",3.0
+Omnom,Iceland,2014,Madagascar,Africa,66.0,60-70%,3,"B,S,C",3.5
+Omnom,Iceland,2016,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.75
+Omnom,Iceland,2018,Nicaragua,North America,73.0,70-80%,3,"B,S,C",3.0
+Or Dubh,U.S.A.,2020,Madagascar,Africa,70.0,60-70%,2,"B,S",3.25
+Or Dubh,U.S.A.,2020,Vietnam,Asia,70.0,60-70%,2,"B,S",3.25
+Or Dubh,U.S.A.,2020,Tanzania,Africa,70.0,60-70%,2,"B,S",3.5
+Orfeve,Switzerland,2021,Colombia,South America,75.0,70-80%,3,"B,S,C",2.75
+Orfeve,Switzerland,2021,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+Orfeve,Switzerland,2021,Peru,South America,75.0,70-80%,3,"B,S,C",3.25
+Orfeve,Switzerland,2021,Madagascar,Africa,75.0,70-80%,3,"B,S,C",3.5
+organicfair,Canada,2013,Belize,North America,74.0,70-80%,3,"B,S,C",2.75
+organicfair,Canada,2013,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",2.75
+organicfair,Canada,2013,Nicaragua,North America,72.0,70-80%,3,"B,S,C",2.75
+organicfair,Canada,2013,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.0
+organicfair,Canada,2013,Ecuador,South America,72.0,70-80%,3,"B,S,C",3.0
+organicfair,South Africa,2018,Panama,North America,71.0,70-80%,3,"B,S,C",3.0
+Original Beans (Felchlin),Switzerland,2009,Congo,Africa,70.0,60-70%,3,"B,S,C",3.0
+Original Beans (Felchlin),Switzerland,2009,Peru,South America,75.0,70-80%,3,"B,S,C",3.0
+Original Beans (Felchlin),Switzerland,2009,Bolivia,South America,68.0,60-70%,3,"B,S,C",3.25
+Original Beans (Felchlin),Switzerland,2011,Bolivia,South America,66.0,60-70%,3,"B,S,C",3.75
+Original Beans (Felchlin),Switzerland,2014,Papua New Guinea,Oceania,68.0,60-70%,3,"B,S,C",2.75
+Original Beans (Felchlin),Switzerland,2014,Blend,Other,80.0,70-80%,2,"B,S",3.25
+Original Hawaiin Chocolate Factory,U.S.A.,2006,U.S.A.,North America,60.0,50-60%,5,"B,S,C,V,L",3.0
+Original Hawaiin Chocolate Factory,U.S.A.,2009,U.S.A.,North America,60.0,50-60%,5,"B,S,C,V,L",3.0
+Orquidea,Peru,2012,Peru,South America,65.0,60-70%,4,"B,S,C,L",3.0
+Orquidea,Peru,2012,Peru,South America,72.0,70-80%,4,"B,S,C,L",3.0
+Pacari,Ecuador,2008,Ecuador,South America,60.0,50-60%,4,"B,S,C,L",2.75
+Pacari,Ecuador,2008,Ecuador,South America,72.0,70-80%,4,"B,S,C,L",3.0
+Pacari,Ecuador,2008,Ecuador,South America,65.0,60-70%,4,"B,S,C,L",3.0
+Pacari,Ecuador,2008,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Pacari,Ecuador,2011,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Pacari,Ecuador,2012,Ecuador,South America,85.0,80-90%,4,"B,S,C,L",2.75
+Pacari,Ecuador,2012,Peru,South America,70.0,60-70%,4,"B,S,C,L",4.0
+Pacari,Ecuador,2014,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.25
+Pacari,Ecuador,2014,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Pacari,Ecuador,2014,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.75
+Pacari,Ecuador,2014,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",4.0
+Pacari,Ecuador,2016,Colombia,South America,70.0,60-70%,4,"B,S,C,L",4.0
+Palet D'Or,Japan,2018,Vietnam,Asia,72.0,70-80%,5,"B,S,C,V,L",3.25
+Palet D'Or,Japan,2018,Haiti,North America,70.0,60-70%,5,"B,S,C,V,L",3.5
+Palet D'Or,Japan,2018,Cuba,North America,72.0,70-80%,5,"B,S,C,V,L",3.75
+Palette de Bine,Canada,2014,Bolivia,South America,72.0,70-80%,2,"B,S",2.75
+Palette de Bine,Canada,2014,Ecuador,South America,75.0,70-80%,2,"B,S",2.75
+Palette de Bine,Canada,2014,Blend,Other,75.0,70-80%,2,"B,S",3.5
+Palette de Bine,Canada,2014,Madagascar,Africa,78.0,70-80%,2,"B,S",3.75
+Palette de Bine,Canada,2014,Trinidad,North America,70.0,60-70%,2,"B,S",3.75
+Palette de Bine,Canada,2015,Bolivia,South America,70.0,60-70%,2,"B,S",3.25
+Palette de Bine,Canada,2015,Trinidad,North America,70.0,60-70%,2,"B,S*",3.25
+Palette de Bine,Canada,2015,Tanzania,Africa,72.0,70-80%,2,"B,S",3.5
+Palette de Bine,Canada,2015,Vietnam,Asia,72.0,70-80%,2,"B,S",3.75
+Palette de Bine,Canada,2016,Guatemala,North America,70.0,60-70%,2,"B,S",2.75
+Palette de Bine,Canada,2016,Belize,North America,72.0,70-80%,2,"B,S",3.0
+Palette de Bine,Canada,2017,Peru,South America,72.0,70-80%,2,"B,S",2.75
+Palette de Bine,Canada,2017,Dominican Republic,North America,75.0,70-80%,2,"B,S",2.75
+Palette de Bine,Canada,2017,Haiti,North America,70.0,60-70%,2,"B,S",3.5
+Palette de Bine,Canada,2019,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Pangea,Spain,2016,Fiji,Oceania,76.0,70-80%,2,"B,S",3.0
+Pangea,Spain,2019,Bolivia,South America,76.0,70-80%,2,"B,S",2.75
+Pangea,Spain,2019,Philippines,Asia,76.0,70-80%,2,"B,S",3.0
+Pangea,Spain,2019,Belize,North America,75.0,70-80%,2,"B,S",3.25
+Pangea,Spain,2019,Madagascar,Africa,76.0,70-80%,2,"B,S",3.25
+Pangea,Spain,2019,Dominican Republic,North America,76.0,70-80%,2,"B,S",3.25
+Pangea,Spain,2019,Peru,South America,71.0,70-80%,2,"B,S",3.5
+Park 75,U.S.A.,2014,Blend,Other,65.0,60-70%,3,"B,S,V",3.5
+Parliament,U.S.A.,2014,Bolivia,South America,70.0,60-70%,2,"B,S",3.0
+Parliament,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Parliament,U.S.A.,2015,Guatemala,North America,70.0,60-70%,2,"B,S",3.5
+Parliament,U.S.A.,2016,Tanzania,Africa,70.0,60-70%,2,"B,S",3.25
+Parre Chocolat,U.S.A.,2019,Guatemala,North America,75.0,70-80%,3,"B,S,C",2.75
+Parre Chocolat,U.S.A.,2019,Dominican Republic,North America,75.0,70-80%,3,"B,S,C",2.75
+Parre Chocolat,U.S.A.,2019,Colombia,South America,75.0,70-80%,3,"B,S,C",3.0
+Pascha,Peru,2013,Peru,South America,55.0,50-60%,4,"B,S,C,V",2.5
+Pascha,Peru,2013,Peru,South America,70.0,60-70%,4,"B,S,C,V",2.75
+Patric,U.S.A.,2007,Madagascar,Africa,70.0,60-70%,3,"B,S,C",4.0
+Patric,U.S.A.,2009,Madagascar,Africa,67.0,60-70%,3,"B,S,C",3.5
+Patric,U.S.A.,2009,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Patric,U.S.A.,2009,Madagascar,Africa,75.0,70-80%,3,"B,S,C",4.0
+Patric,U.S.A.,2011,Blend,Other,70.0,60-70%,3,"B,S,C",3.75
+Patric,U.S.A.,2013,Peru,South America,67.0,60-70%,3,"B,S,C",4.0
+Paul Young,U.K.,2014,Madagascar,Africa,73.0,70-80%,2,"B,S*",2.25
+Paul Young,U.K.,2014,Madagascar,Africa,64.0,60-70%,2,"B,S*",2.75
+Peppalo,U.S.A.,2015,Dominican Republic,North America,82.0,80-90%,3,"B,S,C",3.0
+Perrenial,U.S.A.,2018,Fiji,Oceania,75.0,70-80%,3,"B,S*,C",3.0
+Petite Patrie,Canada,2019,Peru,South America,70.0,60-70%,4,"B,S,C,L",3.25
+Pierre Marcolini,Belgium,2006,Indonesia,Asia,72.0,70-80%,5,"B,S,C,V,L",3.0
+Pierre Marcolini,Belgium,2006,Venezuela,South America,72.0,70-80%,5,"B,S,C,V,L",3.75
+Pierre Marcolini,Belgium,2006,Mexico,North America,72.0,70-80%,5,"B,S,C,V,L",4.0
+Pierre Marcolini,Belgium,2007,Blend,Other,85.0,80-90%,5,"B,S,C,V,L",3.5
+Pierre Marcolini,Belgium,2007,Ecuador,South America,72.0,70-80%,5,"B,S,C,V,L",3.75
+Pierre Marcolini,Belgium,2007,Blend,Other,70.0,60-70%,5,"B,S,C,V,L",4.0
+Pierre Marcolini,Belgium,2007,Madagascar,Africa,72.0,70-80%,5,"B,S,C,V,L",4.0
+Pierre Marcolini,Belgium,2009,Brazil,South America,72.0,70-80%,5,"B,S,C,V,L",3.0
+Pierre Marcolini,Belgium,2009,Mexico,North America,72.0,70-80%,5,"B,S,C,V,L",3.0
+Pierre Marcolini,Belgium,2010,Venezuela,South America,75.0,70-80%,5,"B,S,C,V,L",3.0
+Pierre Marcolini,Belgium,2010,Peru,South America,85.0,80-90%,5,"B,S,C,V,L",3.0
+Pierre Marcolini,Belgium,2010,Trinidad,North America,75.0,70-80%,5,"B,S,C,V,L",3.25
+Pierre Marcolini,Belgium,2010,Cuba,North America,78.0,70-80%,5,"B,S,C,V,L",3.75
+Pierre Marcolini,Belgium,2015,Cameroon,Africa,70.0,60-70%,5,"B,S,C,V,L",3.25
+Pierre Marcolini,Belgium,2019,Madagascar,Africa,76.0,70-80%,4,"B,S,C,L",3.0
+Pierre Marcolini,Belgium,2019,Cameroon,Africa,70.0,60-70%,4,"B,S,C,L",3.0
+Pierre Marcolini,Belgium,2021,China,Asia,72.0,70-80%,4,"B,S,C,L",3.5
+Piety and Desire,U.S.A.,2020,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.0
+Piety and Desire,U.S.A.,2020,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.5
+Piety and Desire,U.S.A.,2020,India,Asia,73.0,70-80%,3,"B,S,C",3.5
+Pinellas,U.S.A.,2016,Honduras,North America,80.0,70-80%,4,"B,S,V,L",2.5
+Pitch Dark,U.S.A.,2014,Fiji,Oceania,73.0,70-80%,2,"B,S",2.5
+Pitch Dark,U.S.A.,2014,Madagascar,Africa,73.0,70-80%,2,"B,S",3.25
+Pitch Dark,U.S.A.,2014,Ecuador,South America,73.0,70-80%,2,"B,S",3.25
+Pitch Dark,U.S.A.,2014,Ecuador,South America,73.0,70-80%,2,"B,S",3.5
+Pitch Dark,U.S.A.,2015,Nicaragua,North America,62.0,60-70%,3,"B,S,C",2.5
+Pitch Dark,U.S.A.,2015,Nicaragua,North America,80.0,70-80%,2,"B,S",2.75
+Pitch Dark,U.S.A.,2015,Nicaragua,North America,80.0,70-80%,3,"B,S,C",2.75
+Pitch Dark,U.S.A.,2015,Nicaragua,North America,80.0,70-80%,3,"B,S,C",2.75
+Pitch Dark,U.S.A.,2015,Nicaragua,North America,80.0,70-80%,2,"B,S",3.25
+Pollinator,U.S.A.,2020,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.0
+Pollinator,U.S.A.,2020,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.0
+Pollinator,U.S.A.,2020,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.25
+Pomm (aka Dead Dog),U.S.A.,2012,Dominican Republic,North America,76.0,70-80%,3,"B,S,C",2.5
+Pomm (aka Dead Dog),U.S.A.,2012,Peru,South America,82.0,80-90%,3,"B,S,C",2.75
+Poppy and Peep,U.S.A.,2021,Haiti,North America,71.0,70-80%,3,"B,S,C",2.75
+Poppy and Peep,U.S.A.,2021,Guatemala,North America,76.0,70-80%,3,"B,S,C",3.0
+Poppy and Peep,U.S.A.,2021,Ghana,Africa,66.0,60-70%,3,"B,S,C",3.0
+Potomac,U.S.A.,2010,Costa Rica,North America,82.0,80-90%,2,"B,S",3.75
+Potomac,U.S.A.,2011,Peru,South America,70.0,60-70%,2,"B,S",2.75
+Potomac,U.S.A.,2011,Costa Rica,North America,70.0,60-70%,2,"B,S",3.0
+Potomac,U.S.A.,2011,Costa Rica,North America,70.0,60-70%,2,"B,S",3.5
+Potomac,U.S.A.,2011,Brazil,South America,70.0,60-70%,2,"B,S",3.5
+Potomac,U.S.A.,2014,Venezuela,South America,70.0,60-70%,2,"B,S",3.75
+Potomac,U.S.A.,2016,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.75
+Potomac,U.S.A.,2018,Colombia,South America,70.0,60-70%,2,"B,S",4.0
+Potomac,U.S.A.,2021,Uganda,Africa,75.0,70-80%,2,"B,S",3.75
+Potomac,U.S.A.,2021,Peru,South America,70.0,60-70%,2,"B,S",3.75
+Pralus,France,2006,Vanuatu,Oceania,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2006,Cuba,North America,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2006,Blend,Other,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2006,Brazil,South America,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2006,Blend,Other,75.0,70-80%,4,"B,S,C,L",3.5
+Pralus,France,2006,Jamaica,North America,75.0,70-80%,4,"B,S,C,L",3.75
+Pralus,France,2006,Ecuador,South America,80.0,70-80%,4,"B,S,C,L",3.75
+Pralus,France,2007,Sao Tome,Africa,75.0,70-80%,4,"B,S,C,L",4.0
+Pralus,France,2008,Dominican Republic,North America,75.0,70-80%,4,"B,S,C,L",2.0
+Pralus,France,2008,Madagascar,Africa,100.0,90-100%,2,"B,C",3.0
+Pralus,France,2008,Brazil,South America,75.0,70-80%,4,"B,S,C,L",3.5
+Pralus,France,2009,Venezuela,South America,75.0,70-80%,4,"B,S,C,L",2.0
+Pralus,France,2010,Venezuela,South America,75.0,70-80%,4,"B,S,C,L",3.5
+Pralus,France,2011,Venezuela,South America,75.0,70-80%,4,"B,S,C,L",3.25
+Pralus,France,2015,Peru,South America,75.0,70-80%,3,"B,S,C",3.25
+Pralus,France,2019,Papua New Guinea,Oceania,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2019,Indonesia,Asia,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2019,Venezuela,South America,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2019,Madagascar,Africa,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2019,Colombia,South America,75.0,70-80%,4,"B,S,C,L",3.0
+Pralus,France,2019,Trinidad,North America,75.0,70-80%,4,"B,S,C,L",3.25
+Pralus,France,2019,Ghana,Africa,75.0,70-80%,4,"B,S,C,L",3.25
+Pralus,France,2019,Sao Tome & Principe,Africa,75.0,70-80%,4,"B,S,C,L",3.5
+Pralus,France,2019,Tanzania,Africa,75.0,70-80%,4,"B,S,C,L",3.5
+Pralus,France,2019,Ecuador,South America,75.0,70-80%,4,"B,S,C,L",3.5
+Primo Botanica,U.S.A.,2018,Tanzania,Africa,75.0,70-80%,2,"B,S*",3.25
+Primo Botanica,U.S.A.,2018,Peru,South America,75.0,70-80%,2,"B,S*",3.25
+Public Chocolatory,South Korea,2019,Vietnam,Asia,70.0,60-70%,2,"B,S",2.75
+Pump Street Bakery,U.K.,2014,Venezuela,South America,75.0,70-80%,3,"B,S,C",2.75
+Pump Street Bakery,U.K.,2014,Ecuador,South America,85.0,80-90%,3,"B,S,C",2.75
+Pump Street Bakery,U.K.,2014,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.0
+Pump Street Bakery,U.K.,2014,Madagascar,Africa,72.0,70-80%,3,"B,S,C",3.25
+Pump Street Bakery,U.K.,2015,Honduras,North America,80.0,70-80%,3,"B,S,C",2.75
+Pump Street Bakery,U.K.,2015,Grenada,North America,70.0,60-70%,3,"B,S,C",3.5
+Pump Street Bakery,U.K.,2015,Madagascar,Africa,74.0,70-80%,3,"B,S,C",3.5
+Pump Street Bakery,U.K.,2016,Ecuador,South America,77.0,70-80%,3,"B,S,C",3.5
+Pump Street Bakery,U.K.,2017,Jamaica,North America,75.0,70-80%,2,"B,S",3.75
+Pump Street Bakery,U.K.,2018,Solomon Islands,Oceania,72.0,70-80%,3,"B,S,C",3.25
+Pura Delizia,Italy,2012,Venezuela,South America,73.0,70-80%,4,"B,S,C,L",2.75
+Pura Delizia,Italy,2017,Ecuador,South America,73.0,70-80%,4,"B,S,C,L",3.25
+Pura Delizia,Italy,2017,Papua New Guinea,Oceania,75.0,70-80%,4,"B,S,C,L",3.25
+Pura Delizia,Italy,2017,Vietnam,Asia,75.0,70-80%,4,"B,S,C,L",3.5
+Pura Delizia,Italy,2017,Philippines,Asia,66.0,60-70%,4,"B,S,C,L",3.5
+Pura Delizia,Italy,2017,Dominican Republic,North America,65.0,60-70%,4,"B,S,C,L",3.75
+Q Chocolate,Brazil,2012,Brazil,South America,60.0,50-60%,3,"B,S,C",3.0
+Q Chocolate,Brazil,2012,Brazil,South America,65.0,60-70%,3,"B,S,C",3.25
+Q Chocolate,Brazil,2013,Brazil,South America,55.0,50-60%,3,"B,S,C",2.75
+Q Chocolate,Brazil,2013,Brazil,South America,75.0,70-80%,3,"B,S,C",3.25
+Q Chocolate,Brazil,2013,Brazil,South America,80.0,70-80%,3,"B,S,C",3.25
+Q Chocolate,Brazil,2013,Brazil,South America,85.0,80-90%,3,"B,S,C",3.5
+Qantu,Canada,2018,Peru,South America,70.0,60-70%,3,"B,S,C",3.0
+Qantu,Canada,2019,Peru,South America,70.0,60-70%,3,"B,S,C",3.75
+Qantu,Canada,2020,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Qantu,Canada,2020,Peru,South America,70.0,60-70%,3,"B,S,C",4.0
+Qantu,Canada,2021,Peru,South America,70.0,60-70%,3,"B,S,C",3.75
+Quetzalli (Wolter),Mexico,2016,Mexico,North America,70.0,60-70%,3,"B,S,C",2.75
+Quetzalli (Wolter),Mexico,2016,Mexico,North America,74.0,70-80%,3,"B,S,C",3.0
+Raaka,U.S.A.,2011,Dominican Republic,North America,85.0,80-90%,3,"B,S,C",3.5
+Raaka,U.S.A.,2012,Madagascar,Africa,75.0,70-80%,3,"B,S,C",3.25
+Raaka,U.S.A.,2015,Congo,Africa,75.0,70-80%,3,"B,S,C",2.75
+Raaka,U.S.A.,2016,Peru,South America,70.0,60-70%,3,"B,S,C",3.0
+Raaka,U.S.A.,2017,Haiti,North America,70.0,60-70%,3,"B,S,C",3.25
+Raaka,U.S.A.,2017,Haiti,North America,70.0,60-70%,3,"B,S,C",3.5
+Rain Republic,Guatemala,2010,Guatemala,North America,70.0,60-70%,5,"B,S,C,V,L",2.75
+Ranger,U.S.A.,2015,Peru,South America,70.0,60-70%,2,"B,S",2.5
+Ranger,U.S.A.,2015,Peru,South America,80.0,70-80%,2,"B,S",3.25
+Ranger,U.S.A.,2015,Peru,South America,73.0,70-80%,2,"B,S",3.5
+Ranger,U.S.A.,2021,Mexico,North America,70.0,60-70%,2,"B,S",3.25
+Raoul Boulanger,France,2016,Peru,South America,75.0,70-80%,3,"B,S,C",3.25
+Raphio,U.S.A.,2018,Ecuador,South America,72.0,70-80%,3,"B,S,C",3.5
+Raphio,U.S.A.,2018,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.75
+Raphio,U.S.A.,2018,Peru,South America,72.0,70-80%,3,"B,S,C",3.75
+Raphio,U.S.A.,2019,Dominican Republic,North America,72.0,70-80%,3,"B,S,C",3.5
+Raphio,U.S.A.,2019,Nicaragua,North America,72.0,70-80%,3,"B,S,C",3.5
+Raphio,U.S.A.,2021,Ghana,Africa,72.0,70-80%,3,"B,S,C",3.5
+Republica del Cacao (aka Confecta),Ecuador,2007,Ecuador,South America,75.0,70-80%,4,"B,S,C,L",3.0
+Republica del Cacao (aka Confecta),Ecuador,2007,Ecuador,South America,67.0,60-70%,4,"B,S,C,L",3.5
+Republica del Cacao (aka Confecta),Ecuador,2007,Ecuador,South America,75.0,70-80%,4,"B,S,C,L",3.75
+Republica del Cacao (aka Confecta),Ecuador,2009,Ecuador,South America,75.0,70-80%,4,"B,S,C,L",2.5
+Republica del Cacao (aka Confecta),Ecuador,2010,Ecuador,South America,75.0,70-80%,4,"B,S,C,L",3.25
+Ritual,U.S.A.,2011,Costa Rica,North America,75.0,70-80%,2,"B,S",3.5
+Ritual,U.S.A.,2012,Ecuador,South America,75.0,70-80%,2,"B,S",3.25
+Ritual,U.S.A.,2012,Trinidad,North America,75.0,70-80%,2,"B,S",3.5
+Ritual,U.S.A.,2012,Madagascar,Africa,75.0,70-80%,2,"B,S",4.0
+Ritual,U.S.A.,2013,Peru,South America,75.0,70-80%,2,"B,S",3.0
+Ritual,U.S.A.,2013,Belize,North America,75.0,70-80%,2,"B,S",3.75
+Ritual,U.S.A.,2015,Ecuador,South America,85.0,80-90%,2,"B,S",3.5
+Ritual,U.S.A.,2015,Blend,Other,70.0,60-70%,2,"B,S",3.5
+Ritual,U.S.A.,2016,Ecuador,South America,75.0,70-80%,2,"B,S",3.75
+Ritual,U.S.A.,2017,Mexico,North America,75.0,70-80%,3,"B,S,C",3.75
+Ritual,U.S.A.,2019,Nicaragua,North America,70.0,60-70%,2,"B,S",3.5
+Ritual,U.S.A.,2019,Trinidad,North America,80.0,70-80%,2,"B,S",3.5
+Ritual,U.S.A.,2020,Madagascar,Africa,75.0,70-80%,3,"B,S,C",3.5
+River-Sea,U.S.A.,2018,Tanzania,Africa,72.0,70-80%,3,"B,S,C",3.0
+River-Sea,U.S.A.,2019,Fiji,Oceania,70.0,60-70%,3,"B,S,C",2.5
+River-Sea,U.S.A.,2019,Peru,South America,70.0,60-70%,3,"B,S,C",2.5
+Roasting Masters,South Korea,2016,Costa Rica,North America,70.0,60-70%,2,"B,S",3.25
+Roasting Masters,South Korea,2016,Costa Rica,North America,70.0,60-70%,2,"B,S",3.25
+Roasting Masters,South Korea,2016,Costa Rica,North America,70.0,60-70%,2,"B,S",3.25
+Robert (aka Chocolaterie Robert),Madagascar,2013,Madagascar,Africa,75.0,70-80%,5,"B,S,C,V,L",3.25
+Robert (aka Chocolaterie Robert),Madagascar,2013,Madagascar,Africa,68.0,60-70%,4,"B,S,C,L",3.25
+Rogue,U.S.A.,2008,Dominican Republic,North America,70.0,60-70%,2,"B,S",2.75
+Rogue,U.S.A.,2008,Jamaica,North America,70.0,60-70%,2,"B,S",2.75
+Rogue,U.S.A.,2008,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Rogue,U.S.A.,2008,Trinidad,North America,70.0,60-70%,2,"B,S",3.0
+Rogue,U.S.A.,2009,Venezuela,South America,70.0,60-70%,2,"B,S",3.5
+Rogue,U.S.A.,2010,Peru,South America,75.0,70-80%,2,"B,S",3.75
+Rogue,U.S.A.,2011,Bolivia,South America,75.0,70-80%,2,"B,S",3.0
+Rogue,U.S.A.,2012,Ecuador,South America,75.0,70-80%,2,"B,S",3.75
+Rogue,U.S.A.,2013,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Rogue,U.S.A.,2013,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Rogue,U.S.A.,2013,Jamaica,North America,75.0,70-80%,2,"B,S",3.75
+Rogue,U.S.A.,2013,Bolivia,South America,75.0,70-80%,2,"B,S",4.0
+Rogue,U.S.A.,2014,Venezuela,South America,80.0,70-80%,2,"B,S",3.75
+Rogue,U.S.A.,2015,Bolivia,South America,75.0,70-80%,2,"B,S",3.25
+Rogue,U.S.A.,2015,Venezuela,South America,70.0,60-70%,2,"B,S",3.75
+Rogue,U.S.A.,2016,Honduras,North America,75.0,70-80%,2,"B,S",3.75
+Rozsavolgyi,Hungary,2011,Venezuela,South America,71.0,70-80%,3,"B,S,C",2.5
+Rozsavolgyi,Hungary,2011,Principe,Other,77.0,70-80%,3,"B,S,C",2.75
+Rozsavolgyi,Hungary,2011,Venezuela,South America,73.0,70-80%,3,"B,S,C",3.5
+Rozsavolgyi,Hungary,2011,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Rozsavolgyi,Hungary,2012,Venezuela,South America,76.0,70-80%,3,"B,S,C",2.25
+Rozsavolgyi,Hungary,2012,Venezuela,South America,84.0,80-90%,3,"B,S,C",2.5
+Rozsavolgyi,Hungary,2012,Madagascar,Africa,72.0,70-80%,3,"B,S,C",2.5
+Rozsavolgyi,Hungary,2017,Venezuela,South America,73.0,70-80%,3,"B,S,C",3.75
+Rozsavolgyi,Hungary,2021,Peru,South America,72.0,70-80%,3,"B,S,C",3.75
+Ruket,Italy,2017,Honduras,North America,72.0,70-80%,3,"B,S*,C",2.75
+Ruket,Italy,2018,Haiti,North America,75.0,70-80%,3,"B,S,C",3.0
+Ruket,Italy,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Ruket,Italy,2021,Indonesia,Asia,77.0,70-80%,2,"B,S",2.75
+Ruket,Italy,2021,Tanzania,Africa,72.0,70-80%,2,"B,S",3.5
+Sacred,U.S.A.,2012,Blend,Other,83.0,80-90%,4,"B,S*,C,V",2.75
+Sacred,U.S.A.,2012,Blend,Other,69.0,60-70%,4,"B,S*,C,V",3.25
+Salgado,Argentina,2008,Brazil,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Salgado,Argentina,2008,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Salgado,Argentina,2008,Venezuela,South America,70.0,60-70%,4,"B,S,C,L",3.5
+Salgado,Argentina,2008,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.5
+San Jose,Ecuador,2017,Ecuador,South America,70.0,60-70%,4,"B,S,C,L",3.25
+Santander (Compania Nacional),Colombia,2006,Colombia,South America,53.0,50-60%,5,"B,S,C,V,L",2.0
+Santander (Compania Nacional),Colombia,2006,Colombia,South America,65.0,60-70%,5,"B,S,C,V,L",3.0
+Santander (Compania Nacional),Colombia,2006,Colombia,South America,70.0,60-70%,5,"B,S,C,V,L",3.75
+Santander (Compania Nacional),Colombia,2009,Colombia,South America,75.0,70-80%,3,"B,S,L",2.75
+Santander (Compania Nacional),Colombia,2009,Colombia,South America,70.0,60-70%,5,"B,S,C,V,L",3.0
+Santome,France,2011,Sao Tome,Africa,70.0,60-70%,5,"B,S,C,V,L",2.75
+Scharffen Berger,U.S.A.,2006,Blend,Other,82.0,80-90%,5,"B,S,C,V,L",2.0
+Scharffen Berger,U.S.A.,2006,Blend,Other,68.0,60-70%,5,"B,S,C,V,L",2.0
+Scharffen Berger,U.S.A.,2006,Jamaica,North America,70.0,60-70%,5,"B,S,C,V,L",2.0
+Scharffen Berger,U.S.A.,2006,Blend,Other,62.0,60-70%,5,"B,S,C,V,L",3.0
+Scharffen Berger,U.S.A.,2006,Blend,Other,70.0,60-70%,5,"B,S,C,V,L",3.5
+Scharffen Berger,U.S.A.,2007,Blend,Other,72.0,70-80%,5,"B,S,C,V,L",3.0
+Scharffen Berger,U.S.A.,2007,Blend,Other,62.0,60-70%,5,"B,S,C,V,L",3.0
+Scharffen Berger,U.S.A.,2007,Blend,Other,75.0,70-80%,5,"B,S,C,V,L",3.0
+Scharffen Berger,U.S.A.,2007,Venezuela,South America,75.0,70-80%,5,"B,S,C,V,L",3.75
+Scharffen Berger,U.S.A.,2008,Blend,Other,72.0,70-80%,5,"B,S,C,V,L",3.0
+Scharffen Berger,U.S.A.,2009,Brazil,South America,68.0,60-70%,5,"B,S,C,V,L",3.75
+Scharffen Berger,U.S.A.,2009,Vietnam,Asia,72.0,70-80%,5,"B,S,C,V,L",3.75
+Scharffen Berger,U.S.A.,2009,Ghana,Africa,65.0,60-70%,5,"B,S,C,V,L",4.0
+Scharffen Berger,U.S.A.,2010,Grenada,North America,68.0,60-70%,5,"B,S,C,V,L",3.5
+Scharffen Berger,U.S.A.,2010,Madagascar,Africa,65.0,60-70%,5,"B,S,C,V,L",3.75
+Scharffen Berger,U.S.A.,2011,Papua New Guinea,Oceania,68.0,60-70%,5,"B,S,C,V,L",3.75
+Scharffen Berger,U.S.A.,2012,Peru,South America,78.0,70-80%,4,"B,S,C,L",4.0
+Seaforth,U.K.,2015,Dominican Republic,North America,70.0,60-70%,2,"B,S",2.75
+Seaforth,U.K.,2015,Grenada,North America,70.0,60-70%,2,"B,S",2.75
+Seahorse,U.S.A.,2018,Honduras,North America,70.0,60-70%,2,"B,S",2.75
+Seahorse,U.S.A.,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.0
+Seahorse,U.S.A.,2018,Tanzania,Africa,70.0,60-70%,2,"B,S",3.25
+Seahorse,U.S.A.,2019,Fiji,Oceania,70.0,60-70%,2,"B,S",2.75
+Seahorse,U.S.A.,2019,Uganda,Africa,70.0,60-70%,2,"B,S",3.5
+Seahorse,U.S.A.,2021,Trinidad,North America,75.0,70-80%,2,"B,S",3.25
+Seahorse,U.S.A.,2021,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Seahorse,U.S.A.,2021,Vietnam,Asia,70.0,60-70%,2,"B,S",3.5
+Seahorse,U.S.A.,2021,India,Asia,70.0,60-70%,2,"B,S",3.5
+Shane Chocolate Works,U.S.A.,2019,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.0
+Shane Chocolate Works,U.S.A.,2019,Colombia,South America,70.0,60-70%,3,"B,S,C",3.0
+Shane Chocolate Works,U.S.A.,2019,Belize,North America,70.0,60-70%,3,"B,S,C",3.5
+Shark Mountain,U.S.A.,2014,Ecuador,South America,75.0,70-80%,2,"B,S",3.0
+Shark Mountain,U.S.A.,2014,Belize,North America,72.0,70-80%,2,"B,S",3.25
+Shark Mountain,U.S.A.,2015,Venezuela,South America,77.0,70-80%,2,"B,S",2.75
+Shark Mountain,U.S.A.,2015,Jamaica,North America,72.0,70-80%,2,"B,S",3.25
+Shark Mountain,U.S.A.,2015,Papua New Guinea,Oceania,73.0,70-80%,2,"B,S",3.5
+Shark Mountain,U.S.A.,2015,Dominican Republic,North America,74.0,70-80%,2,"B,S",3.5
+Shark's,U.S.A.,2011,U.S.A.,North America,73.0,70-80%,4,"B,S,C,V",2.0
+Shark's,U.S.A.,2011,U.S.A.,North America,73.0,70-80%,4,"B,S,C,V",2.5
+Shattell,Peru,2011,Peru,South America,75.0,70-80%,3,"B,S,C",3.5
+Shattell,Peru,2016,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+Sibu,Costa Rica,2015,Costa Rica,North America,82.0,80-90%,3,"B,S,C",3.25
+Sibu,Costa Rica,2015,Costa Rica,North America,70.0,60-70%,3,"B,S,C",3.5
+Silvio Bessone,Italy,2011,Belize,North America,67.0,60-70%,4,"B,S,C,Sa",3.0
+Silvio Bessone,Italy,2011,Colombia,South America,68.0,60-70%,4,"B,S,C,Sa",3.0
+Silvio Bessone,Italy,2011,Sao Tome,Africa,65.0,60-70%,4,"B,S,C,Sa",3.25
+Silvio Bessone,Italy,2011,Brazil,South America,60.0,50-60%,4,"B,S,C,Sa",3.25
+Sirene,Canada,2014,Madagascar,Africa,67.0,60-70%,3,"B,S,C",3.75
+Sirene,Canada,2014,Madagascar,Africa,73.0,70-80%,3,"B,S,C",3.75
+Sirene,Canada,2014,Ecuador,South America,73.0,70-80%,3,"B,S,C",3.75
+Sirene,Canada,2015,Madagascar,Africa,100.0,90-100%,1,B,3.0
+Sirene,Canada,2015,Ecuador,South America,100.0,90-100%,1,B,3.0
+Sirene,Canada,2015,Guatemala,North America,73.0,70-80%,2,"B,S",3.0
+Sirene,Canada,2015,Guatemala,North America,73.0,70-80%,2,"B,S*",3.25
+Sirene,Canada,2015,Haiti,North America,73.0,70-80%,2,"B,S",3.25
+Sirene,Canada,2016,Bolivia,South America,73.0,70-80%,2,"B,S",3.5
+Sirene,Canada,2016,Tanzania,Africa,73.0,70-80%,2,"B,S",3.5
+Sirene,Canada,2016,Ecuador,South America,73.0,70-80%,2,"B,S",3.75
+Sirene,Canada,2017,Peru,South America,73.0,70-80%,2,"B,S",3.75
+Sirene,Canada,2021,Mexico,North America,73.0,70-80%,3,"B,S,C",3.0
+Sirene,Canada,2021,India,Asia,73.0,70-80%,3,"B,S,C",3.25
+Sjolinds,U.S.A.,2015,Ghana,Africa,70.0,60-70%,4,"B,S,C,V",2.75
+Sjolinds,U.S.A.,2015,Nicaragua,North America,72.0,70-80%,3,"B,S,C",3.0
+"Smooth Chocolator, The",Australia,2015,Bolivia,South America,72.0,70-80%,3,"B,S,C",2.75
+"Smooth Chocolator, The",Australia,2015,Peru,South America,67.0,60-70%,3,"B,S,C",3.0
+"Smooth Chocolator, The",Australia,2015,Madagascar,Africa,65.0,60-70%,3,"B,S,C",3.25
+"Smooth Chocolator, The",Australia,2015,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+"Smooth Chocolator, The",Australia,2015,Papua New Guinea,Oceania,65.0,60-70%,3,"B,S,C",3.5
+"Smooth Chocolator, The",Australia,2015,Tanzania,Africa,67.0,60-70%,3,"B,S,C",3.75
+"Smooth Chocolator, The",Australia,2015,Trinidad,North America,70.0,60-70%,3,"B,S,C",3.75
+"Smooth Chocolator, The",Australia,2015,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+"Smooth Chocolator, The",Australia,2015,Ecuador,South America,72.0,70-80%,3,"B,S,C",4.0
+"Smooth Chocolator, The",Australia,2016,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.0
+"Smooth Chocolator, The",Australia,2016,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.25
+"Smooth Chocolator, The",Australia,2016,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+"Smooth Chocolator, The",Australia,2016,Belize,North America,70.0,60-70%,3,"B,S,C",3.75
+"Smooth Chocolator, The",Australia,2016,Australia,Oceania,67.0,60-70%,3,"B,S,C",3.75
+"Smooth Chocolator, The",Australia,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",4.0
+"Smooth Chocolator, The",Australia,2017,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+"Smooth Chocolator, The",Australia,2017,Haiti,North America,70.0,60-70%,3,"B,S,C",3.5
+Snake & Butterfly,U.S.A.,2010,Madagascar,Africa,68.0,60-70%,3,"B,S,C",3.0
+Snake & Butterfly,U.S.A.,2010,Ecuador,South America,68.0,60-70%,3,"B,S,C",3.25
+Snake & Butterfly,U.S.A.,2011,Ghana,Africa,67.0,60-70%,3,"B,S,C",1.5
+Soeka,Amsterdam,2018,Sulawesi,Other,66.0,60-70%,3,"B,S*,C",3.25
+Soklet,India,2017,India,Asia,70.0,60-70%,3,"B,S,C",2.75
+Sol Cacao,U.S.A.,2015,Madagascar,Africa,72.0,70-80%,2,"B,S",3.0
+Sol Cacao,U.S.A.,2016,Ecuador,South America,70.0,60-70%,2,"B,S",3.5
+Solkiki,U.K.,2016,Dominican Republic,North America,85.0,80-90%,2,"B,S",2.75
+Solkiki,U.K.,2016,Peru,South America,68.0,60-70%,2,"B,S",2.75
+Solkiki,U.K.,2019,Philippines,Asia,70.0,60-70%,3,"B,S,C",2.5
+Solomons Gold,New Zealand,2016,Solomon Islands,Oceania,70.0,60-70%,2,"B,S",3.25
+Solomons Gold,New Zealand,2016,Solomon Islands,Oceania,75.0,70-80%,2,"B,S",3.25
+Solstice,U.S.A.,2013,Madagascar,Africa,70.0,60-70%,2,"B,S",3.0
+Solstice,U.S.A.,2013,Venezuela,South America,70.0,60-70%,2,"B,S",3.0
+Solstice,U.S.A.,2013,Bolivia,South America,70.0,60-70%,2,"B,S",3.25
+Solstice,U.S.A.,2013,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+Solstice,U.S.A.,2013,Blend,Other,70.0,60-70%,3,"B,S,C",3.5
+Solstice,U.S.A.,2014,Uganda,Africa,70.0,60-70%,3,"B,S,C",3.0
+Solstice,U.S.A.,2017,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.25
+Solstice,U.S.A.,2018,India,Asia,70.0,60-70%,3,"B,S,C",3.25
+Solstice,U.S.A.,2021,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2009,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.0
+Soma,Canada,2009,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.0
+Soma,Canada,2009,Ghana,Africa,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2009,Papua New Guinea,Oceania,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2009,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2009,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2010,Blend,Other,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2011,Grenada,North America,70.0,60-70%,3,"B,S,C",2.75
+Soma,Canada,2011,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2011,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2011,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2011,Blend,Other,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2011,Peru,South America,64.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2012,Haiti,North America,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2012,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2012,Blend,Other,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2012,Papua New Guinea,Oceania,85.0,80-90%,3,"B,S,C",3.5
+Soma,Canada,2012,U.S.A.,North America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2012,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2012,Blend,Other,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2012,Blend,Other,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2013,Peru,South America,70.0,60-70%,3,"B,S,C",2.75
+Soma,Canada,2013,Indonesia,Asia,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2013,Blend,Other,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2013,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2013,Dominican Republic,North America,77.0,70-80%,3,"B,S,C",3.75
+Soma,Canada,2013,Trinidad,North America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2013,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2013,Blend,Other,88.0,80-90%,3,"B,S,C",4.0
+Soma,Canada,2013,Venezuela,South America,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2013,Blend,Other,67.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2013,Jamaica,North America,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2014,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2014,Blend,Other,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2014,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2014,Ecuador,South America,80.0,70-80%,3,"B,S,C",3.5
+Soma,Canada,2014,Peru,South America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2014,Vanuatu,Oceania,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2015,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2015,Venezuela,South America,75.0,70-80%,3,"B,S,C",4.0
+Soma,Canada,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2016,Dominican Republic,North America,62.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2016,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2016,Brazil,South America,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2016,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Soma,Canada,2016,Blend,Other,75.0,70-80%,3,"B,S,C",3.75
+Soma,Canada,2016,Vietnam,Asia,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2017,Fiji,Oceania,70.0,60-70%,3,"B,S,C",3.25
+Soma,Canada,2017,Colombia,South America,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2018,Haiti,North America,70.0,60-70%,3,"B,S,C",3.0
+Soma,Canada,2018,Madagascar,Africa,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2018,Venezuela,South America,70.0,60-70%,3,"B,S,C",4.0
+Soma,Canada,2021,Blend,Other,62.0,60-70%,4,"B,S,C,V",3.25
+Soma,Canada,2021,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2021,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Soma,Canada,2021,Vietnam,Asia,70.0,60-70%,3,"B,S,C",4.0
+Somerville,U.S.A.,2014,Nicaragua,North America,70.0,60-70%,2,"B,S",3.25
+Somerville,U.S.A.,2014,U.S.A.,North America,70.0,60-70%,2,"B,S",3.5
+Soul,Canada,2017,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Soul,Canada,2017,Ecuador,South America,75.0,70-80%,2,"B,S",3.25
+Soul,Canada,2017,Papua New Guinea,Oceania,77.0,70-80%,2,"B,S",3.25
+Soul,Canada,2017,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Soul,Canada,2017,Venezuela,South America,75.0,70-80%,2,"B,S",3.5
+Soul,Canada,2017,Tanzania,Africa,80.0,70-80%,2,"B,S",3.5
+Spagnvola,U.S.A.,2012,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,V",3.0
+Spagnvola,U.S.A.,2012,Dominican Republic,North America,80.0,70-80%,4,"B,S,C,V",3.0
+Spagnvola,U.S.A.,2012,Dominican Republic,North America,75.0,70-80%,4,"B,S,C,V",3.25
+Spencer,Australia,2014,Vanuatu,Oceania,72.0,70-80%,3,"B,S,C",2.75
+Spencer,Australia,2016,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Spencer,Australia,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.75
+Spencer,Australia,2016,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.75
+Spencer,U.S.A.,2017,Peru,South America,70.0,60-70%,3,"B,S,C",2.75
+Spencer,U.S.A.,2017,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.5
+Spencer,U.S.A.,2017,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.75
+Spinnaker,U.S.A.,2021,Belize,North America,70.0,60-70%,2,"B,S",3.25
+Spinnaker,U.S.A.,2021,Madagascar,Africa,70.0,60-70%,2,"B,S",3.5
+Spinnaker,U.S.A.,2021,Uganda,Africa,70.0,60-70%,2,"B,S",3.5
+Sprungli (Felchlin),Switzerland,2013,Bolivia,South America,70.0,60-70%,4,"B,S,C,L",3.0
+SRSLY,U.S.A.,2013,Dominican Republic,North America,84.0,80-90%,3,"B,S,L",2.25
+SRSLY,U.S.A.,2013,Dominican Republic,North America,70.0,60-70%,3,"B,S,L",3.0
+Starchild,U.S.A.,2015,Ecuador,South America,70.0,60-70%,4,"B,S*,C,V",3.0
+Starchild,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,4,"B,S*,C,V",3.0
+Starchild,U.S.A.,2015,Guatemala,North America,70.0,60-70%,4,"B,S*,C,V",3.0
+Starchild,U.S.A.,2015,Nicaragua,North America,70.0,60-70%,4,"B,S*,C,V",3.0
+Starchild,U.S.A.,2015,Madagascar,Africa,70.0,60-70%,4,"B,S*,C,V",3.0
+Stella (aka Bernrain),Switzerland,2011,India,Asia,72.0,70-80%,4,"B,S,C,V",3.25
+Stella (aka Bernrain),Switzerland,2012,Brazil,South America,68.0,60-70%,4,"B,S,C,V",2.75
+Stone Grindz,U.S.A.,2014,Ecuador,South America,84.0,80-90%,3,"B,S,C",3.5
+Stone Grindz,U.S.A.,2014,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.5
+Stone Grindz,U.S.A.,2017,Bolivia,South America,70.0,60-70%,3,"B,S,C",2.5
+StRita Supreme,U.S.A.,2012,Philippines,Asia,65.0,60-70%,4,"B,S,C,V",2.5
+StRita Supreme,U.S.A.,2012,Philippines,Asia,70.0,60-70%,4,"B,S,C,V",2.5
+StRita Supreme,U.S.A.,2012,Philippines,Asia,75.0,70-80%,4,"B,S,C,V",2.75
+Sublime Origins,U.S.A.,2013,Madagascar,Africa,67.0,60-70%,2,"B,S",2.75
+Sublime Origins,U.S.A.,2013,Belize,North America,78.0,70-80%,2,"B,S",3.25
+Summerbird,Denmark,2016,Peru,South America,61.0,60-70%,5,"B,S,C,V,L",2.5
+Summerbird,Denmark,2016,Peru,South America,71.0,70-80%,5,"B,S,C,V,L",3.0
+Suruca Chocolate,Venezuela,2016,Venezuela,South America,70.0,60-70%,3,"B,S,C",2.75
+Suruca Chocolate,Venezuela,2016,Venezuela,South America,60.0,50-60%,3,"B,S,C",3.0
+Svenska Kakaobolaget,Sweden,2015,Sri Lanka,Asia,70.0,60-70%,2,"B,S",2.75
+Svenska Kakaobolaget,Sweden,2019,Tanzania,Africa,74.0,70-80%,2,"B,S",2.75
+sweet beans,U.S.A.,2021,Honduras,North America,72.0,70-80%,3,"B,S,C",3.0
+sweet beans,U.S.A.,2021,Peru,South America,72.0,70-80%,3,"B,S,C",3.0
+sweet beans,U.S.A.,2021,Uganda,Africa,77.0,70-80%,3,"B,S,C",3.5
+sweet beans,U.S.A.,2021,Trinidad,North America,80.0,70-80%,3,"B,S,C",3.75
+Sweet Escalier,Japan,2018,Peru,South America,70.0,60-70%,5,"B,S,C,V,L",2.5
+Sweet Escalier,Japan,2018,Tanzania,Africa,75.0,70-80%,3,"B,S,C",2.75
+Sweet Escalier,Japan,2018,Belize,North America,70.0,60-70%,5,"B,S,C,V,L",3.0
+Sweet Escalier,Japan,2018,Brazil,South America,70.0,60-70%,5,"B,S,C,V,L",3.0
+Sweet Escalier,Japan,2018,Venezuela,South America,75.0,70-80%,5,"B,S,C,V,L",3.25
+Sweetness,Canada,2020,Mexico,North America,74.0,70-80%,3,"B,S,C",3.0
+Sweetness,Canada,2020,Peru,South America,68.0,60-70%,3,"B,S,C",3.25
+Sweetness,Canada,2020,Papua New Guinea,Oceania,73.0,70-80%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2011,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.0
+Szanto Tibor,Hungary,2012,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2012,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2012,Peru,South America,70.0,60-70%,3,"B,S,C",3.75
+Szanto Tibor,Hungary,2013,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2013,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Szanto Tibor,Hungary,2013,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Szanto Tibor,Hungary,2014,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Szanto Tibor,Hungary,2014,Cuba,North America,70.0,60-70%,3,"B,S,C",3.75
+Szanto Tibor,Hungary,2015,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2015,Cuba,North America,88.0,80-90%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2015,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2015,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.25
+Szanto Tibor,Hungary,2015,Brazil,South America,70.0,60-70%,3,"B,S,C",3.5
+Szanto Tibor,Hungary,2015,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.75
+Tabal,U.S.A.,2013,Mexico,North America,70.0,60-70%,4,"B,S,C,V",2.5
+Tabal,U.S.A.,2013,Costa Rica,North America,70.0,60-70%,4,"B,S,C,V",2.75
+Tabal,U.S.A.,2013,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,V",2.75
+Tabal,U.S.A.,2013,Peru,South America,70.0,60-70%,4,"B,S,C,V",3.0
+Tablette (aka Vanillabeans),Japan,2015,Trinidad,North America,77.0,70-80%,4,"B,S,C,L",2.75
+Tablette (aka Vanillabeans),Japan,2015,Colombia,South America,70.0,60-70%,5,"B,S,C,V,L",3.0
+Tablette (aka Vanillabeans),Japan,2015,Papua New Guinea,Oceania,62.0,60-70%,5,"B,S,C,V,L",3.25
+Tablette (aka Vanillabeans),Japan,2015,Vietnam,Asia,60.0,50-60%,5,"B,S,C,V,L",3.25
+Tala,Vietnam,2019,Vietnam,Asia,70.0,60-70%,3,"B,S,C",2.75
+Tala,Vietnam,2019,Vietnam,Asia,75.0,70-80%,3,"B,S,C",3.0
+Tan Ban Skrati,Suriname,2016,Suriname,South America,70.0,60-70%,2,"B,S",3.25
+Taste Artisan,U.S.A.,2019,Venezuela,South America,75.0,70-80%,4,"B,S,C,V",3.0
+Taste Artisan,U.S.A.,2019,Peru,South America,75.0,70-80%,3,"B,S,C",3.25
+Taste Artisan,U.S.A.,2019,Peru,South America,75.0,70-80%,3,"B,S,C",4.0
+Taste Artisan aka Coleman and Davis,U.S.A.,2015,Madagascar,Africa,75.0,70-80%,4,"B,S,C,V",3.0
+Taucherli,Switzerland,2019,Nicaragua,North America,72.0,70-80%,3,"B,S,C",3.0
+Taucherli,Switzerland,2019,Mexico,North America,70.0,60-70%,3,"B,S,C",3.25
+Taylor Made,U.S.A.,2021,Haiti,North America,67.0,60-70%,3,"B,S,C",2.75
+Taza,U.S.A.,2007,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.0
+Taza,U.S.A.,2009,Mexico,North America,75.0,70-80%,3,"B,S,C",2.75
+Taza,U.S.A.,2011,Bolivia,South America,87.0,80-90%,3,"B,S,C",3.25
+Taza,U.S.A.,2014,Belize,North America,68.0,60-70%,3,"B,S,C",3.0
+TCHO,U.S.A.,2008,Ghana,Africa,70.0,60-70%,5,"B,S,C,V,L",2.5
+TCHO,U.S.A.,2008,Peru,South America,70.0,60-70%,5,"B,S,C,V,L",2.5
+TCHO,U.S.A.,2008,Peru,South America,70.0,60-70%,5,"B,S,C,V,L",2.5
+TCHO,U.S.A.,2008,Madagascar,Africa,70.0,60-70%,5,"B,S,C,V,L",2.75
+TCHO,U.S.A.,2009,Blend,Other,60.0,50-60%,5,"B,S,C,V,L",2.75
+TCHO,U.S.A.,2009,Blend,Other,68.0,60-70%,5,"B,S,C,V,L",3.0
+TCHO,U.S.A.,2016,Blend,Other,62.0,60-70%,5,"B,S,C,V,L",2.0
+Tejas,U.S.A.,2012,Peru,South America,70.0,60-70%,4,"B,S,C,V",2.0
+Tejas,U.S.A.,2012,Madagascar,Africa,70.0,60-70%,4,"B,S,C,V",2.75
+Tejas,U.S.A.,2012,Bolivia,South America,70.0,60-70%,3,"B,S,C",2.75
+Tejas,U.S.A.,2012,Brazil,South America,70.0,60-70%,3,"B,S,C",2.75
+Tejas,U.S.A.,2012,Blend,Other,70.0,60-70%,4,"B,S,C,V",3.0
+Tejas,U.S.A.,2012,Papua New Guinea,Oceania,70.0,60-70%,4,"B,S,C,V",3.0
+Tejas,U.S.A.,2012,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.0
+Tejas,U.S.A.,2012,Venezuela,South America,80.0,70-80%,4,"B,S,C,V",3.0
+Tejas,U.S.A.,2012,Ecuador,South America,70.0,60-70%,4,"B,S,C,V",3.25
+Tejas,U.S.A.,2012,Ecuador,South America,70.0,60-70%,3,"B,S,C",3.25
+Tejas,U.S.A.,2012,Mexico,North America,70.0,60-70%,3,"B,S,C",3.25
+Tejas,U.S.A.,2012,Bolivia,South America,67.0,60-70%,3,"B,S,C",3.25
+Tejas,U.S.A.,2012,Dominican Republic,North America,70.0,60-70%,4,"B,S,C,V",3.5
+Tejas,U.S.A.,2012,Brazil,South America,70.0,60-70%,3,"B,S,C",3.5
+Terroir,U.S.A.,2014,Ecuador,South America,77.0,70-80%,2,"B,S",3.25
+Terroir,U.S.A.,2014,Madagascar,Africa,67.0,60-70%,2,"B,S",3.75
+Terroir,U.S.A.,2014,Uganda,Africa,73.0,70-80%,2,"B,S",3.75
+Terroir,U.S.A.,2015,Peru,South America,70.0,60-70%,2,"B,S",2.75
+Terroir,U.S.A.,2015,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Terroir,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Terroir,U.S.A.,2015,Belize,North America,70.0,60-70%,2,"B,S",3.75
+Terroir,U.S.A.,2015,Madagascar,Africa,70.0,60-70%,2,"B,S",3.75
+Terroir,U.S.A.,2015,Guatemala,North America,70.0,60-70%,3,"B,S,C",3.75
+Terroir,U.S.A.,2019,Haiti,North America,72.0,70-80%,3,"B,S,C",2.75
+Terroir,U.S.A.,2019,Belize,North America,77.0,70-80%,3,"B,S,C",3.0
+Terroir,U.S.A.,2019,Bolivia,South America,77.0,70-80%,3,"B,S,C",3.25
+The Barn,Sweden,2015,Peru,South America,70.0,60-70%,3,"B,S,C",3.0
+Theo,U.S.A.,2007,Venezuela,South America,91.0,90-100%,2,"B,S",2.0
+Theo,U.S.A.,2007,Ivory Coast,Africa,75.0,70-80%,4,"B,S,C,V",2.5
+Theo,U.S.A.,2007,Ghana,Africa,84.0,80-90%,4,"B,S,C,V",3.0
+Theo,U.S.A.,2007,Blend,Other,75.0,70-80%,3,"B,S,C",3.0
+Theo,U.S.A.,2007,Madagascar,Africa,65.0,60-70%,3,"B,S,C",3.5
+Theo,U.S.A.,2012,Congo,Africa,65.0,60-70%,4,"B,S,C,V",3.25
+Theobroma,Japan,2015,Peru,South America,70.0,60-70%,2,"B,S",3.25
+Thistle & Rose aka Aggie USU,U.S.A.,2019,Ecuador,South America,70.0,60-70%,2,"B,S",3.5
+Tibito,Colombia,2018,Colombia,South America,70.0,60-70%,3,"B,S,L",3.0
+Tibito,Colombia,2018,Colombia,South America,70.0,60-70%,3,"B,S,L",3.25
+Timo A. Meyer,Germany,2016,Belize,North America,72.0,70-80%,3,"B,S,C",3.75
+Tiny House,U.S.A.,2019,Tanzania,Africa,71.0,70-80%,2,"B,S",2.75
+To'ak,Ecuador,2020,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.25
+To'ak (Ecuatoriana),Ecuador,2014,Ecuador,South America,81.0,80-90%,2,"B,S",3.25
+Tocoti,U.S.A.,2011,Venezuela,South America,72.0,70-80%,3,"B,S,C",2.75
+Tocoti,U.S.A.,2011,Dominican Republic,North America,74.0,70-80%,3,"B,S,C",3.0
+Tocoti,U.S.A.,2012,Bolivia,South America,77.0,70-80%,3,"B,S,C",3.0
+Tosier,U.K.,2018,Haiti,North America,70.0,60-70%,3,"B,S,C",2.75
+Tosier,U.K.,2018,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.0
+Tosier,U.K.,2018,Belize,North America,70.0,60-70%,3,"B,S,C",3.5
+Tosier,U.K.,2019,Colombia,South America,70.0,60-70%,3,"B,S,C",2.75
+Tree to Bar,South Korea,2019,Ecuador,South America,70.0,60-70%,2,"B,S",3.5
+Treehouse,U.S.A.,2014,Dominican Republic,North America,72.0,70-80%,2,"B,S",3.0
+Treehouse aka Indaphoria,U.S.A.,2012,Dominican Republic,North America,70.0,60-70%,3,"B,S*,C",2.75
+Treehouse aka Indaphoria,U.S.A.,2012,Dominican Republic,North America,70.0,60-70%,3,"B,S*,C",3.25
+Triangle Roasters,U.S.A.,2020,Nicaragua,North America,70.0,60-70%,2,"B,S",3.25
+Triangle Roasters,U.S.A.,2020,Haiti,North America,70.0,60-70%,2,"B,S",3.25
+Triangle Roasters,U.S.A.,2020,Guatemala,North America,70.0,60-70%,2,"B,S",3.75
+Triangle Roasters,U.S.A.,2021,Philippines,Asia,70.0,60-70%,2,"B,S",3.25
+Tribar,Peru,2018,Peru,South America,73.0,70-80%,3,"B,S,C",3.0
+Tribar,Peru,2018,Peru,South America,70.0,60-70%,3,"B,S,C",3.5
+Tribe,Canada,2020,Vietnam,Asia,70.0,60-70%,2,"B,S",2.75
+Tribe,Canada,2020,Honduras,North America,70.0,60-70%,2,"B,S",2.75
+Tribe,Canada,2020,Peru,South America,70.0,60-70%,2,"B,S",3.0
+twenty-four blackbirds,U.S.A.,2011,Dominican Republic,North America,73.0,70-80%,2,"B,S",2.75
+twenty-four blackbirds,U.S.A.,2013,Bolivia,South America,75.0,70-80%,2,"B,S",2.5
+twenty-four blackbirds,U.S.A.,2013,Dominican Republic,North America,68.0,60-70%,2,"B,S",3.25
+twenty-four blackbirds,U.S.A.,2014,Madagascar,Africa,75.0,70-80%,2,"B,S",3.5
+twenty-four blackbirds,U.S.A.,2015,Dominican Republic,North America,75.0,70-80%,2,"B,S",2.75
+twenty-four blackbirds,U.S.A.,2015,Ecuador,South America,75.0,70-80%,2,"B,S",3.5
+twenty-four blackbirds,U.S.A.,2017,Tanzania,Africa,75.0,70-80%,2,"B,S",3.25
+Two Ravens,U.S.A.,2016,Peru,South America,60.0,50-60%,3,"B,S,C",3.0
+Uncouth,Canada,2017,Dominican Republic,North America,75.0,70-80%,2,"B,S",2.75
+Uncouth,Canada,2017,Tanzania,Africa,75.0,70-80%,2,"B,S",3.0
+Uncouth,Canada,2017,Guatemala,North America,75.0,70-80%,2,"B,S",3.25
+Undone,U.S.A.,2014,Nicaragua,North America,74.0,70-80%,2,"B,S",2.75
+Undone,U.S.A.,2014,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.0
+Upchurch,U.S.A.,2016,Madagascar,Africa,72.0,70-80%,2,"B,S",3.0
+Upchurch,U.S.A.,2016,Tanzania,Africa,72.0,70-80%,2,"B,S",3.25
+Urzi,Italy,2014,Venezuela,South America,65.0,60-70%,4,"B,S,C,V",3.25
+Utopick,Spain,2017,Colombia,South America,70.0,60-70%,3,"B,S,C",3.75
+Utopick,Spain,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Vaka,Canada,2020,Belize,North America,74.0,70-80%,3,"B,S,C",3.5
+Valrhona,France,2006,Trinidad,North America,64.0,60-70%,5,"B,S,C,V,L",2.5
+Valrhona,France,2006,Blend,Other,66.0,60-70%,5,"B,S,C,V,L",3.0
+Valrhona,France,2006,Venezuela,South America,64.0,60-70%,5,"B,S,C,V,L",3.0
+Valrhona,France,2006,Madagascar,Africa,64.0,60-70%,5,"B,S,C,V,L",3.5
+Valrhona,France,2006,Blend,Other,70.0,60-70%,5,"B,S,C,V,L",3.75
+Valrhona,France,2007,Blend,Other,85.0,80-90%,5,"B,S,C,V,L",1.5
+Valrhona,France,2007,Blend,Other,85.0,80-90%,5,"B,S,C,V,L",2.5
+Valrhona,France,2007,Blend,Other,71.0,70-80%,5,"B,S,C,V,L",2.75
+Valrhona,France,2007,Blend,Other,72.0,70-80%,5,"B,S,C,V,L",3.0
+Valrhona,France,2007,Venezuela,South America,64.0,60-70%,5,"B,S,C,V,L",3.25
+Valrhona,France,2007,Venezuela,South America,65.0,60-70%,5,"B,S,C,V,L",3.75
+Valrhona,France,2007,Madagascar,Africa,64.0,60-70%,5,"B,S,C,V,L",4.0
+Valrhona,France,2009,Ghana,Africa,68.0,60-70%,5,"B,S,C,V,L",3.5
+Valrhona,France,2009,Dominican Republic,North America,64.0,60-70%,5,"B,S,C,V,L",3.75
+Valrhona,France,2009,Ecuador,South America,66.0,60-70%,5,"B,S,C,V,L",3.75
+Valrhona,France,2011,Blend,Other,56.0,50-60%,5,"B,S,C,V,L",3.25
+Valrhona,France,2011,Venezuela,South America,64.0,60-70%,5,"B,S,C,V,L",4.0
+Valrhona,France,2012,Venezuela,South America,69.0,60-70%,5,"B,S,C,V,L",4.0
+Valrhona,France,2013,Blend,Other,70.0,60-70%,5,"B,S,C,V,L",3.5
+Valrhona,France,2013,Dominican Republic,North America,64.0,60-70%,5,"B,S,C,V,L",3.5
+Valrhona,France,2015,Peru,South America,63.0,60-70%,5,"B,S,C,V,L",4.0
+Valrhona,France,2017,Blend,Other,60.0,50-60%,3,"B,S,C",3.25
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,Africa,72.0,70-80%,3,"B,S,C",2.75
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,Africa,76.0,70-80%,4,"B,S,C,V",2.75
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,Africa,80.0,70-80%,4,"B,S,C,V",2.75
+Vicuna,U.S.A.,2015,Bolivia,South America,70.0,60-70%,2,"B,S",3.25
+Vicuna,U.S.A.,2015,Bolivia,South America,70.0,60-70%,2,"B,S",3.25
+Vicuna,U.S.A.,2018,Bolivia,South America,70.0,60-70%,2,"B,S",2.75
+Vicuna,U.S.A.,2018,Guatemala,North America,70.0,60-70%,2,"B,S",3.0
+Vicuna,U.S.A.,2018,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.25
+Videri,U.S.A.,2012,Blend,Other,70.0,60-70%,3,"B,S,C",3.25
+Videri,U.S.A.,2013,Blend,Other,90.0,80-90%,3,"B,S,C",3.75
+Videri,U.S.A.,2014,Dominican Republic,North America,90.0,80-90%,3,"B,S,C",3.25
+Videri,U.S.A.,2014,Trinidad,North America,75.0,70-80%,3,"B,S,C",3.5
+Videri,U.S.A.,2014,Ecuador,South America,75.0,70-80%,3,"B,S,C",3.5
+Videri,U.S.A.,2021,Guatemala,North America,75.0,70-80%,2,"B,S",2.75
+Videri,U.S.A.,2021,Dominican Republic,North America,75.0,70-80%,2,"B,S",3.0
+Videri,U.S.A.,2021,Blend,Other,70.0,60-70%,3,"B,S,C",3.5
+Videri,U.S.A.,2021,Ecuador,South America,75.0,70-80%,2,"B,S",3.5
+Vietcacao (A. Morin),France,2012,Vietnam,Asia,70.0,60-70%,4,"B,S,C,L",3.5
+Vintage Plantations,U.S.A.,2014,Peru,South America,75.0,70-80%,3,"B,S,C",3.0
+Vintage Plantations (Tulicorp),U.S.A.,2007,Ecuador,South America,65.0,60-70%,3,"B,S,C",3.0
+Violet Sky,U.S.A.,2015,Madagascar,Africa,77.0,70-80%,2,"B,S",2.75
+Violet Sky,U.S.A.,2015,Guatemala,North America,77.0,70-80%,2,"B,S",2.75
+Violet Sky,U.S.A.,2015,Belize,North America,77.0,70-80%,2,"B,S",3.0
+Violet Sky,U.S.A.,2015,Venezuela,South America,77.0,70-80%,2,"B,S",3.0
+Violet Sky,U.S.A.,2015,Peru,South America,77.0,70-80%,2,"B,S",3.25
+Vivra,U.S.A.,2016,Peru,South America,70.0,60-70%,5,"B,S,C,V,L",2.5
+Vivra,U.S.A.,2016,Venezuela,South America,70.0,60-70%,5,"B,S,C,V,L",2.5
+Vivra,U.S.A.,2016,Dominican Republic,North America,70.0,60-70%,5,"B,S,C,V,L",3.0
+Vivra,U.S.A.,2018,Bolivia,South America,70.0,60-70%,5,"B,S,C,V,L",2.5
+Vivra,U.S.A.,2018,Haiti,North America,70.0,60-70%,5,"B,S,C,V,L",2.5
+Wellington Chocolate Factory,New Zealand,2016,Dominican Republic,North America,70.0,60-70%,2,"B,S*",3.5
+Wellington Chocolate Factory,New Zealand,2016,Peru,South America,70.0,60-70%,2,"B,S*",3.5
+Wellington Chocolate Factory,New Zealand,2017,Samoa,Oceania,77.0,70-80%,2,"B,S",3.0
+White Label aka Mutari,U.S.A.,2018,Tanzania,Africa,68.0,60-70%,3,"B,S,C",3.0
+White Label aka Mutari,U.S.A.,2018,Bolivia,South America,72.0,70-80%,3,"B,S,C",3.0
+White Label aka Mutari,U.S.A.,2021,Philippines,Asia,74.0,70-80%,3,"B,S,C",3.5
+White Label aka Mutari,U.S.A.,2021,Uganda,Africa,72.0,70-80%,3,"B,S,C",3.5
+White Label aka Mutari,U.S.A.,2021,Honduras,North America,74.0,70-80%,2,"B,S",3.75
+White Label aka Mutari,U.S.A.,2021,Trinidad,North America,72.0,70-80%,3,"B,S,C",3.75
+Wilkie's Organic,Ireland,2013,Peru,South America,75.0,70-80%,3,"B,S,C",2.5
+Wilkie's Organic,Ireland,2013,Peru,South America,89.0,80-90%,3,"B,S,C",2.75
+Wilkie's Organic,Ireland,2013,Peru,South America,75.0,70-80%,3,"B,S,C",2.75
+Wilkie's Organic,Ireland,2013,Peru,South America,75.0,70-80%,3,"B,S,C",3.25
+Willie's Cacao,U.K.,2009,Peru,South America,70.0,60-70%,3,"B,S,C",3.0
+Willie's Cacao,U.K.,2009,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.25
+Willie's Cacao,U.K.,2010,Madagascar,Africa,71.0,70-80%,3,"B,S,C",3.0
+Willie's Cacao,U.K.,2010,Venezuela,South America,72.0,70-80%,3,"B,S,C",3.5
+Willie's Cacao,U.K.,2010,Indonesia,Asia,69.0,60-70%,3,"B,S,C",3.75
+Willie's Cacao,U.K.,2014,Colombia,South America,88.0,80-90%,3,"B,S,C",3.0
+Willie's Cacao,U.K.,2016,Colombia,South America,70.0,60-70%,3,"B,S,C",4.0
+Wm,U.S.A.,2016,Venezuela,South America,74.0,70-80%,3,"B,S,C",3.0
+Wm,U.S.A.,2016,Bolivia,South America,76.0,70-80%,3,"B,S,C",3.5
+Wm,U.S.A.,2016,Ghana,Africa,75.0,70-80%,3,"B,S,C",3.75
+Wm,U.S.A.,2019,Belize,North America,68.0,60-70%,3,"B,S,C",3.25
+Wm,U.S.A.,2019,Venezuela,South America,70.0,60-70%,3,"B,S,C",3.5
+Wm,U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Woodblock,U.S.A.,2011,Dominican Republic,North America,70.0,60-70%,2,"B,S",3.5
+Woodblock,U.S.A.,2011,Venezuela,South America,70.0,60-70%,2,"B,S",4.0
+Woodblock,U.S.A.,2012,Ecuador,South America,70.0,60-70%,2,"B,S",2.5
+Woodblock,U.S.A.,2012,Costa Rica,North America,70.0,60-70%,2,"B,S",3.0
+Woodblock,U.S.A.,2012,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.25
+Woodblock,U.S.A.,2013,Ecuador,South America,70.0,60-70%,2,"B,S",3.25
+Woodblock,U.S.A.,2013,Trinidad,North America,70.0,60-70%,2,"B,S",3.5
+Woodblock,U.S.A.,2014,Peru,South America,70.0,60-70%,2,"B,S",3.0
+Woodblock,U.S.A.,2021,Tanzania,Africa,70.0,60-70%,2,"B,S",3.0
+Xocolat,Dominican Republic,2013,Dominican Republic,North America,66.0,60-70%,5,"B,S,C,L,Sa",3.0
+Xocolatisimo,El Salvador,2019,El Salvador,North America,65.0,60-70%,4,"B,S,C,L",2.75
+Xocolatisimo,El Salvador,2019,El Salvador,North America,75.0,70-80%,4,"B,S,C,L",3.0
+Xocolatisimo,El Salvador,2019,El Salvador,North America,70.0,60-70%,4,"B,S,C,L",3.25
+Xocolatl,U.S.A.,2020,Tanzania,Africa,73.0,70-80%,2,"B,S",3.25
+Xocolatl,U.S.A.,2020,Peru,South America,70.0,60-70%,2,"B,S",3.5
+Xocolatl,U.S.A.,2020,Nicaragua,North America,72.0,70-80%,2,"B,S",3.5
+Xocolla,U.S.A.,2017,Dominican Republic,North America,70.0,60-70%,2,"B,S",2.5
+Xocolla,U.S.A.,2017,Madagascar,Africa,70.0,60-70%,2,"B,S",2.75
+Zac Squared,U.S.A.,2021,Trinidad,North America,70.0,60-70%,3,"B,S,C",3.25
+Zac Squared,U.S.A.,2021,Vietnam,Asia,70.0,60-70%,3,"B,S,C",3.5
+Zac Squared,U.S.A.,2021,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.5
+Zacharias,U.S.A.,2021,Bolivia,South America,70.0,60-70%,3,"B,S,C",3.0
+Zak's,U.S.A.,2015,Papua New Guinea,Oceania,70.0,60-70%,3,"B,S,C",3.0
+Zak's,U.S.A.,2015,Blend,Other,60.0,50-60%,3,"B,S,C",3.0
+Zak's,U.S.A.,2015,Dominican Republic,North America,70.0,60-70%,3,"B,S,C",3.25
+Zak's,U.S.A.,2015,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.25
+Zak's,U.S.A.,2015,Peru,South America,70.0,60-70%,3,"B,S,C",3.25
+Zak's,U.S.A.,2015,Belize,North America,70.0,60-70%,3,"B,S,C",3.5
+Zart Pralinen,Austria,2016,Ecuador,South America,70.0,60-70%,3,"B,S,C",2.75
+Zart Pralinen,Austria,2016,Trinidad,North America,85.0,80-90%,3,"B,S,C",2.75
+Zart Pralinen,Austria,2016,Tanzania,Africa,85.0,80-90%,3,"B,S,C",3.0
+Zart Pralinen,Austria,2016,Madagascar,Africa,70.0,60-70%,3,"B,S,C",3.5
+Zart Pralinen,Austria,2016,Tanzania,Africa,70.0,60-70%,3,"B,S,C",3.5
+Zart Pralinen,Austria,2016,Trinidad,North America,78.0,70-80%,2,"B,S",3.5
+Zokoko,Australia,2011,Bolivia,South America,68.0,60-70%,4,"B,S,C,L",3.5
+Zokoko,Australia,2011,Papua New Guinea,Oceania,66.0,60-70%,4,"B,S,C,L",3.5
+Zokoko,Australia,2011,Bolivia,South America,72.0,70-80%,4,"B,S,C,L",3.75
+Zokoko,Australia,2016,Blend,Other,65.0,60-70%,5,"B,S,C,V,L",3.25
+Zokoko,Australia,2016,Solomon Islands,Oceania,78.0,70-80%,4,"B,S,C,L",3.75
+Zoto (Chocolatoa),Belgium,2018,Nicaragua,North America,72.0,70-80%,3,"B,S,C",3.0
+Zoto (Chocolatoa),Belgium,2018,Dr Congo,Africa,68.0,60-70%,3,"B,S*,C",3.0
+Zoto (Chocolatoa),Belgium,2018,Nicaragua,North America,75.0,70-80%,3,"B,S,C",3.25
+Zoto (Chocolatoa),Belgium,2018,Nicaragua,North America,70.0,60-70%,3,"B,S,C",3.75
+Zotter,Austria,2010,Brazil,South America,65.0,60-70%,4,"B,S*,C,Sa",3.0
+Zotter,Austria,2011,Congo,Africa,65.0,60-70%,4,"B,S*,C,Sa",3.0
+Zotter,Austria,2011,India,Asia,62.0,60-70%,4,"B,S*,C,Sa",3.25
+Zotter,Austria,2011,India,Asia,65.0,60-70%,4,"B,S*,C,Sa",3.5
+Zotter,Austria,2011,Peru,South America,70.0,60-70%,4,"B,S*,C,Sa",3.75
+Zotter,Austria,2012,Peru,South America,70.0,60-70%,4,"B,S*,C,Sa",3.0
+Zotter,Austria,2012,Ecuador,South America,75.0,70-80%,4,"B,S*,C,Sa",3.0
+Zotter,Austria,2012,Papua New Guinea,Oceania,75.0,70-80%,4,"B,S*,C,Sa",3.0
+Zotter,Austria,2012,Bolivia,South America,90.0,80-90%,4,"B,S*,C,Sa",3.25
+Zotter,Austria,2012,Congo,Africa,68.0,60-70%,4,"B,S*,C,Sa",3.25
+Zotter,Austria,2012,Panama,North America,72.0,70-80%,4,"B,S*,C,Sa",3.5
+Zotter,Austria,2012,Blend,Other,65.0,60-70%,4,"B,S*,C,Sa",3.5
+Zotter,Austria,2012,Peru,South America,70.0,60-70%,4,"B,S*,C,Sa",3.5
+Zotter,Austria,2012,Blend,Other,58.0,50-60%,4,"B,S*,C,Sa",3.5
+Zotter,Austria,2012,Dominican Republic,North America,62.0,60-70%,4,"B,S*,C,Sa",3.75
+Zotter,Austria,2012,Dominican Republic,North America,70.0,60-70%,4,"B,S*,C,Sa",3.75
+Zotter,Austria,2014,Blend,Other,80.0,70-80%,4,"B,S*,C,Sa",2.75
+Zotter,Austria,2017,Colombia,South America,75.0,70-80%,3,"B,S,C",3.75
+Zotter,Austria,2018,Blend,Other,75.0,70-80%,3,"B,S,C",3.0
+Zotter,Austria,2018,Congo,Africa,70.0,60-70%,3,"B,S,C",3.25
+Zotter,Austria,2018,Belize,North America,72.0,70-80%,3,"B,S,C",3.5
