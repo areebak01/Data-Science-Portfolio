@@ -35,3 +35,13 @@
 4. Open [http://localhost:8000](http://localhost:8000) in your browser.
 
 The dashboard loads the CSV files from the project folder, so keep them alongside `index.html`, `script.js` and `style.css`.
+
+## Dataset
+
+This project uses the [Chocolate Ratings dataset](https://www.kaggle.com/datasets/andrewmvd/chocolate-ratings) available on Kaggle.
+
+The original data was cleaned and transformed to produce `cleaned_ratings.csv` and `exploded_ratings.csv`, which are used by the interactive dashboard.
+
+## Data Preparation
+
+The data cleaning and transformation steps are documented in [DataPreprocessing.ipynb](DataPreprocessing.ipynb).
