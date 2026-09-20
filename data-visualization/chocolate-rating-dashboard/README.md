@@ -18,9 +18,9 @@
 
 ## Tools and Technologies
 
-- **HTML and CSS** — dashboard structure and styling
-- **JavaScript** — interactive visualisations and filtering
-- **CSV** — prepared chocolate rating datasets
+- **HTML and CSS** - dashboard structure and styling
+- **JavaScript** - interactive visualisations and filtering
+- **CSV** - prepared chocolate rating datasets
 
 ## Run Locally
 
