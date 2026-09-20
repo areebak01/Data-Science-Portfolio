@@ -44,4 +44,4 @@ The original data was cleaned and transformed to produce `cleaned_ratings.csv` a
 
 ## Data Preparation
 
-The data cleaning and transformation steps are documented in [DataPreprocessing.ipynb](DataPreprocessing.ipynb).
+The data cleaning and transformation steps are documented in [data_preprocessing.ipynb](data_preprocessing.ipynb).
