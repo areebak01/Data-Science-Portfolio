@@ -5,21 +5,21 @@ A collection of projects in data analysis, data visualization and machine learni
 
 ## Projects
 
-#### [Data Analysis](data-analysis/)
+### [Data Analysis](data-analysis/)
 
-**[Respiratory Sound Analysis](data-analysis/respiratory-sound-analysis/)**  
+[Respiratory Sound Analysis](data-analysis/respiratory-sound-analysis/)
 Exploratory analysis of respiratory sound data, including patient demographics, diagnoses and abnormal breathing sounds.
 ---
-#### [Data Visualization](data-visualization/)
+### [Data Visualization](data-visualization/)
 
 **[Chocolate Rating Dashboard](data-visualization/chocolate-rating-dashboard/)**  
 An interactive dashboard exploring how cocoa origin, ingredients, cocoa percentage and flavour characteristics relate to chocolate ratings.
 
 [View Live Dashboard](https://areebak01.github.io/Data-Science-Portfolio/data-visualization/chocolate-rating-dashboard/)
 ---
-#### [Machine Learning](machine-learning/)
+### [Machine Learning](machine-learning/)
 
-**[Daily Active Customer Forecasting](machine-learning/daily-active-customer-forecasting/)**  
+[Daily Active Customer Forecasting](machine-learning/daily-active-customer-forecasting/) 
 Forecasting daily active banking customers using XGBoost and statistical baselines, with time-series feature engineering and chronological model evaluation.
 ---
 ## Tools and Technologies
