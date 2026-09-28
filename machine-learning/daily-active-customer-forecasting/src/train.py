@@ -1,8 +1,10 @@
+import mlflow
+import mlflow.xgboost
 import joblib
 import pandas as pd
-from sklearn.metrics import mean_absolute_error
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 from xgboost import XGBRegressor
-
+from mlflow.models import infer_signature
 from features import create_forecasting_features
 
 # Configuration
@@ -31,6 +33,7 @@ def load_data():
 # Train model
 def train_model():
     """Train and save the final XGBoost forecasting model."""
+    mlflow.set_experiment("daily-active-customer-forecasting")
 
     # Load prepared daily data
     df = load_data()
@@ -51,8 +54,10 @@ def train_model():
     X_test = X.loc[test_mask]
     y_test = y.loc[test_mask]
 
-    # Hyperparameters selected during time-series cross-validation
-    model = XGBRegressor(
+    with mlflow.start_run():
+
+        # Hyperparameters selected during time-series cross-validation
+        model = XGBRegressor(
         objective="reg:squarederror",
         n_estimators=100,
         max_depth=1,
@@ -63,28 +68,70 @@ def train_model():
         reg_lambda=10.0,
         random_state=RANDOM_STATE,
         n_jobs=-1,
-    )
+        )
 
-    # Train final model
-    model.fit(X_train, y_train)
+        # Train final model
+        model.fit(X_train, y_train)
 
-    # Evaluate on untouched test period
-    predictions = model.predict(X_test)
+        # Evaluate on untouched test period
+        predictions = model.predict(X_test)
 
-    mae = mean_absolute_error(y_test, predictions)
+        # Create model input/output signature
+        signature = infer_signature(
+        X_test,
+        predictions,
+        )
 
-    print(f"Training observations: {len(X_train)}")
-    print(f"Test observations: {len(X_test)}")
-    print(f"Test MAE: {mae:.2f}")
+        # Store a small example of valid model input
+        input_example = X_test.head(5)
 
-    # Create model directory
-    MODEL_DIR.mkdir(parents=True, exist_ok=True)
+        mae = mean_absolute_error(y_test, predictions)
 
-    # Save trained model
-    joblib.dump(model, MODEL_PATH)
+        rmse = mean_squared_error(
+        y_test,
+        predictions
+        ) ** 0.5
 
-    print(f"Model saved to: {MODEL_PATH}")
+        # Log model hyperparameters
+        mlflow.log_params(
+        {
+            "n_estimators": 100,
+            "max_depth": 1,
+            "learning_rate": 0.03,
+            "min_child_weight": 5,
+            "subsample": 0.8,
+            "colsample_bytree": 0.8,
+            "reg_lambda": 10.0,
+        }
+        )
 
+        # Log evaluation metrics
+        mlflow.log_metrics(
+        {
+            "mae": mae,
+            "rmse": rmse,
+        }
+        )
+
+        # Log the trained model as an MLflow artifact
+        mlflow.xgboost.log_model(
+            model,
+            name="model",
+            signature=signature,
+            input_example=input_example,
+        )
+
+        print(f"Training observations: {len(X_train)}")
+        print(f"Test observations: {len(X_test)}")
+        print(f"Test MAE: {mae:.2f}")
+        print(f"Test RMSE: {rmse:.2f}")
+
+        # Save model locally for our existing inference pipeline
+        MODEL_DIR.mkdir(parents=True, exist_ok=True)
+
+        joblib.dump(model, MODEL_PATH)
+
+        print(f"Model saved to: {MODEL_PATH}")
 
 # Run training pipeline
 if __name__ == "__main__":
