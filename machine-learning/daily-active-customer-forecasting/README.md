@@ -147,20 +147,13 @@ The included monitoring sample currently contains two simulated production forec
 
 ### Data Drift Monitoring
 
-Evidently is used to compare model feature distributions between the training reference period and a later simulated production period.
+Evidently is used to compare model feature distributions between the training reference period and the later simulated production period.
 
-The current drift analysis monitors **13 features**, with drift detected in **2 features (15.4%)**:
+Feature-level drift was detected in **2 of 13 features (15.4%)**: `month` and `dac_rolling_mean_14`. This remained below Evidently's 50% dataset-level threshold, so the dataset overall was not classified as drifted.
 
-- `month`
-- `dac_rolling_mean_14`
+![Evidently data drift monitoring summary](monitoring/data_drift_summary.png)
 
-The `month` drift is expected because the reference and monitoring periods cover different calendar months. Drift is treated as a signal for investigation rather than an automatic trigger for model replacement.
-
-A generated Evidently HTML report is available in:
-
-```text
-monitoring/data_drift_report.html
-```
+Drift is treated as a monitoring signal for investigation rather than an automatic trigger for model replacement.
 
 ## Automated Testing and CI
 
