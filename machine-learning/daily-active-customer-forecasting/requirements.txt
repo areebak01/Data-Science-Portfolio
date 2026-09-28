@@ -5,3 +5,4 @@ joblib
 pytest
 mlflow
 evidently==0.7.20
+streamlit==1.50.0
