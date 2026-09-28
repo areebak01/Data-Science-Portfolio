@@ -4,3 +4,4 @@ xgboost
 joblib
 pytest
 mlflow
+evidently==0.7.20

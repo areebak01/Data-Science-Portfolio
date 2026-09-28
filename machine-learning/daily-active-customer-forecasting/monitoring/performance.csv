@@ -1,0 +1,3 @@
+as_of_date,forecast_date,predicted_active_customers,actual_active_customers,absolute_error
+2023-11-30,2023-12-01,2682,2671,11
+2023-12-15,2023-12-16,2682,2712,30

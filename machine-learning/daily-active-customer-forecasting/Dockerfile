@@ -10,4 +10,4 @@ COPY src/ ./src/
 COPY data/ ./data/
 COPY models/ ./models/
 
-CMD ["python", "src/predict.py"]
+ENTRYPOINT ["python", "src/batch_inference.py"]

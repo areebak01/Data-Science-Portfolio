@@ -32,3 +32,6 @@ jobs:
 
       - name: Run automated tests
         run: pytest
+
+      - name: Build Docker image
+        run: docker build -t daily-active-customer-forecast .
