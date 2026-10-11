@@ -1,0 +1,28 @@
+
+[
+  {
+    "question": "What was Northstar Retail's revenue in 2025?",
+    "reference_answer": "Northstar Retail generated GBP 12.4 million in revenue in 2025.",
+    "expected_keywords": ["12.4", "million"]
+  },
+  {
+    "question": "How many stores did Northstar Retail operate?",
+    "reference_answer": "Northstar Retail operated 18 stores.",
+    "expected_keywords": ["18", "stores"]
+  },
+  {
+    "question": "What was Northstar Retail's main business?",
+    "reference_answer": "Northstar Retail operated a chain of retail stores.",
+    "expected_keywords": ["retail"]
+  },
+  {
+  "question": "Who was Northstar Retail's CEO in 2025?",
+  "reference_answer": "The document does not contain information about Northstar Retail's CEO.",
+  "expected_keywords": []
+  },
+  {
+  "question": "What was Northstar Retail's net profit margin in 2025?",
+  "reference_answer": "The document does not provide sufficient information to determine Northstar Retail's net profit margin.",
+  "expected_keywords": []
+  } 
+]
