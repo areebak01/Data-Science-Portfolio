@@ -1,0 +1,18 @@
+# Private documents and vector database
+data/
+chroma_db/
+*.pdf
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
