@@ -16,3 +16,6 @@ __pycache__/
 
 # MLflow local tracking
 mlruns/
+
+# Wise remittance dataset
+wise-remittance-analysis/data/*.xlsx
