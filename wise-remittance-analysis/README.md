@@ -1,46 +1,60 @@
 # Wise Remittance Pricing Analysis
 
-### Competitive Pricing Benchmark | UK Outbound Remittances | 2022–2025
+**Python | Pandas | NumPy | Matplotlib | Statistical Analysis**
 
-## Project Overview
+An independent analysis of Wise's historical remittance pricing competitiveness across three UK outbound corridors: **Bangladesh, Pakistan and Nepal (2022–2025)**.
 
-This independent data analytics project investigates Wise's historical remittance pricing competitiveness across three UK outbound corridors: Bangladesh, Pakistan and Nepal.
+Using World Bank data, I compared Wise's transfer costs against matched competitors, identified pricing anomalies and translated the findings into business recommendations.
 
-Using Python, I analysed historical transfer pricing data, compared Wise's costs against matched competitors, identified pricing anomalies and translated the findings into actionable business recommendations.
+📄 **[Executive Report](outputs/reports/Wise_Pricing_Analysis.pdf)** | 💻 **[Python Notebook](notebooks/01_exploratory_analysis.ipynb)** | 📊 **[Dataset Source](https://remittanceprices.worldbank.org/data-download)**
 
-**Objective:** Identify where Wise may face competitive pricing pressure and determine which corridors warrant further investigation.
+---
 
-## Tools & Technologies
+## Key Findings
 
-- **Python:** Pandas, NumPy, Matplotlib
-- **Data Analysis:** Exploratory Data Analysis (EDA), data cleaning and aggregation
-- **Statistical Methods:** Median-based benchmarking, robust z-score anomaly detection and sensitivity analysis
-- **Development:** Jupyter Notebook
+Analysed **98 matched Wise observations**, comparing total transfer costs against the median matched competitor.
 
-## Dataset
+| Corridor | Median Pricing Gap | Wise Costlier in |
+|---|---:|---:|
+| Bangladesh | +1.415 pp | 81.3% |
+| Pakistan | +0.770 pp | 63.6% |
+| Nepal | +0.365 pp | 81.8% |
 
-**Source:** World Bank — Remittance Prices Worldwide (RPW)
+*Pricing gap = Wise total cost − median matched competitor cost, in percentage points (pp). Positive values indicate higher Wise costs in the historical matched sample.*
 
-**Period analysed:** 2022–2025
+### Pricing Gap by Corridor
 
-**Scope:** UK outbound remittances to Bangladesh, Pakistan and Nepal.
-
-The original dataset is excluded from this repository due to its size.
+![Median Pricing Gap](outputs/figures/pricing_gaps_by_corridor.png)
 
 ## Methodology
 
-### 1. Data Preparation
-- Filtered historical remittance pricing observations for UK outbound transfers.
-- Standardised relevant fields and examined data quality.
-- Selected Bangladesh, Pakistan and Nepal for detailed corridor-level analysis.
+- **Data preparation:** Cleaned and filtered World Bank Remittance Prices Worldwide (RPW) data for UK outbound transfers.
+- **Competitor benchmarking:** Matched quotes by destination, quarter, payment method and payout method.
+- **Anomaly detection:** Identified 7 unusual pricing gaps using robust z-scores.
+- **Sensitivity analysis:** Recalculated results excluding anomalies and requiring at least two competitors.
 
-### 2. Competitor Benchmarking
-- Matched Wise observations against competitors using destination, quarter, payment method and payout method.
-- Calculated median competitor transfer costs for each matched group.
-- Defined the pricing gap as:
+## Business Recommendations
 
-  **Pricing Gap = Wise Total Cost (%) − Median Competitor Total Cost (%)**
+1. **Bangladesh:** Prioritise investigation of pricing differences. The median gap falls to +0.940 pp after excluding anomalies; exchange-rate benchmarks and subsidy treatment require validation.
+2. **Pakistan & Nepal:** Monitor recurring pricing differences and investigate payment-method effects.
+3. **Competitive monitoring:** Reassess findings using current, like-for-like quotes before recommending pricing changes.
 
-### 3. Anomaly Detection
-- Applied robust z-score analysis to identify unusually large pricing gaps.
--
+## Dataset & Reproducibility
+
+**Source:** [World Bank — Remittance Prices Worldwide](https://remittanceprices.worldbank.org/data-download)
+
+**Dataset:** `rpw_dataset_2011_2025_q1.xlsx` (excluded from GitHub due to size).
+
+To reproduce:
+
+1. Download the dataset and place it in `data/`.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run `notebooks/01_exploratory_analysis.ipynb`.
+
+*Note: The analysis uses historical observations, not live pricing. Matching improves comparability but does not eliminate all differences between quotes. Bangladesh's FX benchmark methodology requires particular caution.*
+
+---
+
+**Areeba Khaleeq** | MSc Data Science & Analytics, Cardiff University
+
+*Independent portfolio project; not affiliated with Wise.*
